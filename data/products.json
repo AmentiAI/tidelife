@@ -1,0 +1,1229 @@
+[
+  {
+    "name": "Retatrutide",
+    "slug": "retatrutide",
+    "sku": "TL-001",
+    "chemical_name": "Triple GLP-1/GIP/Glucagon receptor agonist",
+    "cas_number": "2381089-83-2",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/retatrutide.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Retatrutide 10mg", "slug": "retatrutide-10mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true },
+      { "name": "Retatrutide 15mg", "slug": "retatrutide-15mg", "price": 199.99, "price_formatted": "$199.99", "in_stock": true },
+      { "name": "Retatrutide 20mg", "slug": "retatrutide-20mg", "price": 249.99, "price_formatted": "$249.99", "in_stock": true },
+      { "name": "Retatrutide 30mg", "slug": "retatrutide-30mg", "price": 329.99, "price_formatted": "$329.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Tirzepatide",
+    "slug": "tirzepatide",
+    "sku": "TL-002",
+    "chemical_name": "Dual GLP-1/GIP receptor agonist",
+    "cas_number": "2023788-19-2",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/tirzepatide.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Tirzepatide 15mg", "slug": "tirzepatide-15mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true },
+      { "name": "Tirzepatide 30mg", "slug": "tirzepatide-30mg", "price": 249.99, "price_formatted": "$249.99", "in_stock": true },
+      { "name": "Tirzepatide 60mg", "slug": "tirzepatide-60mg", "price": 399.99, "price_formatted": "$399.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Semaglutide",
+    "slug": "semaglutide",
+    "sku": "TL-003",
+    "chemical_name": "GLP-1 receptor agonist",
+    "cas_number": "910463-68-2",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/semaglutide.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Semaglutide 3mg",  "slug": "semaglutide-3mg",  "price": 49.99,  "price_formatted": "$49.99",  "in_stock": true },
+      { "name": "Semaglutide 6mg",  "slug": "semaglutide-6mg",  "price": 79.99,  "price_formatted": "$79.99",  "in_stock": true },
+      { "name": "Semaglutide 12mg", "slug": "semaglutide-12mg", "price": 129.99, "price_formatted": "$129.99", "in_stock": true },
+      { "name": "Semaglutide 20mg", "slug": "semaglutide-20mg", "price": 189.99, "price_formatted": "$189.99", "in_stock": true },
+      { "name": "Semaglutide 30mg", "slug": "semaglutide-30mg", "price": 249.99, "price_formatted": "$249.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Cagrilintide",
+    "slug": "cagrilintide",
+    "sku": "TL-004",
+    "chemical_name": "Long-acting amylin analog",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/cagrilintide.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Cagrilintide 5mg",  "slug": "cagrilintide-5mg",  "price": 99.99,  "price_formatted": "$99.99",  "in_stock": true },
+      { "name": "Cagrilintide 10mg", "slug": "cagrilintide-10mg", "price": 169.99, "price_formatted": "$169.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "AOD9604",
+    "slug": "aod9604",
+    "sku": "TL-005",
+    "chemical_name": "Growth hormone fragment (176-191)",
+    "cas_number": "221231-10-3",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/aod9604.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "AOD9604 2mg",  "slug": "aod9604-2mg",  "price": 39.99,  "price_formatted": "$39.99",  "in_stock": true },
+      { "name": "AOD9604 5mg",  "slug": "aod9604-5mg",  "price": 69.99,  "price_formatted": "$69.99",  "in_stock": true },
+      { "name": "AOD9604 10mg", "slug": "aod9604-10mg", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "5-Amino-1MQ",
+    "slug": "5-amino-1mq",
+    "sku": "TL-006",
+    "chemical_name": "NNMT inhibitor (5-amino-1-methylquinolinium)",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/5-amino-1mq.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "5-Amino-1MQ 5mg",  "slug": "5-amino-1mq-5mg",  "price": 19.99, "price_formatted": "$19.99", "in_stock": true },
+      { "name": "5-Amino-1MQ 50mg", "slug": "5-amino-1mq-50mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "5-Amino-1MQ Capsules",
+    "slug": "5-amino-1mq-capsules",
+    "sku": "TL-007",
+    "chemical_name": "NNMT inhibitor — oral capsule formulation",
+    "categories": ["GLP / Weight Loss", "Capsules & Tablets"],
+    "image_url": "/images/products/5-amino-1mq-capsules.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "5-Amino-1MQ 50mg × 60 Capsules", "slug": "5-amino-1mq-capsules-50mg-x-60-capsules", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Mazdutide",
+    "slug": "mazdutide",
+    "sku": "TL-008",
+    "chemical_name": "GLP-1/Glucagon dual receptor agonist",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/mazdutide.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Mazdutide 6mg", "slug": "mazdutide-6mg", "price": 129.99, "price_formatted": "$129.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Survodutide",
+    "slug": "survodutide",
+    "sku": "TL-009",
+    "chemical_name": "GLP-1/Glucagon dual receptor agonist",
+    "categories": ["GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/survodutide.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Survodutide 10mg", "slug": "survodutide-10mg", "price": 159.99, "price_formatted": "$159.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Tesofensine Capsules",
+    "slug": "tesofensine-capsules",
+    "sku": "TL-010",
+    "chemical_name": "Triple monoamine reuptake inhibitor — capsule",
+    "categories": ["GLP / Weight Loss", "Capsules & Tablets"],
+    "image_url": "/images/products/tesofensine-capsules.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Tesofensine 500mcg × 30 Capsules", "slug": "tesofensine-500mcg-x-30-capsules", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Tesofensine Tablets",
+    "slug": "tesofensine-tablets",
+    "sku": "TL-011",
+    "chemical_name": "Triple monoamine reuptake inhibitor — tablet",
+    "categories": ["GLP / Weight Loss", "Capsules & Tablets"],
+    "image_url": "/images/products/tesofensine-tablets.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Tesofensine 500mcg × 30 Tablets", "slug": "tesofensine-500mcg-x-30-tablets", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Cagri-Sema Blend",
+    "slug": "cagri-sema-blend",
+    "sku": "TL-012",
+    "chemical_name": "Cagrilintide 5mg + Semaglutide 10mg pre-mixed",
+    "categories": ["GLP / Weight Loss", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/cagri-sema-blend.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Cagri-Sema Blend 5mg+10mg", "slug": "cagri-sema-blend-5mg-cagrilintide-5mg-sema-10mg", "price": 179.99, "price_formatted": "$179.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Cagri-Reta Blend",
+    "slug": "cagri-reta",
+    "sku": "TL-013",
+    "chemical_name": "Cagrilintide + Retatrutide pre-mixed blend",
+    "categories": ["GLP / Weight Loss", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/cagri-reta.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Cagri-Reta 5mg",  "slug": "cagri-reta-5mg",  "price": 129.99, "price_formatted": "$129.99", "in_stock": true },
+      { "name": "Cagri-Reta 10mg", "slug": "cagri-reta-10mg", "price": 189.99, "price_formatted": "$189.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Reta-Cagri Blend",
+    "slug": "reta-cagri",
+    "sku": "TL-014",
+    "chemical_name": "Retatrutide 5mg + Cagrilintide 5mg pre-mixed",
+    "categories": ["GLP / Weight Loss", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/reta-cagri.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Reta-Cagri 5mg+5mg", "slug": "reta-cagri-5mg-5mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "BPC-157",
+    "slug": "bpc-157",
+    "sku": "TL-015",
+    "chemical_name": "Body Protection Compound-157 pentadecapeptide",
+    "cas_number": "137525-51-0",
+    "categories": ["Recovery & Healing", "Lyophilized Powder"],
+    "image_url": "/images/products/bpc-157.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "BPC-157 10mg", "slug": "bpc-157-10mg", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "BPC-157 Capsules",
+    "slug": "bpc-157-capsules",
+    "sku": "TL-016",
+    "chemical_name": "Body Protection Compound-157 — oral capsule",
+    "cas_number": "137525-51-0",
+    "categories": ["Recovery & Healing", "Capsules & Tablets"],
+    "image_url": "/images/products/bpc-157-capsules.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "BPC-157 500mcg × 60 Capsules", "slug": "bpc-157-capsules-500mcg-x-60-capsules", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "TB-500",
+    "slug": "tb-500",
+    "sku": "TL-017",
+    "chemical_name": "Thymosin Beta-4 fragment (2-43)",
+    "cas_number": "107761-42-2",
+    "categories": ["Recovery & Healing", "Lyophilized Powder"],
+    "image_url": "/images/products/tb-500.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "TB-500 10mg", "slug": "tb-500-thymosin-beta-4-10mg", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "BPC-157 + TB-500 Blend",
+    "slug": "bpc-157-tb-500-blend",
+    "sku": "TL-018",
+    "chemical_name": "BPC-157 + Thymosin Beta-4 recovery blend",
+    "categories": ["Recovery & Healing", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/bpc-157-tb-500-blend.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "BPC-157 5mg + TB-500 5mg",   "slug": "bpc-157-tb-500-blend-bpc-157-5mg-tb-500-5mg",   "price": 59.99, "price_formatted": "$59.99", "in_stock": true },
+      { "name": "BPC-157 10mg + TB-500 10mg",  "slug": "bpc-157-tb-500-blend-bpc-157-10mg-tb-500-10mg", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "PEG-MGF",
+    "slug": "peg-mgf",
+    "sku": "TL-019",
+    "chemical_name": "Pegylated mechano growth factor",
+    "categories": ["Recovery & Healing", "Lyophilized Powder"],
+    "image_url": "/images/products/peg-mgf.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "PEG-MGF 2mg", "slug": "peg-mgf-2mg", "price": 69.99, "price_formatted": "$69.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Abaloparatide",
+    "slug": "abaloparatide",
+    "sku": "TL-020",
+    "chemical_name": "PTHrP-derived bone anabolic peptide",
+    "categories": ["Recovery & Healing", "Lyophilized Powder"],
+    "image_url": "/images/products/abaloparatide.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Abaloparatide 3mg", "slug": "abaloparatide-3mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "ACE-031",
+    "slug": "ace-031",
+    "sku": "TL-021",
+    "chemical_name": "Activin receptor type IIB ligand trap",
+    "categories": ["Recovery & Healing", "Lyophilized Powder"],
+    "image_url": "/images/products/ace-031.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "ACE-031 1mg", "slug": "ace-031-1mg", "price": 199.99, "price_formatted": "$199.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "P21",
+    "slug": "p21",
+    "sku": "TL-022",
+    "chemical_name": "CNTF-derived neurotrophin peptide",
+    "categories": ["Recovery & Healing", "Nootropics & Cognitive", "Lyophilized Powder"],
+    "image_url": "/images/products/p21.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "P21 10mg", "slug": "p21-10mg", "price": 89.99, "price_formatted": "$89.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "CJC-1295 No DAC",
+    "slug": "cjc-1295-no-dac",
+    "sku": "TL-023",
+    "chemical_name": "Modified GHRH analog (CJC-1295 without Drug Affinity Complex)",
+    "cas_number": "863288-34-0",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/cjc-1295-no-dac.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "CJC-1295 No DAC 5mg",  "slug": "cjc-1295-no-dac-5mg",  "price": 49.99, "price_formatted": "$49.99", "in_stock": true },
+      { "name": "CJC-1295 No DAC 10mg", "slug": "cjc-1295-no-dac-10mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "CJC-1295 With DAC",
+    "slug": "cjc-1295-with-dac",
+    "sku": "TL-024",
+    "chemical_name": "GHRH analog with Drug Affinity Complex (extended half-life)",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/cjc-1295-with-dac.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "CJC-1295 With DAC 10mg", "slug": "cjc-1295-with-dac-10mg", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Ipamorelin",
+    "slug": "ipamorelin",
+    "sku": "TL-025",
+    "chemical_name": "Selective ghrelin/GHS receptor agonist",
+    "cas_number": "170851-70-4",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/ipamorelin.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Ipamorelin 10mg", "slug": "ipamorelin-10mg", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "GHRP-2",
+    "slug": "ghrp-2",
+    "sku": "TL-026",
+    "chemical_name": "Growth hormone-releasing peptide-2",
+    "cas_number": "158861-67-7",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/ghrp-2.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "GHRP-2 10mg", "slug": "ghrp-2-10mg", "price": 49.99, "price_formatted": "$49.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "GHRP-6",
+    "slug": "ghrp-6",
+    "sku": "TL-027",
+    "chemical_name": "Growth hormone-releasing peptide-6",
+    "cas_number": "87616-84-0",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/ghrp-6.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "GHRP-6 10mg", "slug": "ghrp-6-10mg", "price": 49.99, "price_formatted": "$49.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Hexarelin",
+    "slug": "hexarelin",
+    "sku": "TL-028",
+    "chemical_name": "Hexapeptide growth hormone secretagogue",
+    "cas_number": "140703-51-1",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/hexarelin.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Hexarelin 5mg", "slug": "hexarelin-5mg", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Sermorelin",
+    "slug": "sermorelin",
+    "sku": "TL-029",
+    "chemical_name": "GHRH(1-29)NH₂ growth hormone-releasing factor",
+    "cas_number": "86168-78-7",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/sermorelin.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Sermorelin 2mg",  "slug": "sermorelin-2mg",  "price": 39.99,  "price_formatted": "$39.99",  "in_stock": true },
+      { "name": "Sermorelin 5mg",  "slug": "sermorelin-5mg",  "price": 69.99,  "price_formatted": "$69.99",  "in_stock": true },
+      { "name": "Sermorelin 10mg", "slug": "sermorelin-10mg", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Tesamorelin",
+    "slug": "tesamorelin",
+    "sku": "TL-030",
+    "chemical_name": "Trans-3-hexenoic acid-GHRH analog",
+    "cas_number": "901758-09-6",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/tesamorelin.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Tesamorelin 10mg", "slug": "tesamorelin-10mg", "price": 119.99, "price_formatted": "$119.99", "in_stock": true },
+      { "name": "Tesamorelin 20mg", "slug": "tesamorelin-20mg", "price": 199.99, "price_formatted": "$199.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "IGF-1 LR3",
+    "slug": "igf-1-lr3",
+    "sku": "TL-031",
+    "chemical_name": "Insulin-like growth factor 1 Long R3",
+    "categories": ["Growth Hormone Peptides", "Lyophilized Powder"],
+    "image_url": "/images/products/igf-1-lr3.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "IGF-1 LR3 1mg", "slug": "igf-1-lr3-1mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Ipamorelin / CJC-1295 Blend",
+    "slug": "ipamorelin-cjc-1295-blend",
+    "sku": "TL-032",
+    "chemical_name": "Ipamorelin 5mg + CJC-1295 No DAC 5mg blend",
+    "categories": ["Growth Hormone Peptides", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/ipamorelin-cjc-1295-blend.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Ipa/CJC-1295 5mg+5mg", "slug": "ipamorelin-cjc-1295-blend-cjc-1295-5mg-ipamorelin-5mg", "price": 89.99, "price_formatted": "$89.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Ipamorelin / Tesamorelin Blend",
+    "slug": "ipamorelin-tesamorelin-blend",
+    "sku": "TL-033",
+    "chemical_name": "Ipamorelin 3mg + Tesamorelin 10mg blend",
+    "categories": ["Growth Hormone Peptides", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/ipamorelin-tesamorelin-blend.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Ipa 3mg + Tesa 10mg", "slug": "ipamorelin-tesamorelin-blend-ipa-3mg-tesa-10mg", "price": 129.99, "price_formatted": "$129.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "IPA/TESA Blend",
+    "slug": "ipa-tesa-blend",
+    "sku": "TL-034",
+    "chemical_name": "Ipamorelin 5mg + Tesamorelin 10mg blend",
+    "categories": ["Growth Hormone Peptides", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/ipa-tesa-blend.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "IPA/TESA 5mg+10mg", "slug": "ipa-tesa-blend-ipa-5mg-tesa-10mg-15mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "GHK-Cu",
+    "slug": "ghk-cu",
+    "sku": "TL-035",
+    "chemical_name": "Glycyl-L-histidyl-L-lysine copper(II) tripeptide",
+    "cas_number": "49557-75-7",
+    "categories": ["Skin & Beauty", "Lyophilized Powder"],
+    "image_url": "/images/products/ghk-cu.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "GHK-Cu 50mg",  "slug": "ghk-cu-50mg",  "price": 50.00, "price_formatted": "$50.00", "in_stock": true },
+      { "name": "GHK-Cu 100mg", "slug": "ghk-cu-100mg", "price": 89.99, "price_formatted": "$89.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "GLOW Blend",
+    "slug": "glow-blend",
+    "sku": "TL-036",
+    "chemical_name": "Skin-targeted peptide blend",
+    "categories": ["Skin & Beauty", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/glow-blend.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "GLOW Blend 50mg", "slug": "glow-blend-50mg", "price": 89.99,  "price_formatted": "$89.99",  "in_stock": true },
+      { "name": "GLOW Blend 70mg", "slug": "glow-blend-70mg", "price": 109.99, "price_formatted": "$109.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "KLOW Blend",
+    "slug": "klow-blend",
+    "sku": "TL-037",
+    "chemical_name": "Skin & recovery peptide blend with KPV",
+    "categories": ["Skin & Beauty", "Peptide Blends", "Lyophilized Powder"],
+    "image_url": "/images/products/klow-blend.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "KLOW Blend 80mg", "slug": "klow-blend-80mg", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Melanotan I",
+    "slug": "melanotan-1",
+    "sku": "TL-038",
+    "chemical_name": "α-MSH analog (linear afamelanotide)",
+    "categories": ["Skin & Beauty", "Lyophilized Powder"],
+    "image_url": "/images/products/melanotan-1.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Melanotan I 10mg", "slug": "melanotan-1-10mg", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Melanotan II",
+    "slug": "melanotan-2",
+    "sku": "TL-039",
+    "chemical_name": "Cyclic α-MSH analog (bremelanotide precursor)",
+    "cas_number": "121062-08-6",
+    "categories": ["Skin & Beauty", "Lyophilized Powder"],
+    "image_url": "/images/products/melanotan-2.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Melanotan II 10mg", "slug": "melanotan-2-10mg", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "SNAP-8",
+    "slug": "snap-8",
+    "sku": "TL-040",
+    "chemical_name": "Acetyl octapeptide-3 — anti-wrinkle peptide",
+    "categories": ["Skin & Beauty", "Lyophilized Powder"],
+    "image_url": "/images/products/snap-8.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "SNAP-8 10mg", "slug": "snap-8-10mg", "price": 45.00, "price_formatted": "$45.00", "in_stock": true }
+    ]
+  },
+  {
+    "name": "N-Acetyl Semax Amidate",
+    "slug": "n-acetyl-semax-amidate",
+    "sku": "TL-041",
+    "chemical_name": "N-acetylated Semax amidate nootropic analog",
+    "categories": ["Nootropics & Cognitive", "Lyophilized Powder"],
+    "image_url": "/images/products/n-acetyl-semax-amidate.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "N-Acetyl Semax Amidate 30mg", "slug": "n-acetyl-semax-amidate-30mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Selank",
+    "slug": "selank",
+    "sku": "TL-042",
+    "chemical_name": "Tuftsin-based anxiolytic heptapeptide",
+    "cas_number": "129954-34-3",
+    "categories": ["Nootropics & Cognitive", "Lyophilized Powder"],
+    "image_url": "/images/products/selank.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Selank 10mg", "slug": "selank-10mg", "price": 69.99, "price_formatted": "$69.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "NA-Selank Amidate",
+    "slug": "na-selank-amidate",
+    "sku": "TL-043",
+    "chemical_name": "N-acetyl Selank amidate — enhanced nootropic form",
+    "categories": ["Nootropics & Cognitive", "Lyophilized Powder"],
+    "image_url": "/images/products/na-selank-amidate.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "NA-Selank Amidate 10mg", "slug": "na-selank-amidate-10mg", "price": 79.99,  "price_formatted": "$79.99",  "in_stock": true },
+      { "name": "NA-Selank Amidate 30mg", "slug": "na-selank-amidate-30mg", "price": 179.99, "price_formatted": "$179.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Adamax",
+    "slug": "adamax",
+    "sku": "TL-044",
+    "chemical_name": "Selank-derived cognitive enhancement peptide",
+    "categories": ["Nootropics & Cognitive", "Lyophilized Powder"],
+    "image_url": "/images/products/adamax.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Adamax 10mg", "slug": "adamax-10mg", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "PE-22-28",
+    "slug": "pe-22-28",
+    "sku": "TL-045",
+    "chemical_name": "Spadin-derived serotonin receptor modulator",
+    "categories": ["Nootropics & Cognitive", "Lyophilized Powder"],
+    "image_url": "/images/products/pe-22-28.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "PE-22-28 10mg", "slug": "pe-22-28-10mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "DSIP",
+    "slug": "dsip",
+    "sku": "TL-046",
+    "chemical_name": "Delta sleep-inducing peptide (nonapeptide)",
+    "cas_number": "62568-57-4",
+    "categories": ["Nootropics & Cognitive", "Lyophilized Powder"],
+    "image_url": "/images/products/dsip.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "DSIP 5mg",  "slug": "dsip-delta-sleep-inducing-peptide-5mg",  "price": 49.99, "price_formatted": "$49.99", "in_stock": true },
+      { "name": "DSIP 10mg", "slug": "dsip-delta-sleep-inducing-peptide-10mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true },
+      { "name": "DSIP 15mg", "slug": "dsip-delta-sleep-inducing-peptide-15mg", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "SLU-PP-332 Capsules",
+    "slug": "slu-pp-332-capsules",
+    "sku": "TL-047",
+    "chemical_name": "ERRα/γ agonist — exercise mimetic (100mg capsule)",
+    "categories": ["Nootropics & Cognitive", "Energy & Metabolic", "Capsules & Tablets"],
+    "image_url": "/images/products/slu-pp-332-capsules.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "SLU-PP-332 100mg × 30 Capsules",  "slug": "slu-pp-332-100mg-x-30-capsules",  "price": 59.99,  "price_formatted": "$59.99",  "in_stock": true },
+      { "name": "SLU-PP-332 100mg × 120 Capsules", "slug": "slu-pp-332-100mg-x-120-capsules", "price": 159.99, "price_formatted": "$159.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "SLU-PP-332 Micro Capsules",
+    "slug": "slu-pp-332-micro-capsules",
+    "sku": "TL-048",
+    "chemical_name": "ERRα/γ agonist — low-dose 1mg capsule",
+    "categories": ["Nootropics & Cognitive", "Energy & Metabolic", "Capsules & Tablets"],
+    "image_url": "/images/products/slu-pp-332-micro-capsules.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "SLU-PP-332 1mg × 30 Capsules", "slug": "slu-pp-332-1mg-x-30-capsules", "price": 39.99, "price_formatted": "$39.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "SLU-PP-332 Solution",
+    "slug": "slu-pp-332-solution",
+    "sku": "TL-049",
+    "chemical_name": "ERRα/γ agonist — liquid solution (1mg/mL)",
+    "categories": ["Nootropics & Cognitive", "Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/slu-pp-332-solution.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "SLU-PP-332 1mg/mL 30mL", "slug": "slu-pp-332-1mg-ml-30ml", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "SLU-PP-332 Solution 5mg",
+    "slug": "slu-pp-332-solution-5mg",
+    "sku": "TL-050",
+    "chemical_name": "ERRα/γ agonist — liquid solution (5mg/mL)",
+    "categories": ["Nootropics & Cognitive", "Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/slu-pp-332-solution-5mg.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "SLU-PP-332 5mg/mL 30mL", "slug": "slu-pp-332-5mg-ml-30ml", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Epitalon",
+    "slug": "epitalon",
+    "sku": "TL-051",
+    "chemical_name": "Tetrapeptide Ala-Glu-Asp-Gly (telomere-supporting)",
+    "cas_number": "307297-39-8",
+    "categories": ["Longevity & Anti-Aging", "Lyophilized Powder"],
+    "image_url": "/images/products/epitalon.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Epitalon 10mg", "slug": "epitalon-10mg", "price": 59.99,  "price_formatted": "$59.99",  "in_stock": true },
+      { "name": "Epitalon 50mg", "slug": "epitalon-50mg", "price": 139.99, "price_formatted": "$139.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "NA-Epitalon",
+    "slug": "na-epitalon",
+    "sku": "TL-052",
+    "chemical_name": "N-acetyl Epitalon amidate — enhanced form",
+    "categories": ["Longevity & Anti-Aging", "Lyophilized Powder"],
+    "image_url": "/images/products/na-epitalon.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "NA-Epitalon 10mg", "slug": "na-epitalon-10mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "NAD+",
+    "slug": "nad",
+    "sku": "TL-053",
+    "chemical_name": "Nicotinamide adenine dinucleotide",
+    "cas_number": "53-84-9",
+    "categories": ["Longevity & Anti-Aging", "Specialty Compounds"],
+    "image_url": "/images/products/nad.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "NAD+ 500mg",  "slug": "nad-500mg",  "price": 79.99,  "price_formatted": "$79.99",  "in_stock": true },
+      { "name": "NAD+ 1000mg", "slug": "nad-1000mg", "price": 139.99, "price_formatted": "$139.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "FOXO4-DRI",
+    "slug": "foxo4-dri",
+    "sku": "TL-054",
+    "chemical_name": "FOXO4-p53 interaction disruptor — senolytic peptide",
+    "categories": ["Longevity & Anti-Aging", "Lyophilized Powder"],
+    "image_url": "/images/products/foxo4-dri.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "FOXO4-DRI 10mg", "slug": "fox04-dri-10mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "PNC-27",
+    "slug": "pnc-27",
+    "sku": "TL-055",
+    "chemical_name": "p53-derived membrane-active peptide",
+    "categories": ["Longevity & Anti-Aging", "Lyophilized Powder"],
+    "image_url": "/images/products/pnc-27.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "PNC-27 30mg", "slug": "pnc-27-30mg", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "MOTS-c",
+    "slug": "mots-c",
+    "sku": "TL-056",
+    "chemical_name": "Mitochondria-derived peptide (MRLN-encoded)",
+    "categories": ["Longevity & Anti-Aging", "Energy & Metabolic", "Lyophilized Powder"],
+    "image_url": "/images/products/mots-c.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "MOTS-c 10mg", "slug": "mots-c-10mg", "price": 129.99, "price_formatted": "$129.99", "in_stock": true },
+      { "name": "MOTS-c 20mg", "slug": "mots-c-20mg", "price": 219.99, "price_formatted": "$219.99", "in_stock": true },
+      { "name": "MOTS-c 40mg", "slug": "mots-c-40mg", "price": 379.99, "price_formatted": "$379.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "SS-31",
+    "slug": "ss-31",
+    "sku": "TL-057",
+    "chemical_name": "Elamipretide — mitochondria-targeted tetrapeptide",
+    "cas_number": "936350-00-4",
+    "categories": ["Longevity & Anti-Aging", "Energy & Metabolic", "Lyophilized Powder"],
+    "image_url": "/images/products/ss-31.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "SS-31 10mg", "slug": "ss-31-10mg", "price": 99.99,  "price_formatted": "$99.99",  "in_stock": true },
+      { "name": "SS-31 25mg", "slug": "ss-31-25mg", "price": 189.99, "price_formatted": "$189.99", "in_stock": true },
+      { "name": "SS-31 50mg", "slug": "ss-31-50mg", "price": 329.99, "price_formatted": "$329.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Thymosin Alpha-1",
+    "slug": "thymosin-alpha-1",
+    "sku": "TL-058",
+    "chemical_name": "Thymic immunomodulatory polypeptide (28 aa)",
+    "cas_number": "62304-98-7",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/thymosin-alpha-1.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Thymosin Alpha-1 5mg",  "slug": "thymosin-alpha-1-5mg",  "price": 69.99,  "price_formatted": "$69.99",  "in_stock": true },
+      { "name": "Thymosin Alpha-1 10mg", "slug": "thymosin-alpha-1-10mg", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Thymulin",
+    "slug": "thymulin",
+    "sku": "TL-059",
+    "chemical_name": "Thymic nonapeptide Zn-FTS immunomodulator",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/thymulin.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Thymulin 10mg", "slug": "thymulin-10mg", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "LL-37",
+    "slug": "ll-37",
+    "sku": "TL-060",
+    "chemical_name": "Cathelicidin-derived antimicrobial & immunomodulatory peptide",
+    "cas_number": "154947-66-7",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/ll-37.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "LL-37 10mg", "slug": "ll-37-10mg", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "PT-141",
+    "slug": "pt-141",
+    "sku": "TL-061",
+    "chemical_name": "Bremelanotide — melanocortin receptor agonist",
+    "cas_number": "189691-06-3",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/pt-141.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "PT-141 10mg", "slug": "pt-141-10mg", "price": 69.99, "price_formatted": "$69.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Kisspeptin-10",
+    "slug": "kisspeptin-10",
+    "sku": "TL-062",
+    "chemical_name": "Hypothalamic decapeptide GnRH secretagogue",
+    "cas_number": "374683-26-8",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/kisspeptin-10.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Kisspeptin-10 5mg",  "slug": "kisspeptin-10-5mg",  "price": 59.99, "price_formatted": "$59.99", "in_stock": true },
+      { "name": "Kisspeptin-10 10mg", "slug": "kisspeptin-10-10mg", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Gonadorelin Acetate",
+    "slug": "gonadorelin-acetate",
+    "sku": "TL-063",
+    "chemical_name": "Gonadotropin-releasing hormone (GnRH) decapeptide",
+    "cas_number": "33515-09-2",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/gonadorelin-acetate.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Gonadorelin Acetate", "slug": "gonadorelin-acetate", "price": 49.99, "price_formatted": "$49.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Oxytocin",
+    "slug": "oxytocin",
+    "sku": "TL-064",
+    "chemical_name": "Nonapeptide hypothalamic neuropeptide hormone",
+    "cas_number": "50-56-6",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/oxytocin.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Oxytocin 8mg",  "slug": "oxytocin-8mg",  "price": 69.99, "price_formatted": "$69.99", "in_stock": true },
+      { "name": "Oxytocin 10mg", "slug": "oxytocin-10mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "KPV",
+    "slug": "kpv",
+    "sku": "TL-065",
+    "chemical_name": "α-MSH(11-13) tripeptide Lys-Pro-Val",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/kpv.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "KPV 5mg",  "slug": "kpv-5mg",  "price": 59.99, "price_formatted": "$59.99", "in_stock": true },
+      { "name": "KPV 10mg", "slug": "kpv-10mg", "price": 99.99, "price_formatted": "$99.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "ARA-290",
+    "slug": "ara-290",
+    "sku": "TL-066",
+    "chemical_name": "Cibinetide — non-erythropoietic EPO analog",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/ara-290.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "ARA-290 10mg", "slug": "ara-290-10mg", "price": 89.99, "price_formatted": "$89.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "VIP",
+    "slug": "vip",
+    "sku": "TL-067",
+    "chemical_name": "Vasoactive intestinal peptide (28 aa)",
+    "categories": ["Immune & Hormonal", "Lyophilized Powder"],
+    "image_url": "/images/products/vip.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "VIP 5mg",  "slug": "vip-5mg",  "price": 79.99,  "price_formatted": "$79.99",  "in_stock": true },
+      { "name": "VIP 10mg", "slug": "vip-10mg", "price": 139.99, "price_formatted": "$139.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "BAM-15",
+    "slug": "bam-15",
+    "sku": "TL-068",
+    "chemical_name": "Mitochondrial protonophore uncoupler (30mg/mL)",
+    "categories": ["Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/bam-15.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "BAM-15 30mg/mL 30mL", "slug": "bam-15-30mg-ml-30ml", "price": 89.99, "price_formatted": "$89.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "BAM-15 High Concentration",
+    "slug": "bam-15-high",
+    "sku": "TL-069",
+    "chemical_name": "Mitochondrial protonophore uncoupler (50mg/mL)",
+    "categories": ["Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/bam-15-high.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "BAM-15 50mg/mL 30mL", "slug": "bam-15-50mg-ml-30ml", "price": 129.99, "price_formatted": "$129.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "AICAR",
+    "slug": "aicar",
+    "sku": "TL-070",
+    "chemical_name": "5-Aminoimidazole-4-carboxamide ribonucleotide (AMPK activator)",
+    "cas_number": "2627-69-2",
+    "categories": ["Energy & Metabolic", "Lyophilized Powder"],
+    "image_url": "/images/products/aicar.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "AICAR 50mg", "slug": "aicar-50mg", "price": 69.99, "price_formatted": "$69.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Glutathione",
+    "slug": "glutathione",
+    "sku": "TL-071",
+    "chemical_name": "L-γ-Glutamyl-L-cysteinylglycine master antioxidant",
+    "cas_number": "70-18-8",
+    "categories": ["Energy & Metabolic", "Lyophilized Powder"],
+    "image_url": "/images/products/glutathione.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Glutathione 200mg",  "slug": "glutathione-200mg",  "price": 49.99,  "price_formatted": "$49.99",  "in_stock": true },
+      { "name": "Glutathione 600mg",  "slug": "glutathione-600mg",  "price": 89.99,  "price_formatted": "$89.99",  "in_stock": true },
+      { "name": "Glutathione 1500mg", "slug": "glutathione-1500mg", "price": 179.99, "price_formatted": "$179.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "L-Carnitine Solution",
+    "slug": "l-carnitine-400",
+    "sku": "TL-072",
+    "chemical_name": "L-carnitine liquid (400mg/mL)",
+    "cas_number": "541-15-1",
+    "categories": ["Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/l-carnitine-400.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "L-Carnitine 400mg/mL", "slug": "l-carnitine-400mg-ml", "price": 39.99, "price_formatted": "$39.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "L-Carnitine Solution (600mg/mL)",
+    "slug": "l-carnitine-600",
+    "sku": "TL-073",
+    "chemical_name": "L-carnitine liquid (600mg/mL)",
+    "cas_number": "541-15-1",
+    "categories": ["Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/l-carnitine-600.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "L-Carnitine 600mg/mL", "slug": "l-carnitine-600mg-ml", "price": 49.99, "price_formatted": "$49.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "L-Carnitine 5-Pack",
+    "slug": "l-carnitine-5pack",
+    "sku": "TL-074",
+    "chemical_name": "L-carnitine 600mg/mL — 5-bottle bundle",
+    "cas_number": "541-15-1",
+    "categories": ["Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/l-carnitine-5pack.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "L-Carnitine 600mg 5-Pack", "slug": "l-carnitine-5-pack-600mg", "price": 89.99, "price_formatted": "$89.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Methylene Blue",
+    "slug": "methylene-blue",
+    "sku": "TL-075",
+    "chemical_name": "Phenothiazine mitochondrial electron carrier",
+    "cas_number": "61-73-4",
+    "categories": ["Energy & Metabolic", "Liquid Solutions"],
+    "image_url": "/images/products/methylene-blue.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Methylene Blue 10mg/mL 50mL", "slug": "methylene-blue-10mg-ml-50ml", "price": 59.99, "price_formatted": "$59.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "O-304 (ATX-304) Capsules",
+    "slug": "o-304-atx-304",
+    "sku": "TL-076",
+    "chemical_name": "Pan-AMPK activator (ATX-304) — oral capsule",
+    "categories": ["Energy & Metabolic", "Capsules & Tablets"],
+    "image_url": "/images/products/o-304-atx-304.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "O-304 100mg × 60 Capsules", "slug": "o-304-atx-304-100mg-x-60-capsules", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Adipotide (FTPP)",
+    "slug": "adipotide-fttp",
+    "sku": "TL-077",
+    "chemical_name": "PROHIBITIN-targeted apoptosis-inducing peptide (FTPP)",
+    "categories": ["Energy & Metabolic", "GLP / Weight Loss", "Lyophilized Powder"],
+    "image_url": "/images/products/adipotide-fttp.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Adipotide 5mg",  "slug": "adipotide-fttp-5mg",  "price": 89.99,  "price_formatted": "$89.99",  "in_stock": true },
+      { "name": "Adipotide 10mg", "slug": "adipotide-fttp-10mg", "price": 149.99, "price_formatted": "$149.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Bronchogen",
+    "slug": "bronchogen",
+    "sku": "TL-078",
+    "chemical_name": "Khavinson bronchial tissue bioregulator Ala-Glu-Asp-Leu",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/bronchogen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Bronchogen 20mg", "slug": "bronchogen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Cardiogen",
+    "slug": "cardiogen",
+    "sku": "TL-079",
+    "chemical_name": "Khavinson cardiac tissue bioregulator Ala-Glu-Asp-Arg",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/cardiogen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Cardiogen 20mg", "slug": "cardiogen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Cartalax",
+    "slug": "cartalax",
+    "sku": "TL-080",
+    "chemical_name": "Khavinson cartilage bioregulator Ala-Glu-Asp-Gly",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/cartalax.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Cartalax 20mg", "slug": "cartalax-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Chonluten",
+    "slug": "chonluten",
+    "sku": "TL-081",
+    "chemical_name": "Khavinson colon tissue bioregulator Gly-Glu-Pro",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/chonluten.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Chonluten 20mg", "slug": "chonluten-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Cortagen",
+    "slug": "cortagen",
+    "sku": "TL-082",
+    "chemical_name": "Khavinson cortex bioregulator Ala-Glu-Asp-Pro",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/cortagen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Cortagen 20mg", "slug": "cortagen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Crystagen",
+    "slug": "crystagen",
+    "sku": "TL-083",
+    "chemical_name": "Khavinson lens tissue bioregulator Lys-Asp-Glu",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/crystagen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Crystagen 20mg", "slug": "crystagen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Livagen",
+    "slug": "livagen",
+    "sku": "TL-084",
+    "chemical_name": "Khavinson hepatic tissue bioregulator Lys-Glu-Asp-Ala",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/livagen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Livagen 20mg", "slug": "livagen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Ovagen",
+    "slug": "ovagen",
+    "sku": "TL-085",
+    "chemical_name": "Khavinson ovarian tissue bioregulator Glu-Asp-Leu",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/ovagen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Ovagen 20mg", "slug": "ovagen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Pancragen",
+    "slug": "pancragen",
+    "sku": "TL-086",
+    "chemical_name": "Khavinson pancreatic bioregulator Lys-Glu-Asp",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/pancragen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Pancragen 20mg", "slug": "pancragen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Pinealon",
+    "slug": "pinealon",
+    "sku": "TL-087",
+    "chemical_name": "Khavinson pineal gland bioregulator Glu-Asp-Arg",
+    "categories": ["Khavinson Bioregulators", "Longevity & Anti-Aging", "Lyophilized Powder"],
+    "image_url": "/images/products/pinealon.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Pinealon 10mg", "slug": "pinealon-10mg", "price": 69.99,  "price_formatted": "$69.99",  "in_stock": true },
+      { "name": "Pinealon 20mg", "slug": "pinealon-20mg", "price": 119.99, "price_formatted": "$119.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Prostamax",
+    "slug": "prostamax",
+    "sku": "TL-088",
+    "chemical_name": "Khavinson prostate bioregulator Lys-Glu-Asp-Gly",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/prostamax.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Prostamax 20mg", "slug": "prostamax-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Testagen",
+    "slug": "testagen",
+    "sku": "TL-089",
+    "chemical_name": "Khavinson testicular bioregulator Lys-Glu-Asp-Gly",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/testagen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Testagen 20mg", "slug": "testagen-20mg", "price": 89.99, "price_formatted": "$89.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Thymogen",
+    "slug": "thymogen",
+    "sku": "TL-090",
+    "chemical_name": "Khavinson thymic dipeptide Glu-Trp immunomodulator",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/thymogen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Thymogen 20mg", "slug": "thymogen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Vesilute",
+    "slug": "vesilute",
+    "sku": "TL-091",
+    "chemical_name": "Khavinson vascular tissue bioregulator Lys-Glu",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/vesilute.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Vesilute 20mg", "slug": "vesilute-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Vesugen",
+    "slug": "vesugen",
+    "sku": "TL-092",
+    "chemical_name": "Khavinson vascular bioregulator Lys-Glu-Asp",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/vesugen.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Vesugen 20mg", "slug": "vesugen-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Vilon",
+    "slug": "vilon",
+    "sku": "TL-093",
+    "chemical_name": "Khavinson thymic dipeptide Lys-Glu bioregulator",
+    "categories": ["Khavinson Bioregulators", "Lyophilized Powder"],
+    "image_url": "/images/products/vilon.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Vilon 20mg", "slug": "vilon-20mg", "price": 79.99, "price_formatted": "$79.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Bacteriostatic Water",
+    "slug": "bacteriostatic-water",
+    "sku": "TL-094",
+    "chemical_name": "0.9% benzyl alcohol multi-draw reconstitution solvent",
+    "categories": ["Reconstitution Solutions"],
+    "image_url": "/images/products/bacteriostatic-water.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Bacteriostatic Water 30mL", "slug": "bacteriostatic-water-30ml", "price": 12.99, "price_formatted": "$12.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "Bacteriostatic Water USP",
+    "slug": "usp-bacteriostatic-water",
+    "sku": "TL-095",
+    "chemical_name": "USP-grade 0.9% benzyl alcohol reconstitution solvent",
+    "categories": ["Reconstitution Solutions"],
+    "image_url": "/images/products/usp-bacteriostatic-water.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "Bacteriostatic Water USP 30mL", "slug": "usp-bacteriostatic-water-30ml", "price": 14.99, "price_formatted": "$14.99", "in_stock": true }
+    ]
+  },
+  {
+    "name": "RU-58841",
+    "slug": "ru-58841",
+    "sku": "TL-096",
+    "chemical_name": "Non-steroidal androgen receptor antagonist topical solution",
+    "cas_number": "154992-24-2",
+    "categories": ["Hair & Specialty", "Specialty Compounds", "Liquid Solutions"],
+    "image_url": "/images/products/ru-58841.png",
+    "in_stock": true,
+    "variants": [
+      { "name": "RU-58841 50mg/mL 30mL", "slug": "ru-58841-50mg-x-30ml", "price": 79.99,  "price_formatted": "$79.99",  "in_stock": true },
+      { "name": "RU-58841 50mg/mL 60mL", "slug": "ru-58841-50mg-x-60ml", "price": 129.99, "price_formatted": "$129.99", "in_stock": true }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:phiogen.is)",
+      "Bash(npm --version)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --no-src-dir --import-alias=\"@/*\" --no-turbopack --yes)",
+      "Bash(npm run *)",
+      "Bash(curl *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
