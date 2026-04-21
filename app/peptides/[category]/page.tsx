@@ -108,18 +108,18 @@ export default async function CategoryPage({
 
         {/* Quick answer */}
         {count > 0 && (
-          <div className="border-l-4 border-emerald-600 bg-emerald-50/40 p-5 rounded-r-lg mb-6">
-            <p className="text-[11px] font-black uppercase tracking-[0.2em] text-emerald-700 mb-2">
+          <div className="border-l-4 border-yellow-600 bg-yellow-50/40 p-5 rounded-r-lg mb-6">
+            <p className="text-[11px] font-black uppercase tracking-[0.2em] text-yellow-700 mb-2">
               Quick answer
             </p>
             <p className="text-base leading-relaxed text-slate-700">
-              Tide Life carries <strong>{count} {cat.shortName} peptide vials</strong> priced from{" "}
+              Peptidelife carries <strong>{count} {cat.shortName} peptide vials</strong> priced from{" "}
               <strong>${lowestPrice.toFixed(2)}</strong> to <strong>${highestPrice.toFixed(2)}</strong>.
               {topThree.length > 0 && (
                 <> The top products are{" "}
                   {topThree.map((p, i) => (
                     <span key={p!.slug}>
-                      <Link href={`/products/${p!.slug}`} className="font-semibold underline hover:text-emerald-700">
+                      <Link href={`/products/${p!.slug}`} className="font-semibold underline hover:text-yellow-700">
                         {p!.name}
                       </Link>
                       {i < topThree.length - 1 ? ", " : ""}
@@ -135,7 +135,7 @@ export default async function CategoryPage({
         )}
 
         {/* Trust tiles */}
-        <div className="flex flex-wrap gap-3 mb-8 text-xs font-semibold text-emerald-700">
+        <div className="flex flex-wrap gap-3 mb-8 text-xs font-semibold text-yellow-700">
           <span>✓ ≥98% HPLC Purity</span>
           <span>✓ Lot CoA Included</span>
           <span>✓ Same-Day Shipping</span>
@@ -191,7 +191,7 @@ export default async function CategoryPage({
                 <Link
                   key={c.slug}
                   href={`/peptides/${c.slug}`}
-                  className="text-sm font-medium px-4 py-2 bg-slate-100 hover:bg-emerald-100 hover:text-emerald-800 rounded-lg text-slate-600 transition-colors"
+                  className="text-sm font-medium px-4 py-2 bg-slate-100 hover:bg-yellow-100 hover:text-yellow-800 rounded-lg text-slate-600 transition-colors"
                 >
                   {c.name}
                 </Link>

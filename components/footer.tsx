@@ -8,11 +8,11 @@ export default function Footer() {
     <footer className="border-t border-slate-200 bg-slate-50 mt-16">
       <div className="max-w-7xl mx-auto px-4 py-12 grid grid-cols-2 md:grid-cols-4 gap-8">
         <div className="col-span-2 md:col-span-1">
-          <p className="font-bold text-slate-900 mb-2">Tide Life</p>
+          <p className="font-bold text-slate-900 mb-2">Peptidelife</p>
           <p className="text-sm text-slate-500">
             ≥98% HPLC purity · Lot CoA with every order · Free US shipping on orders $200+
           </p>
-          <div className="mt-4 flex gap-3 text-xs font-semibold text-emerald-700">
+          <div className="mt-4 flex gap-3 text-xs font-semibold text-yellow-700">
             <span>✓ Same-Day Shipping</span>
             <span>✓ 3–5 Day Delivery</span>
           </div>
@@ -60,7 +60,7 @@ export default function Footer() {
 
       <div className="border-t border-slate-200 max-w-7xl mx-auto px-4 py-5 flex flex-col md:flex-row items-center justify-between gap-3">
         <p className="text-xs text-slate-400">
-          © {new Date().getFullYear()} Tide Life. All rights reserved.
+          © {new Date().getFullYear()} Peptidelife. All rights reserved.
         </p>
         <p className="text-xs text-slate-400 text-center max-w-xl">
           All products are sold for in-vitro laboratory research use only. Not for human consumption, veterinary use, or household use. Must be 18+ to purchase.

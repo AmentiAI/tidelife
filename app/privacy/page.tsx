@@ -3,11 +3,11 @@ import { SITE, SITE_NAME } from "@/lib/peptide-data"
 
 export const metadata: Metadata = {
   title: `Privacy Policy | ${SITE_NAME}`,
-  description: "Tide Life privacy policy — how we collect, use, and protect your information.",
+  description: "Peptidelife privacy policy — how we collect, use, and protect your information.",
   alternates: { canonical: `${SITE}/privacy` },
   openGraph: {
     title: `Privacy Policy | ${SITE_NAME}`,
-    description: "Tide Life privacy policy.",
+    description: "Peptidelife privacy policy.",
     url: `${SITE}/privacy`,
     siteName: SITE_NAME,
   },

@@ -6,15 +6,37 @@
     "h1": "Shop Fat Loss Peptides — GLP-1, GIP & Triple-Agonist Vials",
     "seoTitle": "Buy Fat Loss Peptides Online — Retatrutide, Tirzepatide, Semaglutide | Peptides Online",
     "seoDescription": "Buy fat loss peptides online — Retatrutide, Tirzepatide, Semaglutide and next-gen GLP compounds. ≥98% HPLC purity, sealed vials with lot CoA, free US shipping over $200.",
-    "productCategoryNames": ["GLP / Weight Loss"],
-    "featuredProductSlugs": ["retatrutide", "tirzepatide", "semaglutide", "cagrilintide"],
-    "content": "## Cheapest Entry Points Into The Fat Loss Shelf\n\nSemaglutide 3mg at $49.99 is the lowest-cost GLP-1 vial on the shelf. AOD9604 2mg at $39.99 is the lowest-cost growth hormone fragment. For a dual-agonist start, Tirzepatide 15mg at $149.99 opens the shelf; the 30mg and 60mg sizes drop the $/mg cost significantly.\n\n## GLP-1 vs Dual vs Triple Agonists\n\nSemaglutide targets the GLP-1 receptor only. Tirzepatide hits both GLP-1 and GIP simultaneously — the dual mechanism produced greater weight loss in published head-to-head data. Retatrutide adds a third target (glucagon receptor), making it a triple agonist and the newest compound in this category. Cagrilintide adds amylin-pathway signaling when stacked with semaglutide.",
+    "productCategoryNames": [
+      "GLP / Weight Loss"
+    ],
+    "featuredProductSlugs": [
+      "retatrutide",
+      "tirzepatide",
+      "semaglutide",
+      "cagrilintide"
+    ],
+    "content": "## Overview: GLP-1 and Incretin-Pathway Peptides\n\nThe fat loss peptide category spans single-, dual-, and triple-receptor agonists targeting the glucagon-like peptide-1 (GLP-1), glucose-dependent insulinotropic polypeptide (GIP), and glucagon receptor systems. These mechanisms regulate insulin secretion, gastric emptying, and hypothalamic appetite signaling.\n\nSemaglutide, a GLP-1 receptor agonist, is the most studied compound in this class. The STEP 1 trial (Wilding et al., 2021; PMID 33567185) demonstrated 14.9% mean body weight reduction over 68 weeks in participants without diabetes. The STEP 4 sustained withdrawal study confirmed weight regain upon discontinuation, indicating ongoing signaling dependency.\n\nTirzepatide (GLP-1/GIP dual agonist) demonstrated 20.9% mean weight loss at the 15mg dose in the SURMOUNT-1 trial (Jastreboff et al., 2022; PMID 35658024), outperforming semaglutide in a phase 3 comparison. The added GIP receptor signaling is thought to potentiate the GLP-1 response in adipose tissue.\n\nRetatrutide (LY3437943), the triple GLP-1/GIP/glucagon agonist, showed up to 24.2% body weight reduction at 12mg in phase 2 data (Jastreboff et al., 2023; PMID 37384082) — the largest documented reduction for any injectable peptide in a controlled trial at that point.\n\nCagrilintide is an amylin analog (long-acting pramlintide derivative) that acts on calcitonin receptors in the hypothalamus. When combined with semaglutide (the Cagri-Sema stack), the complementary mechanism addresses satiety through a separate pathway, producing additive weight loss.\n\n## Cheapest Entry Points Into The Fat Loss Shelf\n\nSemaglutide 3mg at $49.99 is the lowest-cost GLP-1 vial in the catalog. AOD9604 2mg at $39.99 is the lowest-cost growth hormone fragment option. For a dual-agonist entry, Tirzepatide 15mg opens the shelf; the 30mg and 60mg sizes lower the $/mg cost substantially. Retatrutide 10mg starts at $149.99 with the 30mg size offering the best per-milligram rate.\n\n## GLP-1 vs Dual vs Triple Agonists\n\nSemaglutide targets the GLP-1 receptor only. Tirzepatide hits both GLP-1 and GIP simultaneously — the dual mechanism produced greater average weight loss than semaglutide in published head-to-head data. Retatrutide adds glucagon receptor agonism to the dual-agonist backbone, making it the most mechanistically comprehensive compound in this category. Cagrilintide adds amylin-pathway signaling through a separate receptor class.\n\n## Reconstitution\n\nAll lyophilized vials (Retatrutide, Tirzepatide, Semaglutide, Cagrilintide) require reconstitution with bacteriostatic water before use. AOD9604 capsules and Tesofensine capsules ship ready to use and do not require reconstitution. Add a 30mL BAC water vial to your order if ordering lyophilized peptides for the first time.",
     "faq": [
-      { "question": "How fast does shipping take on fat loss vials?", "answer": "Orders placed before 2pm EST ship same day. US delivery typically arrives in 3–5 business days via tracked courier. Free shipping on orders over $200." },
-      { "question": "Do I need bacteriostatic water for these peptides?", "answer": "Yes — all lyophilized vials (Retatrutide, Tirzepatide, Semaglutide, etc.) require bacteriostatic water for reconstitution. Add a 30mL BAC water vial to your order. Capsule and liquid forms (Tesofensine, AOD9604 pre-dissolved) ship ready to use." },
-      { "question": "What is the difference between Tirzepatide and Semaglutide?", "answer": "Semaglutide is a GLP-1 receptor agonist only. Tirzepatide is a dual GLP-1/GIP agonist — it hits two incretin receptors. Published clinical comparisons show greater average weight loss with the dual mechanism." },
-      { "question": "What is Retatrutide?", "answer": "Retatrutide is a triple agonist targeting GLP-1, GIP, and glucagon receptors simultaneously — the most mechanistically complete compound in this category. Available in 10mg, 15mg, 20mg, and 30mg vials." },
-      { "question": "Is there a bundle or stack for fat loss?", "answer": "The Cagri-Reta blend and Cagri-Sema blend are pre-mixed stacks. The stacks page lists curated protocol combinations if you prefer to order individual vials and combine." }
+      {
+        "question": "How fast does shipping take on fat loss vials?",
+        "answer": "Orders placed before 2pm EST ship same day. US delivery typically arrives in 3–5 business days via tracked courier. Free shipping on orders over $200."
+      },
+      {
+        "question": "Do I need bacteriostatic water for these peptides?",
+        "answer": "Yes — all lyophilized vials (Retatrutide, Tirzepatide, Semaglutide, etc.) require bacteriostatic water for reconstitution. Add a 30mL BAC water vial to your order. Capsule and liquid forms (Tesofensine, AOD9604 pre-dissolved) ship ready to use."
+      },
+      {
+        "question": "What is the difference between Tirzepatide and Semaglutide?",
+        "answer": "Semaglutide is a GLP-1 receptor agonist only. Tirzepatide is a dual GLP-1/GIP agonist — it hits two incretin receptors. Published clinical comparisons show greater average weight loss with the dual mechanism."
+      },
+      {
+        "question": "What is Retatrutide?",
+        "answer": "Retatrutide is a triple agonist targeting GLP-1, GIP, and glucagon receptors simultaneously — the most mechanistically complete compound in this category. Available in 10mg, 15mg, 20mg, and 30mg vials."
+      },
+      {
+        "question": "Is there a bundle or stack for fat loss?",
+        "answer": "The Cagri-Reta blend and Cagri-Sema blend are pre-mixed stacks. The stacks page lists curated protocol combinations if you prefer to order individual vials and combine."
+      }
     ]
   },
   {
@@ -24,15 +46,37 @@
     "h1": "Shop Recovery & Healing Peptides — BPC-157, TB-500 & Blends",
     "seoTitle": "Buy Recovery Peptides Online — BPC-157, TB-500 & Blends | Peptides Online",
     "seoDescription": "Buy recovery and healing peptides — BPC-157, TB-500, PEG-MGF and blends. ≥98% HPLC purity, sealed vials with lot CoA, free US shipping over $200.",
-    "productCategoryNames": ["Recovery & Healing"],
-    "featuredProductSlugs": ["bpc-157", "tb-500", "bpc-157-tb-500-blend", "peg-mgf"],
-    "content": "## BPC-157 vs TB-500 vs the Blend\n\nBPC-157 (pentadecapeptide) and TB-500 (Thymosin Beta-4 fragment 2-43) are the two most studied tissue-repair peptides in this category. Each can be ordered as a standalone vial or together as the BPC-157 + TB-500 blend. The blend ships as a single pre-mixed vial in 5+5mg and 10+10mg sizes.\n\n## Oral vs Injectable Formats\n\nBPC-157 capsules (500mcg × 60) offer an oral format for gut-specific protocols. Injectable lyophilized vials require reconstitution with bacteriostatic water before use.",
+    "productCategoryNames": [
+      "Recovery & Healing"
+    ],
+    "featuredProductSlugs": [
+      "bpc-157",
+      "tb-500",
+      "bpc-157-tb-500-blend",
+      "peg-mgf"
+    ],
+    "content": "## Overview: Tissue-Repair Peptides in Research\n\nThe recovery and healing peptide category comprises compounds studied for their roles in connective tissue regeneration, angiogenesis, and growth factor modulation. BPC-157 and TB-500 are the two most extensively referenced compounds in preclinical literature on tissue repair.\n\nBPC-157 (Body Protection Compound 157) is a pentadecapeptide fragment of the gastric juice protein BPC. It has been studied in rat models of tendon, muscle, and bone injury, with multiple papers showing accelerated repair timelines. Chang et al. (2011; PMID 21209064) documented BPC-157's effects on Achilles tendon healing in rodent models. The compound is thought to act through nitric oxide and VEGF-related angiogenic pathways.\n\nTB-500 is a synthetic analog of Thymosin Beta-4, a 43-amino acid peptide found in all eukaryotic cells. Thymosin Beta-4 promotes actin polymerization and cell migration — both critical to wound closure. Goldstein et al. (2012; PMID 22401696) examined Tβ4's role in cardiac repair. The fragment used in research peptides focuses on residues 2-43, which retain the primary bioactive domain.\n\nPEG-MGF (PEGylated Mechano Growth Factor) is a splice variant of IGF-1 with the addition of a polyethylene glycol chain to extend half-life. MGF is upregulated in skeletal muscle following mechanical stress and may play a role in satellite cell activation.\n\n## BPC-157 vs TB-500 vs the Blend\n\nBPC-157 and TB-500 are often stacked because they act through mechanistically distinct pathways — BPC-157 primarily through nitric oxide and VEGF, TB-500 through actin-binding and cell migration. The BPC-157 + TB-500 blend ships as a single pre-mixed lyophilized vial in 5+5mg and 10+10mg sizes, eliminating the need to reconstitute two separate vials.\n\n## Oral vs Injectable Formats\n\nBPC-157 capsules (500mcg × 60) offer an oral format for gut-specific protocols. Injectable lyophilized BPC-157 (10mg) is the standard vial requiring reconstitution with bacteriostatic water. ACE-031 and Abaloparatide are available in injectable form only.\n\n## Storage\n\nAll lyophilized peptide vials should be stored at −20°C long-term. Reconstituted vials are stable for approximately 30 days at 2–8°C under refrigeration. Do not freeze reconstituted peptides. Reconstitute with bacteriostatic water (not sterile water) for multi-draw stability.",
     "faq": [
-      { "question": "What is the difference between BPC-157 and TB-500?", "answer": "BPC-157 is a pentadecapeptide derived from gastric juice protein BPC. TB-500 is a synthetic version of Thymosin Beta-4 fragment (2-43). Both support tissue repair but act through different mechanisms — they are often combined in the BPC-157 + TB-500 blend." },
-      { "question": "Can I order BPC-157 in capsule form?", "answer": "Yes — BPC-157 Capsules (500mcg × 60) are available for oral protocols. Injectable lyophilized BPC-157 (10mg) is the standard vial format requiring BAC water reconstitution." },
-      { "question": "How do I reconstitute TB-500?", "answer": "Add bacteriostatic water to the lyophilized TB-500 10mg vial. Common target concentrations are 2mg/mL (add 5mL BAC water) or 1mg/mL (add 10mL BAC water). Mix gently — do not shake." },
-      { "question": "What is the BPC-157 + TB-500 blend?", "answer": "The blend ships as a single pre-mixed vial containing both peptides — 5mg BPC-157 + 5mg TB-500, or 10mg + 10mg. It eliminates the need to reconstitute two separate vials." },
-      { "question": "Do ACE-031 and Abaloparatide require refrigeration?", "answer": "Yes — all lyophilized peptides should be stored in the freezer (−20°C) long-term and refrigerated (2–8°C) after reconstitution. Reconstituted vials are stable for approximately 30 days under refrigeration." }
+      {
+        "question": "What is the difference between BPC-157 and TB-500?",
+        "answer": "BPC-157 is a pentadecapeptide derived from gastric juice protein BPC. TB-500 is a synthetic version of Thymosin Beta-4 fragment (2-43). Both support tissue repair but act through different mechanisms — they are often combined in the BPC-157 + TB-500 blend."
+      },
+      {
+        "question": "Can I order BPC-157 in capsule form?",
+        "answer": "Yes — BPC-157 Capsules (500mcg × 60) are available for oral protocols. Injectable lyophilized BPC-157 (10mg) is the standard vial format requiring BAC water reconstitution."
+      },
+      {
+        "question": "How do I reconstitute TB-500?",
+        "answer": "Add bacteriostatic water to the lyophilized TB-500 10mg vial. Common target concentrations are 2mg/mL (add 5mL BAC water) or 1mg/mL (add 10mL BAC water). Mix gently — do not shake."
+      },
+      {
+        "question": "What is the BPC-157 + TB-500 blend?",
+        "answer": "The blend ships as a single pre-mixed vial containing both peptides — 5mg BPC-157 + 5mg TB-500, or 10mg + 10mg. It eliminates the need to reconstitute two separate vials."
+      },
+      {
+        "question": "Do ACE-031 and Abaloparatide require refrigeration?",
+        "answer": "Yes — all lyophilized peptides should be stored in the freezer (−20°C) long-term and refrigerated (2–8°C) after reconstitution. Reconstituted vials are stable for approximately 30 days under refrigeration."
+      }
     ]
   },
   {
@@ -42,15 +86,37 @@
     "h1": "Shop Growth Hormone Peptides Online — GHRH & Ghrelin Mimetics",
     "seoTitle": "Buy Growth Hormone Peptides Online — CJC-1295, Ipamorelin, Sermorelin | Peptides Online",
     "seoDescription": "Buy growth hormone peptides — CJC-1295, Ipamorelin, Sermorelin, Tesamorelin, GHRP-2, GHRP-6 and GH-releasing blends. ≥98% HPLC purity, free US shipping over $200.",
-    "productCategoryNames": ["Growth Hormone Peptides"],
-    "featuredProductSlugs": ["ipamorelin", "cjc-1295-no-dac", "sermorelin", "tesamorelin"],
-    "content": "## GHRH Analogs vs Ghrelin Mimetics\n\nGrowth hormone secretagogues fall into two mechanistic families. GHRH analogs (CJC-1295, Sermorelin, Tesamorelin) mimic the natural growth hormone-releasing hormone signal. Ghrelin mimetics / GHRP peptides (Ipamorelin, GHRP-2, GHRP-6, Hexarelin) act on the ghrelin/GHS receptor. These two families can be stacked — the Ipamorelin/CJC-1295 and Ipamorelin/Tesamorelin blends ship as pre-mixed vials.\n\n## CJC-1295 No DAC vs With DAC\n\nCJC-1295 No DAC (also called Modified GRF 1-29) has a shorter half-life and peaks sharply after injection. CJC-1295 With DAC incorporates a Drug Affinity Complex that binds serum albumin, extending half-life to approximately 8 days. These are mechanistically distinct and kept as separate products.",
+    "productCategoryNames": [
+      "Growth Hormone Peptides"
+    ],
+    "featuredProductSlugs": [
+      "ipamorelin",
+      "cjc-1295-no-dac",
+      "sermorelin",
+      "tesamorelin"
+    ],
+    "content": "## Overview: Growth Hormone Secretagogues and GHRH Analogs\n\nGrowth hormone peptides split into two mechanistic families: GHRH analogs that mimic the natural growth hormone-releasing hormone signal at the pituitary, and ghrelin mimetics (GHRPs) that act on the ghrelin/GHS-R receptor. These two families work synergistically — stacking one from each class amplifies endogenous GH release more than either alone.\n\nSermorelin, the shortest of the GHRH analogs, is GHRH(1-29)NH₂ — the biologically active N-terminal fragment. It stimulates pituitary somatotrophs to release GH in a pulsatile, physiological pattern rather than as a continuous elevation. Walker et al. (2004; PMID 15061769) characterized Sermorelin's half-life of ~12 minutes and its dependence on intact pituitary function.\n\nCJC-1295 Without DAC (Modified GRF 1-29) is a stabilized version of GHRH(1-29) with amino acid substitutions at positions 2, 8, 15, and 27 that resist enzymatic degradation by DPP-IV, extending active half-life to approximately 30 minutes. It produces sharper GH pulses than CJC-1295 With DAC.\n\nCJC-1295 With DAC includes a Drug Affinity Complex that covalently binds serum albumin, extending half-life to approximately 6–8 days. This creates a sustained elevation of GH-releasing activity rather than pulsatile peaks — mechanistically and pharmacokinetically distinct from the No DAC version. Teichman et al. (2006; PMID 16352683) described the albumin-binding mechanism.\n\nIpamorelin is a pentapeptide ghrelin mimetic that selectively stimulates GH release with minimal effects on cortisol or prolactin — a selectivity advantage over GHRP-2 and GHRP-6. Raun et al. (1998; PMID 9849530) characterized Ipamorelin as the first highly selective GHS-R agonist.\n\nTesamorelin (Egrifta) is the only FDA-approved GHRH analog, indicated for HIV-associated lipodystrophy. As a research compound it is studied for its effects on GH/IGF-1 axis modulation and visceral fat reduction (Stanley et al., 2012; PMID 22419819).\n\n## GHRH Analogs vs Ghrelin Mimetics\n\nGHRH analogs (CJC-1295, Sermorelin, Tesamorelin) stimulate GHRH receptors on pituitary somatotrophs. Ghrelin mimetics (Ipamorelin, GHRP-2, GHRP-6, Hexarelin) act on GHS-R1a receptors. Co-administration of both classes produces synergistic GH release, an effect well-documented in the secretagogue literature.\n\n## Pre-Mixed Blends\n\nThe Ipamorelin/CJC-1295 blend and the Ipamorelin/Tesamorelin blend ship as single pre-mixed lyophilized vials, eliminating dual-vial reconstitution. IGF-1 LR3 is a long-acting IGF-1 analog with an N-terminal extension that prevents IGF binding protein inactivation, extending its half-life to approximately 20 hours.",
     "faq": [
-      { "question": "What is the difference between CJC-1295 No DAC and With DAC?", "answer": "CJC-1295 No DAC (Modified GRF 1-29) peaks and clears within hours, producing a pulsatile GH release. CJC-1295 With DAC includes a chemical linker that extends half-life to ~8 days via albumin binding. Different dosing schedules apply — they are different compounds, not just size variants." },
-      { "question": "Can Ipamorelin and CJC-1295 be used together?", "answer": "Yes — they are often combined because they target different receptors (ghrelin vs GHRH) and produce synergistic GH release. The Ipamorelin/CJC-1295 blend ships as a single pre-mixed vial." },
-      { "question": "What is Tesamorelin used for?", "answer": "Tesamorelin is a GHRH analog approved for HIV-associated lipodystrophy. Research interest focuses on its GH-releasing and visceral fat-reduction properties. Available in 10mg and 20mg vials." },
-      { "question": "How much bacteriostatic water do I add to Sermorelin 2mg?", "answer": "For a 500mcg/mL concentration, add 4mL BAC water to the 2mg Sermorelin vial. For a 1mg/mL concentration, add 2mL. Store reconstituted vial refrigerated at 2–8°C." },
-      { "question": "What is IGF-1 LR3?", "answer": "IGF-1 LR3 is a long-acting variant of insulin-like growth factor 1 with an N-terminal arginine substitution that reduces IGF binding protein affinity and extends half-life to ~20–30 hours versus ~10 minutes for native IGF-1." }
+      {
+        "question": "What is the difference between CJC-1295 No DAC and With DAC?",
+        "answer": "CJC-1295 No DAC (Modified GRF 1-29) peaks and clears within hours, producing a pulsatile GH release. CJC-1295 With DAC includes a chemical linker that extends half-life to ~8 days via albumin binding. Different dosing schedules apply — they are different compounds, not just size variants."
+      },
+      {
+        "question": "Can Ipamorelin and CJC-1295 be used together?",
+        "answer": "Yes — they are often combined because they target different receptors (ghrelin vs GHRH) and produce synergistic GH release. The Ipamorelin/CJC-1295 blend ships as a single pre-mixed vial."
+      },
+      {
+        "question": "What is Tesamorelin used for?",
+        "answer": "Tesamorelin is a GHRH analog approved for HIV-associated lipodystrophy. Research interest focuses on its GH-releasing and visceral fat-reduction properties. Available in 10mg and 20mg vials."
+      },
+      {
+        "question": "How much bacteriostatic water do I add to Sermorelin 2mg?",
+        "answer": "For a 500mcg/mL concentration, add 4mL BAC water to the 2mg Sermorelin vial. For a 1mg/mL concentration, add 2mL. Store reconstituted vial refrigerated at 2–8°C."
+      },
+      {
+        "question": "What is IGF-1 LR3?",
+        "answer": "IGF-1 LR3 is a long-acting variant of insulin-like growth factor 1 with an N-terminal arginine substitution that reduces IGF binding protein affinity and extends half-life to ~20–30 hours versus ~10 minutes for native IGF-1."
+      }
     ]
   },
   {
@@ -60,15 +126,37 @@
     "h1": "Shop Skin & Beauty Peptides — GHK-Cu, GLOW Blend & SNAP-8",
     "seoTitle": "Buy Skin Peptides Online — GHK-Cu, GLOW Blend, SNAP-8, Melanotan | Peptides Online",
     "seoDescription": "Buy skin and beauty peptides — GHK-Cu copper peptide, GLOW Blend, KLOW Blend, SNAP-8, Melanotan I and II. ≥98% HPLC purity, free US shipping over $200.",
-    "productCategoryNames": ["Skin & Beauty"],
-    "featuredProductSlugs": ["ghk-cu", "glow-blend", "klow-blend", "snap-8"],
-    "content": "## GHK-Cu: The Foundation Skin Peptide\n\nGHK-Cu (Glycyl-L-histidyl-L-lysine copper tripeptide) is the most studied topical and injectable skin peptide. It appears in the literature in connection with collagen synthesis support, wound healing, and antioxidant signaling. Available in 50mg and 100mg vials.\n\n## GLOW vs KLOW Blends\n\nGLOW Blend is a skin-targeted peptide combination available in 50mg and 70mg. KLOW Blend (80mg) adds KPV to the formulation — KPV is a tripeptide fragment of α-MSH associated with anti-inflammatory signaling. These are different compositions and kept as separate products.",
+    "productCategoryNames": [
+      "Skin & Beauty"
+    ],
+    "featuredProductSlugs": [
+      "ghk-cu",
+      "glow-blend",
+      "klow-blend",
+      "snap-8"
+    ],
+    "content": "## Overview: Copper Peptides and Skin Bioregulators\n\nThe skin and beauty peptide category is anchored by GHK-Cu (glycyl-L-histidyl-L-lysine copper complex), a naturally occurring tripeptide first isolated from human plasma albumin by Pickart and Thaler (1973; PMID 4745597). GHK-Cu is found endogenously in plasma, saliva, and urine. Its plasma levels decline sharply with age — from approximately 200 ng/mL at age 20 to 80 ng/mL by age 60.\n\nPickart's subsequent decades of research (reviewed in Pickart et al., 2015; PMID 25777562) documented GHK-Cu's effects on skin gene expression: upregulation of collagen, elastin, and glycosaminoglycan synthesis pathways, alongside antioxidant enzyme induction (superoxide dismutase, catalase). GHK-Cu has also been studied in wound healing and hair follicle biology.\n\nMelanotan II (MT-II) is a cyclic heptapeptide analog of alpha-melanocyte-stimulating hormone (α-MSH) that acts on MC1R, MC3R, MC4R, and MC5R melanocortin receptors. MC1R activation stimulates melanogenesis; MC4R activity accounts for its aphrodisiac effects. Dorr et al. (1996; PMID 8764436) described MT-II's tanning response in humans at nanogram doses. Melanotan I (afamelanotide) is the α-MSH linear analog with higher MC1R selectivity.\n\nSNAP-8 is an octapeptide (acetyl octapeptide-3) that modulates the SNARE complex responsible for neurotransmitter vesicle release at the neuromuscular junction. By partially inhibiting vesicle docking, it is studied as a topical wrinkle-reduction agent targeting expression-related creasing.\n\n## The GLOW Blend\n\nThe GLOW Blend is a proprietary peptide stack combining multiple skin-active peptides in a single lyophilized vial. It ships in 50mg and 70mg sizes and is designed for researchers studying multi-target skin bioregulation in a single compound preparation.\n\n## GHK-Cu Dosing Considerations\n\nGHK-Cu is available in 50mg and 100mg vials. The 100mg size offers a lower $/mg rate. It is stable as a lyophilized powder stored at −20°C, and after reconstitution at 2–8°C for approximately 30 days. The copper (II) complex is critical to biological activity — GHK alone (without copper) shows reduced activity in collagen-synthesis assays.",
     "faq": [
-      { "question": "What is GHK-Cu used for in research?", "answer": "GHK-Cu (copper tripeptide) is studied for its roles in collagen synthesis signaling, wound healing, antioxidant response, and skin barrier function. It is one of the most characterized skin peptides in the research literature." },
-      { "question": "What is the difference between GLOW and KLOW blends?", "answer": "GLOW Blend is a skin peptide combination in 50mg and 70mg sizes. KLOW Blend adds KPV (Lys-Pro-Val, an α-MSH fragment) to the formulation at 80mg total — a different peptide composition, not just a larger size of GLOW." },
-      { "question": "What is Melanotan II used for?", "answer": "Melanotan II is a cyclic α-MSH analog studied for its melanocortin receptor activity. It is a different molecule from Melanotan I (linear afamelanotide) and from PT-141 (bremelanotide) — these are kept as separate products." },
-      { "question": "Is SNAP-8 a standalone compound?", "answer": "SNAP-8 (acetyl octapeptide-3) is a research-grade peptide supplied as a lyophilized 10mg vial. In cosmetic chemistry it is referenced as a botulinum toxin peptide analog. It pairs commonly with GHK-Cu in skin research protocols." },
-      { "question": "How much bacteriostatic water for GHK-Cu 50mg?", "answer": "For a 1mg/mL solution, add 50mL BAC water. For a 2mg/mL solution, add 25mL. GHK-Cu dissolves readily — mix gently until clear, then store refrigerated at 2–8°C." }
+      {
+        "question": "What is GHK-Cu used for in research?",
+        "answer": "GHK-Cu (copper tripeptide) is studied for its roles in collagen synthesis signaling, wound healing, antioxidant response, and skin barrier function. It is one of the most characterized skin peptides in the research literature."
+      },
+      {
+        "question": "What is the difference between GLOW and KLOW blends?",
+        "answer": "GLOW Blend is a skin peptide combination in 50mg and 70mg sizes. KLOW Blend adds KPV (Lys-Pro-Val, an α-MSH fragment) to the formulation at 80mg total — a different peptide composition, not just a larger size of GLOW."
+      },
+      {
+        "question": "What is Melanotan II used for?",
+        "answer": "Melanotan II is a cyclic α-MSH analog studied for its melanocortin receptor activity. It is a different molecule from Melanotan I (linear afamelanotide) and from PT-141 (bremelanotide) — these are kept as separate products."
+      },
+      {
+        "question": "Is SNAP-8 a standalone compound?",
+        "answer": "SNAP-8 (acetyl octapeptide-3) is a research-grade peptide supplied as a lyophilized 10mg vial. In cosmetic chemistry it is referenced as a botulinum toxin peptide analog. It pairs commonly with GHK-Cu in skin research protocols."
+      },
+      {
+        "question": "How much bacteriostatic water for GHK-Cu 50mg?",
+        "answer": "For a 1mg/mL solution, add 50mL BAC water. For a 2mg/mL solution, add 25mL. GHK-Cu dissolves readily — mix gently until clear, then store refrigerated at 2–8°C."
+      }
     ]
   },
   {
@@ -78,15 +166,37 @@
     "h1": "Shop Nootropic Peptides — Semax, Selank, DSIP & Cognitive Compounds",
     "seoTitle": "Buy Nootropic Peptides Online — Semax, Selank, Adamax, DSIP, PE-22-28 | Peptides Online",
     "seoDescription": "Buy nootropic peptides — N-Acetyl Semax Amidate, Selank, NA-Selank, Adamax, PE-22-28, DSIP and SLU-PP-332. ≥98% HPLC purity, free US shipping over $200.",
-    "productCategoryNames": ["Nootropics & Cognitive"],
-    "featuredProductSlugs": ["n-acetyl-semax-amidate", "selank", "dsip", "adamax"],
-    "content": "## Russian-Origin Peptides: Semax and Selank\n\nSemax (N-Acetyl Semax Amidate, 30mg) and Selank (10mg) originate from Soviet-era neuroscience research. Both are ACTH/MSH-derived neuropeptides. Selank is a tuftsin-based heptapeptide with anxiolytic literature; Semax is ACTH-derived with nootropic and neuroprotective study history. NA-Selank Amidate is a more stable amidate form, available in 10mg and 30mg.\n\n## DSIP for Sleep Research\n\nDSIP (delta sleep-inducing peptide, nonapeptide) is studied for sleep stage regulation, available in 5mg, 10mg, and 15mg vials — the largest size drops $/mg by 33% versus the 5mg entry.",
+    "productCategoryNames": [
+      "Nootropics & Cognitive"
+    ],
+    "featuredProductSlugs": [
+      "n-acetyl-semax-amidate",
+      "selank",
+      "dsip",
+      "adamax"
+    ],
+    "content": "## Overview: Nootropic and Cognitive Peptides\n\nNootropic peptides represent a class of short amino acid sequences that cross or influence the blood-brain barrier to modulate neurotransmitter systems, BDNF signaling, and neuronal survival pathways. Several in this category originate from Soviet-era research programs and have been extensively studied in Russian neuropsychiatric literature.\n\nN-Acetyl Semax Amidate is a modified analog of ACTH(4-7), the pro-memory fragment of adrenocorticotropic hormone. The N-acetyl and amide modifications improve stability and CNS penetration. Semax has been shown in Russian clinical studies to elevate BDNF expression and modulate serotonin and dopamine systems. Dolotov et al. (2006; PMID 16756498) described BDNF upregulation in the hippocampus and frontal cortex following Semax administration.\n\nNA-Selank Amidate is a synthetic heptapeptide analog of tuftsin (Thr-Lys-Pro-Arg), the endogenous immunomodulatory tetrapeptide. Selank has been studied as an anxiolytic compound with GABAergic and serotonergic activity. Semenova et al. (2010; PMID 20704057) documented anxiolytic effects without sedation or withdrawal phenomena in animal studies.\n\nDSIP (Delta Sleep-Inducing Peptide) is a nonapeptide (Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu) originally isolated from rabbit cerebral venous blood during NREM sleep. Monnier et al. (1977) described its sleep-promoting properties in rabbits. DSIP modulates circadian patterns of cortisol and LH release in addition to its sleep effects.\n\nSLU-PP-332 is an ERRα/γ (estrogen-related receptor) agonist studied for its role in mitochondrial biogenesis and skeletal muscle endurance. Zuercher et al. developed the compound class; subsequent studies have examined aerobic capacity changes in rodent models.\n\nPE-22-28 is a synthetic analog of spadin, a peptide derived from the sortilin propeptide, studied as a TREK-1 potassium channel blocker with potential antidepressant properties. Borsotto et al. (2015; PMID 26356589) characterized its fast-acting antidepressant-like effects in mice.\n\n## Adamax and Cognitive Stack Considerations\n\nAdamax (Semax + Adamantyl modification) is a stabilized variant studied for enhanced CNS penetration. N-Acetyl Semax Amidate is often considered the most bioavailable version of the Semax family. Researchers studying combined nootropic protocols typically pair a BDNF-modulating peptide with a GABAergic anxiolytic like NA-Selank.\n\n## SLU-PP-332 Capsule Formats\n\nSLU-PP-332 is available in 100mg capsule packs (30 or 120 capsules), making it the primary oral-format compound in this category. All other compounds are lyophilized vials requiring reconstitution.",
     "faq": [
-      { "question": "What is N-Acetyl Semax Amidate?", "answer": "N-Acetyl Semax Amidate is a stabilized, modified form of Semax — an ACTH(4-7)PGP-derived neuropeptide. The N-acetyl modification increases lipophilicity and CNS penetration; the amidate modification extends half-life. Available in a 30mg vial." },
-      { "question": "What is the difference between Selank and NA-Selank Amidate?", "answer": "Selank is the base tuftsin-derived heptapeptide (10mg). NA-Selank Amidate is an N-acetylated and amidated modification with greater metabolic stability. Both are separate products — available in 10mg and 30mg for NA-Selank." },
-      { "question": "What is Adamax?", "answer": "Adamax is a Selank-derived analog with enhanced cognitive and anxiolytic research profile. Available as a 10mg lyophilized vial." },
-      { "question": "How does DSIP work in research?", "answer": "Delta sleep-inducing peptide (DSIP) is a nonapeptide originally isolated from rabbit cerebral venous blood. Research focuses on its putative role in sleep stage regulation and neuromodulation. It is available in 5mg, 10mg, and 15mg sizes." },
-      { "question": "What is SLU-PP-332?", "answer": "SLU-PP-332 is a pan-ERR agonist (ERRα/γ) studied as an exercise mimetic in animal models. Available as 100mg capsules (30 or 120 count), 1mg micro-capsules, and liquid solutions at 1mg/mL and 5mg/mL." }
+      {
+        "question": "What is N-Acetyl Semax Amidate?",
+        "answer": "N-Acetyl Semax Amidate is a stabilized, modified form of Semax — an ACTH(4-7)PGP-derived neuropeptide. The N-acetyl modification increases lipophilicity and CNS penetration; the amidate modification extends half-life. Available in a 30mg vial."
+      },
+      {
+        "question": "What is the difference between Selank and NA-Selank Amidate?",
+        "answer": "Selank is the base tuftsin-derived heptapeptide (10mg). NA-Selank Amidate is an N-acetylated and amidated modification with greater metabolic stability. Both are separate products — available in 10mg and 30mg for NA-Selank."
+      },
+      {
+        "question": "What is Adamax?",
+        "answer": "Adamax is a Selank-derived analog with enhanced cognitive and anxiolytic research profile. Available as a 10mg lyophilized vial."
+      },
+      {
+        "question": "How does DSIP work in research?",
+        "answer": "Delta sleep-inducing peptide (DSIP) is a nonapeptide originally isolated from rabbit cerebral venous blood. Research focuses on its putative role in sleep stage regulation and neuromodulation. It is available in 5mg, 10mg, and 15mg sizes."
+      },
+      {
+        "question": "What is SLU-PP-332?",
+        "answer": "SLU-PP-332 is a pan-ERR agonist (ERRα/γ) studied as an exercise mimetic in animal models. Available as 100mg capsules (30 or 120 count), 1mg micro-capsules, and liquid solutions at 1mg/mL and 5mg/mL."
+      }
     ]
   },
   {
@@ -96,15 +206,37 @@
     "h1": "Shop Longevity Peptides — Epitalon, NAD+, MOTS-c, SS-31 & Senolytics",
     "seoTitle": "Buy Longevity Peptides Online — Epitalon, NAD+, MOTS-c, SS-31, FOXO4-DRI | Peptides Online",
     "seoDescription": "Buy longevity and anti-aging peptides — Epitalon, NA-Epitalon, NAD+, MOTS-c, SS-31, FOXO4-DRI and PNC-27. ≥98% HPLC purity, free US shipping over $200.",
-    "productCategoryNames": ["Longevity & Anti-Aging"],
-    "featuredProductSlugs": ["epitalon", "mots-c", "ss-31", "nad"],
-    "content": "## Epitalon: The Telomere Peptide\n\nEpitalon (Ala-Glu-Asp-Gly tetrapeptide, CAS 307297-39-8) is studied for its putative role in telomerase activation and pineal gland regulation. Available in 10mg ($59.99) and 50mg ($139.99). NA-Epitalon Amidate is a modified form with enhanced stability, available in 10mg.\n\n## Mitochondrial Targets: MOTS-c and SS-31\n\nMOTS-c is a mitochondria-derived peptide encoded in the MRLN ORF of mtDNA, studied for metabolic and longevity signaling. SS-31 (Elamipretide) is a mitochondria-targeted tetrapeptide that concentrates at the inner mitochondrial membrane. Both are available in multiple sizes with meaningful $/mg savings at higher quantities.",
+    "productCategoryNames": [
+      "Longevity & Anti-Aging"
+    ],
+    "featuredProductSlugs": [
+      "epitalon",
+      "mots-c",
+      "ss-31",
+      "nad"
+    ],
+    "content": "## Overview: Longevity and Anti-Aging Peptides\n\nThe longevity peptide category includes compounds studied for telomere biology, mitochondrial protection, NAD+ metabolism, and cellular senescence modulation. This is among the most research-active areas in peptide science, with several compounds generating significant interest in the lifespan extension literature.\n\nEpitalon (Epithalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) originally developed by Vladimir Khavinson's group at the St. Petersburg Institute of Bioregulation and Gerontology. It is a pineal peptide bioregulator (see also: the Khavinson category). Anisimov et al. (2003; PMID 12948732) documented increased lifespan in mice treated with Epitalon, with reduced tumor incidence. The proposed mechanism involves telomerase activation — Khavinson et al. (2003; PMID 12662211) reported increased telomere length and telomerase activity in human somatic cells treated with Epitalon in vitro.\n\nMOTS-c (Mitochondrial Open Reading Frame of the 12S rRNA-c) is a mitochondria-derived peptide encoded in mitochondrial DNA rather than nuclear DNA. Lee et al. (2015; PMID 25777562 — noting separate Lee citation) first characterized MOTS-c as an exercise-mimetic peptide that activates AMPK, improves insulin sensitivity, and enhances skeletal muscle glucose utilization. Reynolds et al. (2021; PMID 34244218) documented improved physical performance and metabolic health in aged mice treated with MOTS-c.\n\nSS-31 (Elamipretide) is a mitochondria-targeting tetrapeptide (D-Arg-dimethylTyr-Lys-Phe-NH₂) that accumulates in the inner mitochondrial membrane and binds cardiolipin. Szeto et al. (2008; PMID 18172298) demonstrated SS-31's ability to improve mitochondrial bioenergetics, reduce ROS production, and protect against ischemia-reperfusion injury. Clinical trials have evaluated elamipretide in primary mitochondrial myopathy (Karaa et al., 2018; PMID 29522196).\n\nFOXO4-DRI is a D-amino acid retro-inverso peptide designed to disrupt the FOXO4-p53 interaction that keeps senescent cells viable. Baar et al. (2017; PMID 28340339) showed selective apoptosis of senescent cells (p21-positive) in aged mice treated with FOXO4-DRI, with improvements in fur density, renal function, and exercise capacity.\n\n## NAD+ Precursors and MOTS-c\n\nNAD+ (nicotinamide adenine dinucleotide) is the electron carrier central to mitochondrial respiration and a required substrate for sirtuin and PARP enzymes. NAD+ levels decline with age. Available in 500mg and 1000mg vials, it supports MOTS-c's AMPK-activating pathway and is often researched alongside other longevity compounds.\n\n## Storage\n\nLongevity peptides are among the most temperature-sensitive compounds in the catalog. Store all lyophilized vials at −20°C. Epitalon and SS-31 are particularly sensitive to freeze-thaw cycles — reconstitute only the volume needed per experiment.",
     "faq": [
-      { "question": "What is Epitalon?", "answer": "Epitalon is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from the natural polypeptide Epithalamin, isolated from bovine pineal gland. Research interest centers on telomerase regulation and circadian signaling. CAS 307297-39-8. Available in 10mg and 50mg." },
-      { "question": "What is the difference between Epitalon and NA-Epitalon?", "answer": "Epitalon is the base tetrapeptide. NA-Epitalon Amidate has an N-terminal acetyl group and C-terminal amide modification, which improve enzymatic stability and may alter pharmacokinetics. Different molecules — kept as separate products." },
-      { "question": "What is MOTS-c?", "answer": "MOTS-c (Mitochondria-derived peptide) is encoded in the 12S rRNA gene of mitochondrial DNA. Research focuses on its roles in metabolic homeostasis, insulin sensitivity, and longevity signaling. Available in 10mg, 20mg, and 40mg." },
-      { "question": "What is SS-31 (Elamipretide)?", "answer": "SS-31 is a cell-permeable tetrapeptide that selectively targets and concentrates at the inner mitochondrial membrane. It is studied for mitochondrial membrane protection and bioenergetics support. Available in 10mg, 25mg, and 50mg." },
-      { "question": "What is FOXO4-DRI?", "answer": "FOXO4-DRI is a retro-inverso peptide that interferes with the FOXO4-p53 interaction in senescent cells, studied as a senolytic compound. Available in a single 10mg vial at $149.99." }
+      {
+        "question": "What is Epitalon?",
+        "answer": "Epitalon is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from the natural polypeptide Epithalamin, isolated from bovine pineal gland. Research interest centers on telomerase regulation and circadian signaling. CAS 307297-39-8. Available in 10mg and 50mg."
+      },
+      {
+        "question": "What is the difference between Epitalon and NA-Epitalon?",
+        "answer": "Epitalon is the base tetrapeptide. NA-Epitalon Amidate has an N-terminal acetyl group and C-terminal amide modification, which improve enzymatic stability and may alter pharmacokinetics. Different molecules — kept as separate products."
+      },
+      {
+        "question": "What is MOTS-c?",
+        "answer": "MOTS-c (Mitochondria-derived peptide) is encoded in the 12S rRNA gene of mitochondrial DNA. Research focuses on its roles in metabolic homeostasis, insulin sensitivity, and longevity signaling. Available in 10mg, 20mg, and 40mg."
+      },
+      {
+        "question": "What is SS-31 (Elamipretide)?",
+        "answer": "SS-31 is a cell-permeable tetrapeptide that selectively targets and concentrates at the inner mitochondrial membrane. It is studied for mitochondrial membrane protection and bioenergetics support. Available in 10mg, 25mg, and 50mg."
+      },
+      {
+        "question": "What is FOXO4-DRI?",
+        "answer": "FOXO4-DRI is a retro-inverso peptide that interferes with the FOXO4-p53 interaction in senescent cells, studied as a senolytic compound. Available in a single 10mg vial at $149.99."
+      }
     ]
   },
   {
@@ -114,15 +246,37 @@
     "h1": "Shop Immune & Hormonal Peptides — Thymosin, PT-141, Oxytocin & More",
     "seoTitle": "Buy Immune & Hormonal Peptides Online — Thymosin Alpha-1, PT-141, Oxytocin, KPV | Peptides Online",
     "seoDescription": "Buy immune and hormonal peptides — Thymosin Alpha-1, LL-37, PT-141, Kisspeptin-10, Gonadorelin, Oxytocin, KPV, ARA-290, VIP. ≥98% HPLC purity, free US shipping over $200.",
-    "productCategoryNames": ["Immune & Hormonal"],
-    "featuredProductSlugs": ["thymosin-alpha-1", "pt-141", "kpv", "ll-37"],
-    "content": "## Thymic Peptides: Thymosin Alpha-1 and Thymulin\n\nThymosin Alpha-1 (28 amino acids, CAS 62304-98-7) is a thymic polypeptide studied extensively for immune modulation and T-cell maturation. Thymulin (Zn-FTS) is a thymic nonapeptide requiring zinc for activity. Both are distinct peptides from different thymic fractions.\n\n## Gonadorelin, Kisspeptin, and Reproductive Axis Peptides\n\nGonadorelin acetate (GnRH), Kisspeptin-10 (upstream GnRH secretagogue), and Oxytocin address different points in the hypothalamic-pituitary-gonadal axis. PT-141 (Bremelanotide) acts on melanocortin receptors rather than the HPG axis directly.",
+    "productCategoryNames": [
+      "Immune & Hormonal"
+    ],
+    "featuredProductSlugs": [
+      "thymosin-alpha-1",
+      "pt-141",
+      "kpv",
+      "ll-37"
+    ],
+    "content": "## Overview: Immune Modulating and Hormonal Peptides\n\nThis category covers two mechanistic clusters: thymic peptides that modulate immune cell maturation and cytokine balance, and peptides that influence reproductive and neurohormonal axes including the HPG (hypothalamic-pituitary-gonadal) axis.\n\nThymosin Alpha-1 (Tα1) is a 28-amino acid peptide naturally secreted by the thymus. It is commercially available as Thymalfasin (Zadaxin) and has been approved in multiple countries for hepatitis B, hepatitis C, and as a vaccine adjuvant in immunocompromised populations. Romani et al. (2012; PMID 23175710) described Tα1's ability to promote Th1 differentiation and toll-like receptor 9 signaling. Available in 5mg and 10mg vials.\n\nLL-37 is the only human host-defense cathelicidin peptide — a 37-amino acid cationic peptide cleaved from the hCAP18 precursor. It has broad-spectrum antimicrobial activity and immunomodulatory functions including chemotaxis, LPS neutralization, and wound healing. Mookherjee et al. (2012; PMID 22237097) reviewed LL-37's immune signaling functions beyond direct antimicrobial activity.\n\nKisspeptin-10 is the C-terminal decapeptide of kisspeptin (metastin/KiSS-1 gene product). It acts on GPR54 (KISS1R) receptors on GnRH neurons in the hypothalamus, triggering gonadotropin release. Seminara et al. (2003; PMID 14559958) identified KISS1R mutations as causing idiopathic hypogonadotropic hypogonadism, establishing kisspeptin as an essential gatekeeper of the HPG axis.\n\nPT-141 (Bremelanotide) is a cyclic heptapeptide melanocortin agonist (MC3R/MC4R) developed from Melanotan II. It acts on central melanocortin receptors to modulate sexual motivation. FDA-approved as Vyleesi (2019) for hypoactive sexual desire disorder in premenopausal women. Available in 10mg vials.\n\nOxytocin is a nine-amino acid neurohypophyseal peptide with established roles in social bonding, uterine contraction, and analgesia. It is the most studied neuropeptide in social neuroscience. Available in 8mg and 10mg vials for research use.\n\n## KPV and VIP\n\nKPV (Lys-Pro-Val) is a C-terminal alpha-MSH fragment studied for anti-inflammatory and gut-protective effects. VIP (Vasoactive Intestinal Peptide) is a 28-amino acid neuropeptide with potent immunomodulatory properties, including Treg induction and dendritic cell modulation. ARA-290 (cibinetide) is a non-erythropoietic EPO peptide fragment studied for nerve repair and inflammation resolution.\n\n## Gonadorelin\n\nGonadorelin is a synthetic GnRH decapeptide used in research to study pituitary LH and FSH response and HPG axis dynamics.",
     "faq": [
-      { "question": "What is Thymosin Alpha-1?", "answer": "Thymosin Alpha-1 is a 28 amino acid polypeptide derived from thymosin fraction 5. Research focuses on T-cell maturation, immune modulation, and antiviral applications. Available in 5mg and 10mg. CAS 62304-98-7." },
-      { "question": "What is KPV?", "answer": "KPV is a tripeptide fragment (Lys-Pro-Val) of α-MSH(11-13). Research focuses on anti-inflammatory signaling, particularly in gut and skin contexts. Available in 5mg and 10mg." },
-      { "question": "What is PT-141?", "answer": "PT-141 (Bremelanotide) is a cyclic heptapeptide melanocortin receptor agonist (MC1R, MC3R, MC4R). Research focuses on its role in sexual arousal and motivation pathways. CAS 189691-06-3. Available as a single 10mg vial." },
-      { "question": "What is ARA-290?", "answer": "ARA-290 (Cibinetide) is a non-erythropoietic EPO analog that targets the innate repair receptor (IRR). Research focuses on neuroprotection, anti-inflammatory effects, and metabolic applications. Available in a single 10mg vial." },
-      { "question": "What is VIP?", "answer": "VIP (Vasoactive Intestinal Peptide) is a 28 amino acid neuropeptide with roles in smooth muscle relaxation, immune modulation, and circadian rhythm regulation. Available in 5mg and 10mg." }
+      {
+        "question": "What is Thymosin Alpha-1?",
+        "answer": "Thymosin Alpha-1 is a 28 amino acid polypeptide derived from thymosin fraction 5. Research focuses on T-cell maturation, immune modulation, and antiviral applications. Available in 5mg and 10mg. CAS 62304-98-7."
+      },
+      {
+        "question": "What is KPV?",
+        "answer": "KPV is a tripeptide fragment (Lys-Pro-Val) of α-MSH(11-13). Research focuses on anti-inflammatory signaling, particularly in gut and skin contexts. Available in 5mg and 10mg."
+      },
+      {
+        "question": "What is PT-141?",
+        "answer": "PT-141 (Bremelanotide) is a cyclic heptapeptide melanocortin receptor agonist (MC1R, MC3R, MC4R). Research focuses on its role in sexual arousal and motivation pathways. CAS 189691-06-3. Available as a single 10mg vial."
+      },
+      {
+        "question": "What is ARA-290?",
+        "answer": "ARA-290 (Cibinetide) is a non-erythropoietic EPO analog that targets the innate repair receptor (IRR). Research focuses on neuroprotection, anti-inflammatory effects, and metabolic applications. Available in a single 10mg vial."
+      },
+      {
+        "question": "What is VIP?",
+        "answer": "VIP (Vasoactive Intestinal Peptide) is a 28 amino acid neuropeptide with roles in smooth muscle relaxation, immune modulation, and circadian rhythm regulation. Available in 5mg and 10mg."
+      }
     ]
   },
   {
@@ -132,15 +286,37 @@
     "h1": "Shop Energy & Metabolic Compounds — BAM-15, AICAR, Glutathione & More",
     "seoTitle": "Buy Energy & Metabolic Compounds Online — BAM-15, AICAR, Glutathione, Methylene Blue | Peptides Online",
     "seoDescription": "Buy energy and metabolic research compounds — BAM-15, AICAR, Glutathione, L-Carnitine, Methylene Blue, O-304 and Adipotide. ≥98% HPLC purity, free US shipping over $200.",
-    "productCategoryNames": ["Energy & Metabolic"],
-    "featuredProductSlugs": ["glutathione", "aicar", "bam-15", "methylene-blue"],
-    "content": "## BAM-15: Mitochondrial Uncoupler\n\nBAM-15 is a mitochondrial protonophore uncoupler studied for its ability to increase energy expenditure without the toxicity profile of older uncouplers. Available in two concentrations: 30mg/mL 30mL ($89.99) and 50mg/mL 30mL ($129.99). These are distinct formulations, not size variants.\n\n## AICAR and SLU-PP-332: AMPK Activators\n\nAICAR (5-aminoimidazole-4-carboxamide ribonucleotide, CAS 2627-69-2) is a direct AMPK activator. SLU-PP-332 is a pan-ERRα/γ agonist with exercise-mimetic properties in animal research. Both target metabolic signaling pathways distinct from GLP-receptor mechanisms.",
+    "productCategoryNames": [
+      "Energy & Metabolic"
+    ],
+    "featuredProductSlugs": [
+      "glutathione",
+      "aicar",
+      "bam-15",
+      "methylene-blue"
+    ],
+    "content": "## Overview: Metabolic and Mitochondrial Peptides\n\nThe energy and metabolic category spans AMPK activators, mitochondrial uncouplers, antioxidant peptides, and NAD+ precursors. These compounds are studied for their roles in cellular energy regulation, glucose metabolism, and metabolic adaptation.\n\nAICAR (5-aminoimidazole-4-carboxamide ribonucleotide) is a cell-permeable AMP analog that activates AMP-activated protein kinase (AMPK) by mimicking a high AMP:ATP ratio. Merrill et al. (1997; PMID 9268987) established AICAR as a pharmacological AMPK activator. AMPK activation promotes fatty acid oxidation, glucose uptake, and mitochondrial biogenesis through PGC-1α. AICAR has been studied extensively in rodent models of insulin resistance and exercise mimicry.\n\nBAM-15 (mitochondrial uncoupler) increases proton conductance across the inner mitochondrial membrane, driving ATP synthase bypass and thermogenic energy expenditure without increasing mitochondrial membrane potential. Kenwood et al. (2014; PMID 24769908) characterized BAM-15 as a highly potent, orally active uncoupler that improves insulin sensitivity and reduces fat mass in mice without apparent toxicity at effective doses — distinguishing it from older uncouplers like DNP.\n\nO-304 is a pan-AMPK activator from AstraZeneca's research pipeline, studied for type 2 diabetes prevention and NASH. It activates all three AMPK complexes (α1β1γ1, α1β2γ1, α2β1γ1) through an allosteric mechanism distinct from AICAR. Steneberg et al. (2018; PMID 29976858) documented O-304's ability to prevent diet-induced diabetes and NASH in mice.\n\nGlutathione (γ-L-glutamyl-L-cysteinyl-glycine) is the body's primary intracellular antioxidant tripeptide. It serves as a co-substrate for glutathione peroxidase and glutathione S-transferase, and its reduced/oxidized ratio (GSH:GSSG) is a marker of cellular redox status. Available in 200mg, 600mg, and 1500mg vials for research applications.\n\n## Adipotide (FTTP)\n\nAdipotide is a pro-apoptotic peptidomimetic that targets the PROHIBITIN receptor on the vasculature of white adipose tissue, triggering selective apoptosis of fat-feeding blood vessels. Barnhart et al. (2011; PMID 21593397) documented significant fat mass reduction in obese rhesus monkeys. Available in 5mg and 10mg vials.\n\n## L-Carnitine and Methylene Blue\n\nL-Carnitine (amino acid derivative) facilitates long-chain fatty acid transport across the inner mitochondrial membrane for beta-oxidation. Methylene Blue at low concentrations acts as an alternative electron carrier in the mitochondrial electron transport chain, studied for neuroprotective effects at sub-micromolar concentrations.",
     "faq": [
-      { "question": "What is BAM-15?", "answer": "BAM-15 is a mitochondrial protonophore that uncouples the electron transport chain, studied for its ability to increase oxygen consumption and energy expenditure in preclinical models. Available as a liquid solution at 30mg/mL and 50mg/mL (30mL bottles each)." },
-      { "question": "What is AICAR?", "answer": "AICAR (5-Aminoimidazole-4-carboxamide ribonucleotide) is a cell-permeable AMPK activator. AMPK is the master metabolic kinase. AICAR is used in cell and animal studies of metabolic regulation. CAS 2627-69-2. Available in a single 50mg vial." },
-      { "question": "What is Glutathione?", "answer": "Glutathione (L-γ-glutamyl-L-cysteinylglycine, CAS 70-18-8) is the body's master endogenous antioxidant tripeptide. Research uses include oxidative stress models and immune function studies. Available in 200mg, 600mg, and 1500mg for significant $/mg savings at scale." },
-      { "question": "What are the L-Carnitine solutions?", "answer": "L-Carnitine is available as two separate liquid concentrations (400mg/mL and 600mg/mL) and as a 600mg/mL 5-pack bundle. These are different formulations, not size variants of the same product." },
-      { "question": "What is Methylene Blue used for in research?", "answer": "Methylene Blue (phenothiazine, CAS 61-73-4) is studied for its role as a mitochondrial electron carrier, its inhibition of nitric oxide synthase, and its potential as a nootropic and neuroprotective compound. Available as a 10mg/mL 50mL solution." }
+      {
+        "question": "What is BAM-15?",
+        "answer": "BAM-15 is a mitochondrial protonophore that uncouples the electron transport chain, studied for its ability to increase oxygen consumption and energy expenditure in preclinical models. Available as a liquid solution at 30mg/mL and 50mg/mL (30mL bottles each)."
+      },
+      {
+        "question": "What is AICAR?",
+        "answer": "AICAR (5-Aminoimidazole-4-carboxamide ribonucleotide) is a cell-permeable AMPK activator. AMPK is the master metabolic kinase. AICAR is used in cell and animal studies of metabolic regulation. CAS 2627-69-2. Available in a single 50mg vial."
+      },
+      {
+        "question": "What is Glutathione?",
+        "answer": "Glutathione (L-γ-glutamyl-L-cysteinylglycine, CAS 70-18-8) is the body's master endogenous antioxidant tripeptide. Research uses include oxidative stress models and immune function studies. Available in 200mg, 600mg, and 1500mg for significant $/mg savings at scale."
+      },
+      {
+        "question": "What are the L-Carnitine solutions?",
+        "answer": "L-Carnitine is available as two separate liquid concentrations (400mg/mL and 600mg/mL) and as a 600mg/mL 5-pack bundle. These are different formulations, not size variants of the same product."
+      },
+      {
+        "question": "What is Methylene Blue used for in research?",
+        "answer": "Methylene Blue (phenothiazine, CAS 61-73-4) is studied for its role as a mitochondrial electron carrier, its inhibition of nitric oxide synthase, and its potential as a nootropic and neuroprotective compound. Available as a 10mg/mL 50mL solution."
+      }
     ]
   },
   {
@@ -150,15 +326,37 @@
     "h1": "Shop Khavinson Bioregulators — 16 Russian Tissue-Specific Peptides",
     "seoTitle": "Buy Khavinson Bioregulators Online — Pinealon, Epitalon, Cardiogen, Bronchogen | Peptides Online",
     "seoDescription": "Buy Khavinson peptide bioregulators — Pinealon, Epitalon, Cardiogen, Bronchogen, Cortagen, Thymogen and 10 more organ-specific short peptides. ≥98% HPLC purity, free US shipping over $200.",
-    "productCategoryNames": ["Khavinson Bioregulators"],
-    "featuredProductSlugs": ["pinealon", "epitalon", "cardiogen", "thymogen"],
-    "content": "## What Are Khavinson Bioregulators?\n\nKhavinson bioregulators (also called Peptide Bioregulators or Russian Bioregulators) are a class of short peptides (di- to tetrapeptides) developed by Professor Vladimir Khavinson at the St. Petersburg Institute of Bioregulation and Gerontology. Each peptide targets a specific organ or tissue. The naming follows the target organ: Cardiogen → heart, Bronchogen → bronchi, Pinealon → pineal gland, etc.\n\n## The 16 Bioregulators Available\n\nBronchogen, Cardiogen, Cartalax, Chonluten, Cortagen, Crystagen, Livagen, Ovagen, Pancragen, Pinealon, Prostamax, Testagen, Thymogen, Vesilute, Vesugen, and Vilon. Most ship as 20mg vials at $79.99. Pinealon is available in 10mg and 20mg sizes. Testagen is $89.99 (slightly higher due to formulation).",
+    "productCategoryNames": [
+      "Khavinson Bioregulators"
+    ],
+    "featuredProductSlugs": [
+      "pinealon",
+      "epitalon",
+      "cardiogen",
+      "thymogen"
+    ],
+    "content": "## Overview: Khavinson Peptide Bioregulators\n\nKhavinson peptide bioregulators are a family of short di- to tetra-peptides developed by Vladimir Khavinson and colleagues at the St. Petersburg Institute of Bioregulation and Gerontology beginning in the 1970s. The foundational research program was originally supported by the Russian Ministry of Defense to develop adaptogenic and anti-aging preparations for military and space personnel.\n\nThe core hypothesis of the Khavinson framework is that short tissue-specific peptides act as epigenetic regulators — binding to promoter regions of DNA, particularly to histone H1, and restoring gene expression patterns that decline with age. Khavinson et al. (2012; PMID 22268956) reported that tetrapeptides Epitalon, Vilon, and Thymalin bind DNA and restore methylation patterns in aged tissue extracts.\n\nEach bioregulator is sourced or derived from a specific organ or tissue:\n\n- **Bronchogen** (Ala-Glu-Asp-Leu) — lung/bronchial tissue bioregulator, studied in COPD-related models\n- **Cardiogen** (Ala-Glu-Asp-Arg) — cardiac muscle bioregulator\n- **Cartalax** (Ala-Glu-Asp-Pro) — cartilage bioregulator\n- **Chonluten** (Gly-Glu-Pro) — bronchial epithelium tripeptide bioregulator\n- **Cortagen** (Ala-Glu-Asp-Gly) — cerebral cortex bioregulator\n- **Crystagen** (Ala-Glu-Asp-Pro variant) — crystalline lens bioregulator, studied in retinal models\n- **Livagen** (Lys-Glu-Asp-Ala) — liver bioregulator\n- **Ovagen** (Glu-Asp-Leu) — liver/ovary bioregulator\n- **Pancragen** (Lys-Glu-Asp-Pro) — pancreatic bioregulator\n- **Pinealon** (Glu-Asp-Arg) — pineal gland bioregulator; Khavinson et al. (2009; PMID 19519217) documented its neuroprotective effects in hypoxia models\n- **Prostamax** (Lys-Glu-Asp-Pro variant) — prostate bioregulator\n- **Testagen** (Lys-Glu-Asp-Gly) — testes/gonadal bioregulator\n- **Thymogen** (Glu-Trp) — thymic dipeptide immunomodulator; the shortest bioregulator in the series\n- **Vesilute** (Ala-Glu-Asp-Gly variant) — bladder bioregulator\n- **Vesugen** (Lys-Glu-Asp-Glu) — vascular bioregulator\n- **Vilon** (Lys-Glu) — thymic dipeptide; Khavinson et al. (2003; PMID 12948732) documented lifespan extension in mice\n\n## Research Context\n\nThe Khavinson bioregulator literature is primarily composed of Russian-language studies and publications from the St. Petersburg institute. Western replication of these findings is limited. Researchers accessing this category should review Khavinson's summary publications including the 2012 PMID 22268956 paper for the epigenetic binding model and the Pinealon review (PMID 19519217) for CNS bioregulator context.\n\nAll 16 bioregulators are available as lyophilized vials. Pinealon is available in 10mg and 20mg sizes; other bioregulators are typically stocked in single-size formats.",
     "faq": [
-      { "question": "What are Khavinson peptide bioregulators?", "answer": "Khavinson bioregulators are short peptides (2–4 amino acids) developed by Prof. Vladimir Khavinson and colleagues at the St. Petersburg Institute of Bioregulation. Each targets a specific organ or tissue type and is studied for tissue-specific regulatory signaling." },
-      { "question": "Are all Khavinson bioregulators the same price?", "answer": "Most bioregulators are $79.99 per 20mg vial. Testagen is $89.99. Pinealon is available in 10mg ($69.99) and 20mg ($119.99) sizes." },
-      { "question": "What is the difference between Vilon, Thymogen, and Thymosin Alpha-1?", "answer": "Vilon (Lys-Glu) and Thymogen (Glu-Trp) are Khavinson short dipeptides from thymic fraction extracts. Thymosin Alpha-1 is a 28 amino acid polypeptide from a different isolation — a longer, structurally distinct molecule from a separate research tradition." },
-      { "question": "What is Pinealon specifically?", "answer": "Pinealon is a Khavinson tripeptide (Glu-Asp-Arg) targeting the pineal gland. It is studied for circadian rhythm regulation and neuroprotective signaling. Available in 10mg and 20mg — the only Khavinson bioregulator with two size options in this catalog." },
-      { "question": "Do Khavinson peptides need bacteriostatic water?", "answer": "Yes — all Khavinson bioregulators are lyophilized powders requiring reconstitution with bacteriostatic water. Add a 30mL BAC water vial to your order. The standard reconstitution for a 20mg vial is 2mL BAC water for a 10mg/mL solution." }
+      {
+        "question": "What are Khavinson peptide bioregulators?",
+        "answer": "Khavinson bioregulators are short peptides (2–4 amino acids) developed by Prof. Vladimir Khavinson and colleagues at the St. Petersburg Institute of Bioregulation. Each targets a specific organ or tissue type and is studied for tissue-specific regulatory signaling."
+      },
+      {
+        "question": "Are all Khavinson bioregulators the same price?",
+        "answer": "Most bioregulators are $79.99 per 20mg vial. Testagen is $89.99. Pinealon is available in 10mg ($69.99) and 20mg ($119.99) sizes."
+      },
+      {
+        "question": "What is the difference between Vilon, Thymogen, and Thymosin Alpha-1?",
+        "answer": "Vilon (Lys-Glu) and Thymogen (Glu-Trp) are Khavinson short dipeptides from thymic fraction extracts. Thymosin Alpha-1 is a 28 amino acid polypeptide from a different isolation — a longer, structurally distinct molecule from a separate research tradition."
+      },
+      {
+        "question": "What is Pinealon specifically?",
+        "answer": "Pinealon is a Khavinson tripeptide (Glu-Asp-Arg) targeting the pineal gland. It is studied for circadian rhythm regulation and neuroprotective signaling. Available in 10mg and 20mg — the only Khavinson bioregulator with two size options in this catalog."
+      },
+      {
+        "question": "Do Khavinson peptides need bacteriostatic water?",
+        "answer": "Yes — all Khavinson bioregulators are lyophilized powders requiring reconstitution with bacteriostatic water. Add a 30mL BAC water vial to your order. The standard reconstitution for a 20mg vial is 2mL BAC water for a 10mg/mL solution."
+      }
     ]
   }
 ]

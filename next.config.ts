@@ -73,7 +73,17 @@ const SLUG_REDIRECTS: Record<string, string> = {
   "slu-pp-332-100mg-120-capsules": "slu-pp-332-capsules",
 }
 
+const securityHeaders = [
+  { key: "X-Content-Type-Options", value: "nosniff" },
+  { key: "X-Frame-Options", value: "SAMEORIGIN" },
+  { key: "Referrer-Policy", value: "origin-when-cross-origin" },
+  { key: "Strict-Transport-Security", value: "max-age=63072000; includeSubDomains; preload" },
+]
+
 const nextConfig: NextConfig = {
+  async headers() {
+    return [{ source: "/(.*)", headers: securityHeaders }]
+  },
   async redirects() {
     return Object.entries(SLUG_REDIRECTS).map(([oldSlug, newSlug]) => ({
       source: `/products/${oldSlug}`,

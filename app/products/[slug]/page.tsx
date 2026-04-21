@@ -88,14 +88,17 @@ export default async function ProductPage({
   const related = pickRelated(product)
   const defaultVariant = product.variants[0]
 
-  const purityReview = {
-    "@type": "Review",
-    author: { "@type": "Organization", name: "Independent HPLC Analysis" },
-    reviewRating: { "@type": "Rating", ratingValue: 5, bestRating: 5, worstRating: 1 },
-    name: `Purity Verification — ${product.name}`,
-    reviewBody: `${product.name}${product.chemical_name ? ` (${product.chemical_name})` : ""}${product.cas_number ? `, CAS ${product.cas_number}` : ""} verified at ≥98% purity via high-performance liquid chromatography. Lyophilized powder meets research-grade specifications. Certificate of analysis available on request.`,
-    datePublished: "2026-01-01",
-  }
+  const faqJsonLd = product.faq && product.faq.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: product.faq.map((f) => ({
+          "@type": "Question",
+          name: f.question,
+          acceptedAnswer: { "@type": "Answer", text: f.answer },
+        })),
+      }
+    : null
 
   const productJsonLd = {
     "@context": "https://schema.org",
@@ -107,13 +110,16 @@ export default async function ProductPage({
     mpn: product.sku,
     productID: product.sku,
     ...(product.cas_number ? { identifier: product.cas_number } : {}),
-    brand: { "@type": "Brand", name: SITE_NAME },
+    brand: { "@type": "Brand", name: "Phiogen" },
     category: "Health & Beauty > Health Care",
+    additionalProperty: { "@type": "PropertyValue", name: "HPLC Purity", value: "≥98%" },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE}/products/${slug}` },
     offers: product.variants.map((v) => ({
       "@type": "Offer",
       name: v.name,
-      price: v.price.toFixed(2),
+      price: salePrice(v.price).toFixed(2),
       priceCurrency: "USD",
+      priceValidUntil: "2026-12-31",
       availability: v.in_stock
         ? "https://schema.org/InStock"
         : "https://schema.org/OutOfStock",
@@ -121,15 +127,6 @@ export default async function ProductPage({
       url: `${SITE}/out/${v.slug}`,
       seller: { "@type": "Organization", name: SITE_NAME, url: SITE },
     })),
-    review: [purityReview],
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: 5,
-      bestRating: 5,
-      worstRating: 1,
-      ratingCount: 1,
-      reviewCount: 1,
-    },
   }
 
   const breadcrumbJsonLd = {
@@ -146,6 +143,9 @@ export default async function ProductPage({
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+      {faqJsonLd && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
+      )}
 
       <div className="max-w-7xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
@@ -185,7 +185,7 @@ export default async function ProductPage({
             )}
 
             {/* Trust row */}
-            <div className="flex flex-wrap gap-3 mb-6 text-xs font-semibold text-emerald-700">
+            <div className="flex flex-wrap gap-3 mb-6 text-xs font-semibold text-yellow-700">
               <span>✓ ≥98% HPLC Purity</span>
               <span>✓ Lot CoA Included</span>
               <span>✓ Free Shipping $200+</span>
@@ -199,7 +199,7 @@ export default async function ProductPage({
                 return (
                   <div
                     key={v.slug}
-                    className={`flex items-center justify-between border rounded-xl px-4 py-3 ${row.isBestValue ? "border-emerald-500 bg-emerald-50" : "border-slate-200"}`}
+                    className={`flex items-center justify-between border rounded-xl px-4 py-3 ${row.isBestValue ? "border-yellow-500 bg-yellow-50" : "border-slate-200"}`}
                   >
                     <div>
                       <p className="font-semibold text-slate-900 text-sm">{v.name}</p>
@@ -207,7 +207,7 @@ export default async function ProductPage({
                         <p className="text-xs text-slate-500">
                           ${row.pricePerMg.toFixed(2)}/mg
                           {row.isBestValue && (
-                            <span className="ml-1.5 text-emerald-600 font-bold">Best value</span>
+                            <span className="ml-1.5 text-yellow-600 font-bold">Best value</span>
                           )}
                         </p>
                       )}
@@ -219,7 +219,7 @@ export default async function ProductPage({
                       </div>
                       <Link
                         href={outUrl(v.slug)}
-                        className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold px-4 py-2 rounded-lg transition-colors whitespace-nowrap"
+                        className="bg-yellow-600 hover:bg-yellow-700 text-white text-xs font-bold px-4 py-2 rounded-lg transition-colors whitespace-nowrap"
                       >
                         Buy From Store
                       </Link>
@@ -230,7 +230,7 @@ export default async function ProductPage({
             </div>
 
             {savings !== null && (
-              <p className="text-sm text-emerald-700 font-semibold mb-4">
+              <p className="text-sm text-yellow-700 font-semibold mb-4">
                 💡 Save up to {savings}% per mg by choosing the largest size.
               </p>
             )}
@@ -255,7 +255,7 @@ export default async function ProductPage({
                   {rows.map((row) => (
                     <tr
                       key={row.variant.slug}
-                      className={`border-t border-slate-200 ${row.isBestValue ? "bg-emerald-50" : ""}`}
+                      className={`border-t border-slate-200 ${row.isBestValue ? "bg-yellow-50" : ""}`}
                     >
                       <td className="px-4 py-3 font-medium">{row.variant.name}</td>
                       <td className="px-4 py-3">
@@ -267,7 +267,7 @@ export default async function ProductPage({
                       </td>
                       <td className="px-4 py-3">
                         {row.isBestValue && (
-                          <span className="text-xs font-bold text-emerald-600 bg-emerald-100 px-2 py-0.5 rounded-full">
+                          <span className="text-xs font-bold text-yellow-600 bg-yellow-100 px-2 py-0.5 rounded-full">
                             Best value
                           </span>
                         )}
@@ -403,6 +403,23 @@ export default async function ProductPage({
               ))}
             </div>
           </aside>
+        )}
+
+        {/* FAQ section */}
+        {product.faq && product.faq.length > 0 && (
+          <section className="mb-10">
+            <h2 className="text-xl font-bold text-slate-900 mb-5">
+              Frequently Asked Questions — {product.name}
+            </h2>
+            <div className="space-y-5">
+              {product.faq.map((item) => (
+                <div key={item.question} className="border border-slate-200 rounded-xl p-5">
+                  <h3 className="font-semibold text-slate-900 mb-2">{item.question}</h3>
+                  <p className="text-sm text-slate-600 leading-relaxed">{item.answer}</p>
+                </div>
+              ))}
+            </div>
+          </section>
         )}
 
         {/* Purity disclaimer */}

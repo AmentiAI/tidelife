@@ -4,19 +4,19 @@ import { products, getProductBySlug, outUrl, SITE, SITE_NAME } from "@/lib/pepti
 import ProductCard from "@/components/product-card"
 
 export const metadata: Metadata = {
-  title: "Peptide Stacks — Pre-Mixed Blends & Research Protocol Combinations | Tide Life",
+  title: "Peptide Stacks — Pre-Mixed Blends & Research Protocol Combinations | Peptidelife",
   description:
     "Shop pre-mixed peptide blends and curated research stack combinations — BPC/TB, Ipamorelin/CJC, Cagri-Sema, GLOW, KLOW and more. ≥98% HPLC purity. Free US shipping $200+.",
   alternates: { canonical: `${SITE}/stacks` },
   openGraph: {
-    title: "Peptide Stacks — Pre-Mixed Blends | Tide Life",
+    title: "Peptide Stacks — Pre-Mixed Blends | Peptidelife",
     description: "Pre-mixed peptide blends and curated research combinations. ≥98% purity, free shipping $200+.",
     url: `${SITE}/stacks`,
     siteName: SITE_NAME,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Peptide Stacks | Tide Life",
+    title: "Peptide Stacks | Peptidelife",
     description: "Pre-mixed blends and stack combinations. Free US shipping $200+.",
   },
 }
@@ -109,7 +109,7 @@ export default function StacksPage() {
                       </div>
                       <Link
                         href={outUrl(p.variants[0].slug)}
-                        className="text-xs font-bold bg-emerald-600 hover:bg-emerald-700 text-white px-3 py-1.5 rounded-lg transition-colors"
+                        className="text-xs font-bold bg-yellow-600 hover:bg-yellow-700 text-white px-3 py-1.5 rounded-lg transition-colors"
                       >
                         Buy
                       </Link>

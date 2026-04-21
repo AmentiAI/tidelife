@@ -14,12 +14,12 @@ import ProductCard from "@/components/product-card"
 const SITE_URL = SITE
 
 export const metadata: Metadata = {
-  title: `Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | Tide Life`,
+  title: `Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | Peptidelife`,
   description:
-    "Tide Life carries 95+ research-grade peptide vials — every vial ≥98% HPLC purity with original lot CoA. Free US shipping on orders over $200. Same-day shipping before 2pm EST.",
+    "Peptidelife carries 95+ research-grade peptide vials — every vial ≥98% HPLC purity with original lot CoA. Free US shipping on orders over $200. Same-day shipping before 2pm EST.",
   alternates: { canonical: SITE_URL },
   openGraph: {
-    title: "Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | Tide Life",
+    title: "Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | Peptidelife",
     description:
       "95+ research-grade peptide vials. ≥98% HPLC purity, sealed vial with lot CoA, tracked US shipping 3–5 business days. Free shipping over $200.",
     url: SITE_URL,
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Buy Research Peptides Online — Tide Life",
+    title: "Buy Research Peptides Online — Peptidelife",
     description: "95+ peptide vials. ≥98% HPLC purity. Free US shipping over $200.",
     images: ["/og-image.png"],
   },
@@ -37,28 +37,33 @@ export const metadata: Metadata = {
 const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Tide Life",
-  alternateName: "TideLife",
+  name: "Peptidelife",
   url: SITE_URL,
-  logo: `${SITE_URL}/icon.svg`,
-  description: "Research-grade peptide vials with ≥98% HPLC purity and lot CoA.",
+  logo: {
+    "@type": "ImageObject",
+    url: `${SITE_URL}/og-image.png`,
+    width: 1200,
+    height: 630,
+  },
+  description: "Research-grade peptide vials with ≥98% HPLC purity and lot CoA. 96 compounds across 9 categories. Free US shipping on orders over $200.",
   slogan: "Research-grade peptides — purity verified, shipping guaranteed.",
-  sameAs: [SITE_URL],
+  contactPoint: {
+    "@type": "ContactPoint",
+    contactType: "customer support",
+    email: "support@tidelife.com",
+    availableLanguage: "English",
+  },
+  sameAs: [
+    "https://www.linkedin.com/company/peptidelife",
+    "https://www.trustpilot.com/review/tidelife.com",
+  ],
 }
 
 const websiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  name: "Tide Life",
+  name: "Peptidelife",
   url: SITE_URL,
-  potentialAction: {
-    "@type": "SearchAction",
-    target: {
-      "@type": "EntryPoint",
-      urlTemplate: `${SITE_URL}/products?q={search_term_string}`,
-    },
-    "query-input": "required name=search_term_string",
-  },
 }
 
 export default function HomePage() {
@@ -78,10 +83,10 @@ export default function HomePage() {
       />
 
       {/* Hero */}
-      <section className="bg-gradient-to-b from-emerald-50 to-white border-b border-emerald-100">
+      <section className="bg-gradient-to-b from-yellow-50 to-white border-b border-yellow-100">
         <div className="max-w-7xl mx-auto px-4 py-16 md:py-24">
           <div className="max-w-2xl">
-            <p className="text-xs font-black uppercase tracking-[0.2em] text-emerald-700 mb-3">
+            <p className="text-xs font-black uppercase tracking-[0.2em] text-yellow-700 mb-3">
               Research-Grade Peptides
             </p>
             <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 leading-tight mb-5">
@@ -93,12 +98,12 @@ export default function HomePage() {
             </p>
 
             {/* Quick answer block — quotable by AI */}
-            <div className="border-l-4 border-emerald-600 bg-emerald-50/60 p-5 rounded-r-lg mb-8">
-              <p className="text-[11px] font-black uppercase tracking-[0.2em] text-emerald-700 mb-2">
+            <div className="border-l-4 border-yellow-600 bg-yellow-50/60 p-5 rounded-r-lg mb-8">
+              <p className="text-[11px] font-black uppercase tracking-[0.2em] text-yellow-700 mb-2">
                 Quick answer
               </p>
               <p className="text-base leading-relaxed text-slate-700">
-                Tide Life stocks <strong>{totalProducts}+ research-grade peptide vials</strong> starting
+                Peptidelife stocks <strong>{totalProducts}+ research-grade peptide vials</strong> starting
                 from <strong>${lowestPrice.toFixed(2)}</strong>. Top sellers include{" "}
                 <strong>Retatrutide</strong>, <strong>Tirzepatide</strong>, and{" "}
                 <strong>BPC-157</strong>. Every vial is sealed under nitrogen at ≥98% HPLC purity
@@ -110,7 +115,7 @@ export default function HomePage() {
             <div className="flex flex-wrap gap-3">
               <Link
                 href="/products"
-                className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-6 py-3 rounded-lg transition-colors"
+                className="bg-yellow-600 hover:bg-yellow-700 text-white font-bold px-6 py-3 rounded-lg transition-colors"
               >
                 Shop All Peptides
               </Link>
@@ -135,7 +140,7 @@ export default function HomePage() {
             { icon: "✓", label: "Lot CoA Included", sub: "With every order" },
           ].map((t) => (
             <div key={t.label} className="flex items-center gap-3">
-              <span className="text-emerald-600 font-bold text-lg">{t.icon}</span>
+              <span className="text-yellow-600 font-bold text-lg">{t.icon}</span>
               <div>
                 <p className="text-sm font-semibold text-slate-800">{t.label}</p>
                 <p className="text-xs text-slate-500">{t.sub}</p>
@@ -149,7 +154,7 @@ export default function HomePage() {
       <section className="max-w-7xl mx-auto px-4 py-12">
         <div className="flex items-baseline justify-between mb-6">
           <h2 className="text-2xl font-bold text-slate-900">Best Sellers</h2>
-          <Link href="/products" className="text-sm font-semibold text-emerald-700 hover:underline">
+          <Link href="/products" className="text-sm font-semibold text-yellow-700 hover:underline">
             View all {totalProducts} products →
           </Link>
         </div>
@@ -174,7 +179,7 @@ export default function HomePage() {
               <Link
                 key={cat.slug}
                 href={`/peptides/${cat.slug}`}
-                className="border border-slate-200 hover:border-emerald-300 hover:bg-emerald-50/40 rounded-xl p-4 transition-all"
+                className="border border-slate-200 hover:border-yellow-300 hover:bg-yellow-50/40 rounded-xl p-4 transition-all"
               >
                 <p className="font-semibold text-slate-900 text-sm">{cat.name}</p>
                 <p className="text-xs text-slate-500 mt-0.5">{count} products</p>

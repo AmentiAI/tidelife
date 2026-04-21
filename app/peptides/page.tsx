@@ -3,19 +3,19 @@ import Link from "next/link"
 import { categories, products, SITE, SITE_NAME } from "@/lib/peptide-data"
 
 export const metadata: Metadata = {
-  title: "Shop Peptide Categories — Fat Loss, Recovery, Growth Hormone & More | Tide Life",
+  title: "Shop Peptide Categories — Fat Loss, Recovery, Growth Hormone & More | Peptidelife",
   description:
     "Browse all 9 peptide categories — fat loss, recovery, growth hormone, skin, nootropics, longevity, immune, energy and Khavinson bioregulators. ≥98% HPLC purity.",
   alternates: { canonical: `${SITE}/peptides` },
   openGraph: {
-    title: "Shop Peptide Categories | Tide Life",
+    title: "Shop Peptide Categories | Peptidelife",
     description: "9 categories, 95+ research-grade peptide vials. Free US shipping $200+.",
     url: `${SITE}/peptides`,
     siteName: SITE_NAME,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shop Peptide Categories | Tide Life",
+    title: "Shop Peptide Categories | Peptidelife",
     description: "9 categories, 95+ research peptides. Free US shipping $200+.",
   },
 }
@@ -43,7 +43,7 @@ export default function PeptidesIndexPage() {
             <Link
               key={cat.slug}
               href={`/peptides/${cat.slug}`}
-              className="border border-slate-200 hover:border-emerald-300 hover:shadow-sm rounded-xl p-5 transition-all block"
+              className="border border-slate-200 hover:border-yellow-300 hover:shadow-sm rounded-xl p-5 transition-all block"
             >
               <h2 className="text-lg font-bold text-slate-900 mb-1">{cat.name}</h2>
               <p className="text-xs text-slate-500 mb-3">{count} products</p>

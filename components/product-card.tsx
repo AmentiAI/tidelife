@@ -22,7 +22,7 @@ export default function ProductCard({ product, showBuyButton = true }: ProductCa
   const defaultVariant = product.variants[0]
 
   return (
-    <div className="relative bg-white border border-slate-200 rounded-xl p-4 flex flex-col gap-3 hover:border-emerald-300 hover:shadow-sm transition-all">
+    <div className="relative bg-white border border-slate-200 rounded-xl p-4 flex flex-col gap-3 hover:border-yellow-300 hover:shadow-sm transition-all">
       {/* Full-card link — sits below the buy button */}
       <Link
         href={`/products/${product.slug}`}
@@ -68,7 +68,7 @@ export default function ProductCard({ product, showBuyButton = true }: ProductCa
         {showBuyButton && (
           <Link
             href={outUrl(defaultVariant.slug)}
-            className="relative z-20 block w-full text-center bg-emerald-600 hover:bg-emerald-700 active:bg-emerald-800 text-white text-sm font-bold px-4 py-2.5 rounded-lg transition-colors"
+            className="relative z-20 block w-full text-center bg-yellow-600 hover:bg-yellow-700 active:bg-yellow-800 text-white text-sm font-bold px-4 py-2.5 rounded-lg transition-colors"
           >
             Buy From Store
           </Link>

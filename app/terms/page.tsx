@@ -3,11 +3,11 @@ import { SITE, SITE_NAME } from "@/lib/peptide-data"
 
 export const metadata: Metadata = {
   title: `Terms of Service | ${SITE_NAME}`,
-  description: "Tide Life terms of service — research-use-only products, purchase conditions, and legal terms.",
+  description: "Peptidelife terms of service — research-use-only products, purchase conditions, and legal terms.",
   alternates: { canonical: `${SITE}/terms` },
   openGraph: {
     title: `Terms of Service | ${SITE_NAME}`,
-    description: "Tide Life terms of service.",
+    description: "Peptidelife terms of service.",
     url: `${SITE}/terms`,
     siteName: SITE_NAME,
   },
@@ -23,7 +23,7 @@ export default function TermsPage() {
       {[
         {
           h: "Research Use Only",
-          body: "All products sold through Tide Life are strictly for in-vitro laboratory research purposes only. They are not intended for human consumption, veterinary use, household use, or any other purpose. You must be 18 years of age or older to purchase. By completing a purchase you confirm that you are a qualified researcher using these compounds solely for legitimate laboratory research.",
+          body: "All products sold through Peptidelife are strictly for in-vitro laboratory research purposes only. They are not intended for human consumption, veterinary use, household use, or any other purpose. You must be 18 years of age or older to purchase. By completing a purchase you confirm that you are a qualified researcher using these compounds solely for legitimate laboratory research.",
         },
         {
           h: "No Medical Advice",
@@ -35,7 +35,7 @@ export default function TermsPage() {
         },
         {
           h: "Purchases and Payments",
-          body: "All purchases are processed through our partner supplier's secure checkout. Tide Life earns an affiliate commission on completed purchases. Pricing displayed on this site reflects the supplier's listed price at time of page generation and may differ from the checkout price if the supplier has updated pricing.",
+          body: "All purchases are processed through our partner supplier's secure checkout. Peptidelife earns an affiliate commission on completed purchases. Pricing displayed on this site reflects the supplier's listed price at time of page generation and may differ from the checkout price if the supplier has updated pricing.",
         },
         {
           h: "Jurisdiction",
@@ -43,7 +43,7 @@ export default function TermsPage() {
         },
         {
           h: "Limitation of Liability",
-          body: "Tide Life is not liable for any damages, losses, or claims arising from purchase, use, or misuse of products listed on this site. Our affiliate relationship is limited to referral; product quality, fulfillment, and handling liability rests with the supplier.",
+          body: "Peptidelife is not liable for any damages, losses, or claims arising from purchase, use, or misuse of products listed on this site. Our affiliate relationship is limited to referral; product quality, fulfillment, and handling liability rests with the supplier.",
         },
         {
           h: "Changes to Terms",

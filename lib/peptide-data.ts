@@ -2,7 +2,7 @@ import productsRaw from "@/data/products.json"
 import categoriesRaw from "@/data/categories.json"
 
 export const SITE = "https://tidelife.com"
-export const SITE_NAME = "Tide Life"
+export const SITE_NAME = "Peptidelife"
 export const SUPPLIER_BASE = "https://phiogen.is/products"
 export const REF_CODE = "PEPS"
 
@@ -33,6 +33,7 @@ export interface Product {
   image_url: string
   in_stock: boolean
   variants: ProductVariant[]
+  faq?: Array<{ question: string; answer: string }>
 }
 
 export interface Category {
