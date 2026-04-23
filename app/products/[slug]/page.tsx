@@ -88,18 +88,6 @@ export default async function ProductPage({
   const related = pickRelated(product)
   const defaultVariant = product.variants[0]
 
-  const faqJsonLd = product.faq && product.faq.length > 0
-    ? {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        mainEntity: product.faq.map((f) => ({
-          "@type": "Question",
-          name: f.question,
-          acceptedAnswer: { "@type": "Answer", text: f.answer },
-        })),
-      }
-    : null
-
   const productJsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -158,9 +146,6 @@ export default async function ProductPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewerJsonLd) }} />
-      {faqJsonLd && (
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
-      )}
 
       <div className="max-w-7xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
@@ -432,23 +417,6 @@ export default async function ProductPage({
               ))}
             </div>
           </aside>
-        )}
-
-        {/* FAQ section */}
-        {product.faq && product.faq.length > 0 && (
-          <section className="mb-10">
-            <h2 className="text-xl font-bold text-slate-900 mb-5">
-              Frequently Asked Questions — {product.name}
-            </h2>
-            <div className="space-y-5">
-              {product.faq.map((item) => (
-                <div key={item.question} className="border border-slate-200 rounded-xl p-5">
-                  <h3 className="font-semibold text-slate-900 mb-2">{item.question}</h3>
-                  <p className="text-sm text-slate-600 leading-relaxed">{item.answer}</p>
-                </div>
-              ))}
-            </div>
-          </section>
         )}
 
         {/* Purity disclaimer */}

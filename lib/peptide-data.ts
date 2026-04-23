@@ -33,7 +33,6 @@ export interface Product {
   image_url: string
   in_stock: boolean
   variants: ProductVariant[]
-  faq?: Array<{ question: string; answer: string }>
 }
 
 export interface Category {
@@ -46,7 +45,6 @@ export interface Category {
   productCategoryNames: string[]
   featuredProductSlugs: string[]
   content: string
-  faq: Array<{ question: string; answer: string }>
 }
 
 export const products: Product[] = productsRaw as Product[]

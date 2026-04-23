@@ -40,24 +40,6 @@
         "price_formatted": "$329.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Retatrutide come in?",
-        "answer": "Retatrutide is available in 10mg, 15mg, 20mg, and 30mg lyophilized vials. All four sizes ship with a lot certificate of analysis and ≥98% HPLC purity."
-      },
-      {
-        "question": "Which Retatrutide size offers the best $/mg?",
-        "answer": "The 30mg vial has the lowest cost-per-milligram. The 10mg vial is the entry-level option if you want to verify quality before committing to a larger size."
-      },
-      {
-        "question": "How do I reconstitute Retatrutide?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For a 2mg/mL concentration: add 5mL BAC water to a 10mg vial, 7.5mL to a 15mg vial, 10mL to a 20mg vial. Mix gently — do not shake. A 30mL BAC water vial covers 2–4 reconstitutions."
-      },
-      {
-        "question": "How does Retatrutide compare to Tirzepatide in price?",
-        "answer": "Both Retatrutide and Tirzepatide start at $149.99 for the smallest vial. Retatrutide is available in more sizes (4 vs 3), and the 30mg vial gives a lower $/mg than any Tirzepatide option. Check both product pages to compare the $/mg at your target quantity."
-      }
     ]
   },
   {
@@ -93,24 +75,6 @@
         "price": 399.99,
         "price_formatted": "$399.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Tirzepatide come in?",
-        "answer": "Tirzepatide is available in 15mg, 30mg, and 60mg lyophilized vials. All three sizes include a lot CoA and ship with ≥98% HPLC purity verification."
-      },
-      {
-        "question": "Which Tirzepatide size is the best value?",
-        "answer": "The 60mg vial has the lowest cost-per-milligram — significantly cheaper per mg than the 15mg entry. If you're confident in the quantity you need, the 60mg is the better buy."
-      },
-      {
-        "question": "How does Tirzepatide compare to Semaglutide in price?",
-        "answer": "Semaglutide is cheaper at entry — the 3mg vial starts at $49.99 vs $149.99 for Tirzepatide 15mg. At the larger sizes, Semaglutide 30mg vs Tirzepatide 60mg should be compared on $/mg on their respective product pages."
-      },
-      {
-        "question": "How do I reconstitute Tirzepatide?",
-        "answer": "Add bacteriostatic water to the vial. For 2mg/mL: add 7.5mL BAC water to the 15mg vial, 15mL to the 30mg, 30mL to the 60mg. Do not shake — swirl gently to dissolve. Refrigerate after reconstitution; use within 30 days."
       }
     ]
   },
@@ -161,24 +125,6 @@
         "price": 249.99,
         "price_formatted": "$249.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Semaglutide come in?",
-        "answer": "Semaglutide is available in 3mg, 6mg, 12mg, 20mg, and 30mg lyophilized vials — the widest size range in the GLP-1 category. Prices start at $49.99 for the 3mg vial."
-      },
-      {
-        "question": "What is the cheapest Semaglutide entry point?",
-        "answer": "Semaglutide 3mg at $49.99 is the lowest-cost entry into the GLP-1 category — lower than any Tirzepatide or Retatrutide starting size."
-      },
-      {
-        "question": "Which Semaglutide size offers the best $/mg?",
-        "answer": "The 30mg vial offers the lowest cost-per-milligram. At 30mg you're paying roughly one-third the per-mg cost of the 3mg entry vial. For longer protocols, the 20mg or 30mg are the value sizes."
-      },
-      {
-        "question": "How do I reconstitute Semaglutide?",
-        "answer": "Add bacteriostatic water. For 2mg/mL: add 1.5mL to the 3mg vial, 3mL to the 6mg, 6mL to the 12mg. Mix gently. Refrigerate after reconstitution and use within 30 days. Add a 30mL BAC water vial ($12.99) to your order."
       }
     ]
   },
@@ -472,24 +418,6 @@
         "price_formatted": "$59.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "Does BPC-157 come in capsules or just as an injectable vial?",
-        "answer": "Both. BPC-157 10mg is available as a lyophilized vial (requires BAC water reconstitution). BPC-157 Capsules are 500mcg per capsule, 60 capsules per pack — no reconstitution needed, no BAC water required."
-      },
-      {
-        "question": "How do I reconstitute the BPC-157 vial?",
-        "answer": "Add bacteriostatic water to the 10mg vial. For 2mg/mL: add 5mL BAC water. Mix gently — do not shake. Refrigerate after reconstitution; stable for approximately 30 days at 2–8°C."
-      },
-      {
-        "question": "Is there a BPC-157 and TB-500 combination available?",
-        "answer": "Yes — the BPC-157 + TB-500 Blend ships as a single pre-mixed lyophilized vial in 5+5mg and 10+10mg sizes. One reconstitution covers both compounds, making it more convenient than ordering two separate vials."
-      },
-      {
-        "question": "How should BPC-157 be stored?",
-        "answer": "Store unreconstituted lyophilized vials at −20°C (freezer). After reconstitution, refrigerate at 2–8°C and use within 30 days. Do not freeze a reconstituted vial."
-      }
     ]
   },
   {
@@ -533,24 +461,6 @@
         "price": 59.99,
         "price_formatted": "$59.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does TB-500 come in?",
-        "answer": "TB-500 is available as a 10mg lyophilized vial, plus as part of the BPC-157 + TB-500 Blend in 5+5mg and 10+10mg sizes. All vials include a lot CoA and ≥98% HPLC verification."
-      },
-      {
-        "question": "How do I reconstitute TB-500?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For 2mg/mL: add 5mL BAC water to the 10mg vial. Swirl gently to dissolve — do not shake. Refrigerate after reconstitution; use within 30 days."
-      },
-      {
-        "question": "Is the BPC-157 + TB-500 Blend cheaper than buying both separately?",
-        "answer": "The blend is competitively priced against buying BPC-157 and TB-500 as separate vials. Check the blend product page and the individual product pages to compare total cost — the blend also saves on having two separate reconstitutions."
-      },
-      {
-        "question": "Does TB-500 require special storage?",
-        "answer": "Store the lyophilized vial at −20°C long-term. After reconstitution, refrigerate at 2–8°C and use within 30 days. Same storage requirements as all other lyophilized peptides in the catalog."
       }
     ]
   },
@@ -695,24 +605,6 @@
         "price_formatted": "$79.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What is the difference between CJC-1295 No DAC and CJC-1295 With DAC?",
-        "answer": "CJC-1295 No DAC (Modified GRF 1-29) has a short active window and is dosed multiple times per week. CJC-1295 With DAC includes an albumin-binding linker that extends its half-life to roughly one week — so it's dosed far less frequently. They are different products with different dosing schedules, not interchangeable."
-      },
-      {
-        "question": "What sizes does CJC-1295 No DAC come in?",
-        "answer": "CJC-1295 No DAC is available in 5mg and 10mg lyophilized vials. The 10mg vial offers a better $/mg than the 5mg."
-      },
-      {
-        "question": "How do I reconstitute CJC-1295 No DAC?",
-        "answer": "Add bacteriostatic water to the vial. For 2mg/mL: add 2.5mL to the 5mg vial, 5mL to the 10mg vial. Mix gently. Store reconstituted vials at 2–8°C and use within 30 days."
-      },
-      {
-        "question": "Can CJC-1295 No DAC be ordered as a pre-mixed blend with Ipamorelin?",
-        "answer": "Yes — the Ipamorelin/CJC-1295 blend ships as a single pre-mixed lyophilized vial combining both compounds. It's the most convenient option if you're using both compounds in the same protocol."
-      }
     ]
   },
   {
@@ -755,24 +647,6 @@
         "price": 59.99,
         "price_formatted": "$59.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What size does Ipamorelin come in?",
-        "answer": "Ipamorelin is available as a 10mg lyophilized vial priced at $59.99. It ships with a lot CoA and ≥98% HPLC purity verification."
-      },
-      {
-        "question": "How does Ipamorelin compare to GHRP-2 and GHRP-6 in terms of price?",
-        "answer": "All three are ghrelin mimetics available in the growth hormone category. Ipamorelin is widely considered the most selective — and is the most commonly ordered of the three. Compare current pricing on the category shelf page; pricing on individual vials is regularly updated."
-      },
-      {
-        "question": "How do I reconstitute Ipamorelin?",
-        "answer": "Add bacteriostatic water to the 10mg vial. For 2mg/mL: add 5mL BAC water. For 1mg/mL: add 10mL. Mix gently. Refrigerate after reconstitution and use within 30 days."
-      },
-      {
-        "question": "Is Ipamorelin available as a pre-mixed blend with CJC-1295?",
-        "answer": "Yes — the Ipamorelin/CJC-1295 and Ipamorelin/Tesamorelin blends both ship as single pre-mixed lyophilized vials. These blends are popular because they pair a ghrelin mimetic with a GHRH analog in one reconstitution."
       }
     ]
   },
@@ -875,24 +749,6 @@
         "price": 119.99,
         "price_formatted": "$119.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Sermorelin come in?",
-        "answer": "Sermorelin is available in 2mg, 5mg, and 10mg lyophilized vials. The 2mg at $39.99 is the cheapest GHRH analog entry in the catalog. The 10mg offers the lowest $/mg."
-      },
-      {
-        "question": "How does Sermorelin compare to CJC-1295 No DAC?",
-        "answer": "Both are GHRH analogs, but Sermorelin is the shorter native fragment (GHRH 1-29) while CJC-1295 No DAC has amino acid substitutions for improved stability. Sermorelin is typically the cheaper entry option; CJC-1295 No DAC is the more potent stabilized version. Sermorelin 2mg ($39.99) vs CJC-1295 No DAC 5mg — compare $/mg on both product pages."
-      },
-      {
-        "question": "How do I reconstitute Sermorelin?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For 2mg/mL: add 1mL to the 2mg vial, 2.5mL to the 5mg vial, 5mL to the 10mg vial. Mix gently — do not shake. Refrigerate and use within 30 days."
-      },
-      {
-        "question": "Which Sermorelin size is the best value?",
-        "answer": "The 10mg vial has the lowest $/mg. If you're ordering Sermorelin for an extended protocol, the 10mg is the value size. The 2mg is a good entry option to verify quality before committing to a larger purchase."
       }
     ]
   },
@@ -1038,24 +894,6 @@
         "price": 89.99,
         "price_formatted": "$89.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does GHK-Cu come in?",
-        "answer": "GHK-Cu is available in 50mg ($50.00) and 100mg vials. The 100mg vial offers a significantly lower $/mg — it's the better value for any protocol lasting more than a few weeks."
-      },
-      {
-        "question": "How do I reconstitute GHK-Cu?",
-        "answer": "Add bacteriostatic water or sterile saline to the lyophilized vial. Typical concentrations range from 1–5mg/mL depending on the intended application. For 5mg/mL with the 50mg vial: add 10mL. Mix gently and refrigerate. Stable for approximately 30 days at 2–8°C."
-      },
-      {
-        "question": "Is the 100mg vial worth the extra cost over the 50mg?",
-        "answer": "Almost always yes — the 100mg vial has a meaningfully lower $/mg. Unless you only need a small quantity for a short protocol, the 100mg is the better buy."
-      },
-      {
-        "question": "What other skin peptides pair well with GHK-Cu?",
-        "answer": "The GLOW Blend and KLOW Blend are multi-peptide skin stacks that can be ordered alongside GHK-Cu. Melanotan I and SNAP-8 are also on the skin & beauty shelf. GHK-Cu + GLOW Blend together typically reaches the $200 free shipping threshold."
       }
     ]
   },
@@ -1445,24 +1283,6 @@
         "price_formatted": "$139.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Epitalon come in?",
-        "answer": "Epitalon is available in 10mg ($59.99) and 50mg vials. The 50mg vial is significantly cheaper per milligram — roughly one-third the $/mg of the 10mg. Most researchers order the 50mg once they've confirmed the product quality."
-      },
-      {
-        "question": "What is the difference between Epitalon and NA-Epitalon Amidate?",
-        "answer": "NA-Epitalon Amidate is a modified version with N-acetyl and amide terminal groups that improve stability and may enhance bioavailability compared to standard Epitalon. NA-Epitalon Amidate is priced higher. Both are available on the longevity shelf."
-      },
-      {
-        "question": "How do I reconstitute Epitalon?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For 10mg/mL: add 1mL to the 10mg vial, 5mL to the 50mg vial. For a more dilute solution, scale accordingly. Mix gently. Store reconstituted vials at 2–8°C and use within 30 days."
-      },
-      {
-        "question": "Which Epitalon size offers the best value?",
-        "answer": "The 50mg vial is the clear value choice — the $/mg is substantially lower than the 10mg. It's the right option for any protocol longer than a few days. The 10mg is an entry size if you're ordering Epitalon for the first time."
-      }
     ]
   },
   {
@@ -1512,24 +1332,6 @@
         "price": 139.99,
         "price_formatted": "$139.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What NAD+ sizes are available?",
-        "answer": "NAD+ is available in 500mg and 1000mg lyophilized vials. The 1000mg vial has the better $/mg and is the preferred option for any protocol covering more than a few weeks."
-      },
-      {
-        "question": "How do I reconstitute NAD+?",
-        "answer": "Add bacteriostatic water to the lyophilized powder. Target concentration will depend on intended dosing volume — a common approach is dissolving 500mg in 5mL for a 100mg/mL stock, then diluting. Mix gently and refrigerate. Use within 30 days of reconstitution."
-      },
-      {
-        "question": "Does NAD+ require special storage?",
-        "answer": "Store the lyophilized vial at −20°C. Avoid repeated freeze-thaw cycles on the powder. After reconstitution, refrigerate at 2–8°C and use within 30 days."
-      },
-      {
-        "question": "What other longevity compounds pair with NAD+?",
-        "answer": "NAD+ is frequently ordered alongside MOTS-c, SS-31, or Epitalon. An order of NAD+ 500mg + MOTS-c 10mg + Epitalon 10mg comfortably clears the $200 free shipping threshold."
       }
     ]
   },
@@ -1609,24 +1411,6 @@
         "price_formatted": "$379.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does MOTS-c come in?",
-        "answer": "MOTS-c is available in 10mg ($129.99), 20mg, and 40mg lyophilized vials. The 40mg has the lowest $/mg. It's a relatively expensive compound — most researchers go for the 20mg or 40mg to make the order worthwhile."
-      },
-      {
-        "question": "How do I reconstitute MOTS-c?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For 2mg/mL: add 5mL to the 10mg vial, 10mL to the 20mg vial, 20mL to the 40mg vial. Mix gently. Refrigerate and use within 30 days."
-      },
-      {
-        "question": "Which MOTS-c size is the best value?",
-        "answer": "The 40mg vial has the lowest cost-per-milligram. If the protocol requires more than the 10mg entry, the 40mg is the best buy. The 20mg is a middle option for mid-length protocols."
-      },
-      {
-        "question": "How does MOTS-c pricing compare to SS-31?",
-        "answer": "Both are mitochondria-targeting longevity compounds in a similar price range. SS-31 starts at $99.99 for 10mg vs $129.99 for MOTS-c 10mg. Compare the $/mg at the sizes you need — both product pages show current pricing across all available sizes."
-      }
     ]
   },
   {
@@ -1664,24 +1448,6 @@
         "price_formatted": "$329.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does SS-31 come in?",
-        "answer": "SS-31 (Elamipretide) is available in 10mg ($99.99), 25mg, and 50mg lyophilized vials. The 50mg vial has the lowest $/mg. All sizes ship with a lot CoA and ≥98% HPLC purity."
-      },
-      {
-        "question": "How do I reconstitute SS-31?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For 2mg/mL: add 5mL BAC water to the 10mg vial, 12.5mL to the 25mg vial, 25mL to the 50mg vial. Mix gently. Refrigerate and use within 30 days."
-      },
-      {
-        "question": "Which SS-31 size is the best value?",
-        "answer": "The 50mg vial offers the lowest cost-per-milligram. For any protocol that requires more than a few doses, the 50mg is the right choice. The 10mg is available as an entry-level option at $99.99."
-      },
-      {
-        "question": "Is SS-31 often ordered with other longevity compounds?",
-        "answer": "Yes — SS-31 is frequently ordered alongside MOTS-c, NAD+, and Epitalon. Combining SS-31 10mg + MOTS-c 10mg + NAD+ 500mg typically clears the $200 free shipping threshold for free tracked delivery."
-      }
     ]
   },
   {
@@ -1710,24 +1476,6 @@
         "price": 119.99,
         "price_formatted": "$119.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Thymosin Alpha-1 come in?",
-        "answer": "Thymosin Alpha-1 is available in 5mg and 10mg lyophilized vials. The 10mg is the better $/mg and is the standard choice for any protocol covering more than a short run."
-      },
-      {
-        "question": "How do I reconstitute Thymosin Alpha-1?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For 1mg/mL: add 5mL to the 5mg vial, 10mL to the 10mg vial. Mix gently — do not shake. Refrigerate and use within 30 days."
-      },
-      {
-        "question": "How does Thymosin Alpha-1 differ from the Khavinson thymic bioregulators?",
-        "answer": "Thymosin Alpha-1 is a 28-amino acid peptide commercially available as Thymalfasin (Zadaxin) and used in several countries as a pharmaceutical. The Khavinson thymic peptides (Thymogen, Vilon) are shorter di- and tetrapeptides from a different research tradition. Both target the thymic/immune axis but are distinct compounds."
-      },
-      {
-        "question": "What is the price difference between the 5mg and 10mg vials?",
-        "answer": "Check the product page for current pricing — pricing is updated regularly. The 10mg vial is consistently better value per milligram. If ordering Thymosin Alpha-1 for the first time, the 5mg lets you verify quality; subsequent orders are typically the 10mg."
       }
     ]
   },
@@ -1794,20 +1542,6 @@
         "price_formatted": "$69.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What size does PT-141 come in?",
-        "answer": "PT-141 (Bremelanotide) is available as a single 10mg lyophilized vial. It ships with a lot CoA and ≥98% HPLC purity verification."
-      },
-      {
-        "question": "How does PT-141 differ from Melanotan II in terms of what you're ordering?",
-        "answer": "PT-141 and Melanotan II are both melanocortin peptides but target different receptor profiles. PT-141 is sold as a single 10mg vial. Melanotan II is on the skin & beauty shelf in different sizes. These are separate products — check both product pages for current pricing and size options."
-      },
-      {
-        "question": "How do I reconstitute PT-141?",
-        "answer": "Add bacteriostatic water to the 10mg vial. A common concentration is 2mg/mL: add 5mL BAC water. Mix gently and refrigerate. Use within 30 days. Add a 30mL BAC water vial ($12.99) to your order."
-      }
     ]
   },
   {
@@ -1836,24 +1570,6 @@
         "price": 99.99,
         "price_formatted": "$99.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Kisspeptin-10 come in?",
-        "answer": "Kisspeptin-10 is available in 5mg and 10mg lyophilized vials. The 10mg vial has the better $/mg and is the standard choice for most protocols."
-      },
-      {
-        "question": "What other reproductive-axis peptides are available?",
-        "answer": "Gonadorelin, PT-141, and Oxytocin are also on the immune & hormonal shelf and are frequently ordered alongside Kisspeptin-10. Gonadorelin is a GnRH decapeptide that pairs naturally with Kisspeptin-10 in HPG axis protocols."
-      },
-      {
-        "question": "How do I reconstitute Kisspeptin-10?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. For 1mg/mL: add 5mL to the 5mg vial, 10mL to the 10mg vial. Mix gently. Refrigerate and use within 30 days."
-      },
-      {
-        "question": "What is the pricing difference between the 5mg and 10mg vials?",
-        "answer": "Check the product page for current pricing. The 10mg vial consistently has the better $/mg. If you're uncertain about quantity needed, the 5mg is the lower-risk entry option."
       }
     ]
   },
@@ -2004,24 +1720,6 @@
         "price_formatted": "$89.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What is the difference between the two BAM-15 concentrations?",
-        "answer": "BAM-15 comes in two concentration options — check the product page for current mg/mL specifications and volumes. The higher-concentration option gives more doses per order. Neither requires reconstitution — BAM-15 ships as a liquid solution."
-      },
-      {
-        "question": "Does BAM-15 require reconstitution or BAC water?",
-        "answer": "No — BAM-15 is a liquid solution, not a lyophilized powder. No bacteriostatic water needed. It ships ready to use."
-      },
-      {
-        "question": "How does BAM-15 compare to AICAR as a metabolic compound?",
-        "answer": "Both are on the energy & metabolic shelf, but they are different compounds used for different protocols. BAM-15 is a mitochondrial uncoupler; AICAR is an AMPK activator. They are frequently researched separately. Compare pricing on the energy & metabolic shelf page."
-      },
-      {
-        "question": "Does BAM-15 qualify for free shipping?",
-        "answer": "Yes — orders over $200 ship free via tracked US courier. BAM-15 paired with Glutathione, L-Carnitine, or AICAR typically reaches the free shipping threshold in a two-to-three item order."
-      }
     ]
   },
   {
@@ -2065,24 +1763,6 @@
         "price_formatted": "$69.99",
         "in_stock": true
       }
-    ],
-    "faq": [
-      {
-        "question": "What does AICAR come as — vial or capsule?",
-        "answer": "AICAR ships as a lyophilized vial requiring reconstitution with bacteriostatic water. It is not available in capsule format. Add a 30mL BAC water vial ($12.99) to your order."
-      },
-      {
-        "question": "How do I reconstitute AICAR?",
-        "answer": "Add bacteriostatic water to the lyophilized AICAR. Target concentration depends on protocol volume requirements — mix gently until dissolved. Refrigerate after reconstitution and use within 30 days."
-      },
-      {
-        "question": "How does AICAR compare to BAM-15 in price?",
-        "answer": "Both are on the energy & metabolic shelf. Check current pricing on each product page — pricing is updated regularly. AICAR is typically in the mid-to-upper price range of this category."
-      },
-      {
-        "question": "What other metabolic compounds are ordered with AICAR?",
-        "answer": "Glutathione, L-Carnitine, and O-304 are the most common pairing compounds from the energy & metabolic shelf. Combining AICAR with Glutathione 600mg or 1500mg typically clears the $200 free shipping threshold."
-      }
     ]
   },
   {
@@ -2118,24 +1798,6 @@
         "price": 179.99,
         "price_formatted": "$179.99",
         "in_stock": true
-      }
-    ],
-    "faq": [
-      {
-        "question": "What sizes does Glutathione come in?",
-        "answer": "Glutathione is available in three sizes: 200mg, 600mg, and 1500mg lyophilized vials. The 1500mg vial has the lowest $/mg and is the best value option for any extended protocol."
-      },
-      {
-        "question": "Which Glutathione size is the best value?",
-        "answer": "The 1500mg vial offers the lowest cost-per-milligram by a wide margin. The 200mg is a budget entry point; the 600mg is a mid-range option. If you're ordering Glutathione for regular use, go straight to the 1500mg."
-      },
-      {
-        "question": "How do I reconstitute Glutathione?",
-        "answer": "Add bacteriostatic water to the lyophilized vial. A common stock concentration is 100mg/mL — add 2mL to the 200mg vial, 6mL to the 600mg vial, 15mL to the 1500mg vial. Mix gently. Refrigerate and use within 30 days."
-      },
-      {
-        "question": "Does Glutathione degrade quickly after reconstitution?",
-        "answer": "Glutathione (reduced form) is sensitive to oxidation. Keep the reconstituted vial refrigerated at 2–8°C, minimize headspace air exposure, and use within 30 days. The lyophilized powder stored at −20°C is stable for much longer — reconstitute only what you need."
       }
     ]
   },

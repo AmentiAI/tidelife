@@ -75,24 +75,11 @@ export default async function CategoryPage({
     ],
   }
 
-  const faqJsonLd = cat.faq.length > 0 ? {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: cat.faq.map((item) => ({
-      "@type": "Question",
-      name: item.question,
-      acceptedAnswer: { "@type": "Answer", text: item.answer },
-    })),
-  } : null
-
   const contentLines = cat.content.split("\n").filter(Boolean)
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
-      {faqJsonLd && (
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
-      )}
 
       <div className="max-w-7xl mx-auto px-4 py-10">
         {/* Breadcrumb */}
@@ -163,21 +150,6 @@ export default async function CategoryPage({
               }
               return <p key={i} className="text-slate-700 mb-3 leading-relaxed">{line}</p>
             })}
-          </div>
-        )}
-
-        {/* FAQ — one block per category, unique Q&As */}
-        {cat.faq.length > 0 && (
-          <div className="max-w-3xl mb-12">
-            <h2 className="text-xl font-bold text-slate-900 mb-5">Common Questions</h2>
-            <div className="space-y-5">
-              {cat.faq.map((item, i) => (
-                <div key={i} className="border border-slate-200 rounded-xl p-5">
-                  <p className="font-semibold text-slate-900 mb-2">{item.question}</p>
-                  <p className="text-sm text-slate-600 leading-relaxed">{item.answer}</p>
-                </div>
-              ))}
-            </div>
           </div>
         )}
 
