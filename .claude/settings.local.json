@@ -8,7 +8,9 @@
       "Bash(curl *)",
       "Bash(python3 *)",
       "Bash(xargs sed *)",
-      "Bash(npx tsc *)"
+      "Bash(npx tsc *)",
+      "WebFetch(domain:www.arnoldpublishers.com)",
+      "WebFetch(domain:arnoldpublishers-com.vercel.app)"
     ]
   }
 }

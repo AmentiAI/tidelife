@@ -5,7 +5,7 @@ import { SITE, SITE_NAME } from "@/lib/peptide-data"
 export const metadata: Metadata = {
   title: `About Us — Research-Grade Peptide Catalog | ${SITE_NAME}`,
   description:
-    "Peptidelife is a research peptide catalog curating high-purity compounds with third-party HPLC verification and transparent certificates of analysis.",
+    "Peptidelife is a research peptide catalog curating high-purity compounds with third-party HPLC verification and transparent certificates of analysis. Catalog reviewed by Prof. David J. Harrison, FRCPath.",
   alternates: { canonical: `${SITE}/about` },
   openGraph: {
     title: `About Peptidelife`,
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   },
 }
 
-const personJsonLd = {
+const curatorJsonLd = {
   "@context": "https://schema.org",
   "@type": "Person",
   name: "Alex Reid",
@@ -35,18 +35,79 @@ const personJsonLd = {
   url: `${SITE}/about`,
 }
 
+const reviewerJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: "David J. Harrison",
+  honorificPrefix: "Prof.",
+  honorificSuffix: "MB ChB MD DSc FRCPath FRCPE FRCSEd",
+  jobTitle: "Professor of Pathology",
+  affiliation: [
+    {
+      "@type": "EducationalOrganization",
+      name: "University of St Andrews",
+      url: "https://www.st-andrews.ac.uk",
+    },
+    {
+      "@type": "EducationalOrganization",
+      name: "University of Edinburgh",
+    },
+  ],
+  description:
+    "Professor David J. Harrison is Chair of Pathology at the University of St Andrews School of Medicine, co-editor of Muir's Textbook of Pathology (14th edition), and holds honorary professorships at the Universities of Edinburgh, Glasgow, and Florida.",
+  sameAs: "https://arnoldpublishers-com.vercel.app/authors/david-harrison",
+}
+
 export default function AboutPage() {
   return (
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(curatorJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewerJsonLd) }}
       />
 
       <div className="max-w-2xl mx-auto px-4 py-12">
         <h1 className="text-3xl font-extrabold text-slate-900 mb-6">About Peptidelife</h1>
 
-        {/* Author card */}
+        {/* Medical reviewer card */}
+        <div className="border border-slate-200 rounded-xl p-5 mb-5 flex items-start gap-4">
+          <div className="w-12 h-12 rounded-full bg-slate-100 flex items-center justify-center flex-shrink-0">
+            <span className="text-slate-600 font-bold text-lg">DH</span>
+          </div>
+          <div>
+            <div className="flex items-center gap-2 flex-wrap">
+              <p className="font-bold text-slate-900">Prof. David J. Harrison</p>
+              <span className="text-xs font-semibold bg-yellow-100 text-yellow-700 px-2 py-0.5 rounded-full">
+                Medical Reviewer
+              </span>
+            </div>
+            <p className="text-sm text-slate-500 mt-0.5">
+              MB ChB MD DSc FRCPath FRCPE FRCSEd · Chair of Pathology, University of St Andrews
+            </p>
+            <p className="text-sm text-slate-600 mt-2 leading-relaxed">
+              Professor Harrison is Chair of Pathology at the University of St Andrews School of
+              Medicine and co-editor of <em>Muir's Textbook of Pathology</em> (14th edition) — the
+              foundational British pathology reference published continuously since 1924. He holds
+              honorary professorships at the Universities of Edinburgh, Glasgow, and Florida.
+              Professor Harrison reviewed the Peptidelife compound catalog for accuracy of compound
+              identity, purity standards, and sourcing documentation.
+            </p>
+            <a
+              href="https://arnoldpublishers-com.vercel.app/authors/david-harrison"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex text-xs font-semibold text-yellow-700 hover:underline mt-2"
+            >
+              View profile →
+            </a>
+          </div>
+        </div>
+
+        {/* Catalog curator card */}
         <div className="border border-slate-200 rounded-xl p-5 mb-8 flex items-start gap-4">
           <div className="w-12 h-12 rounded-full bg-yellow-100 flex items-center justify-center flex-shrink-0">
             <span className="text-yellow-700 font-bold text-lg">AR</span>
