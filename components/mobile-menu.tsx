@@ -3,8 +3,15 @@
 import { useState } from "react"
 import Link from "next/link"
 import type { Category } from "@/lib/peptide-data"
+import SearchBar, { type SearchItem } from "@/components/search-bar"
 
-export default function MobileMenu({ cats }: { cats: Category[] }) {
+export default function MobileMenu({
+  cats,
+  searchItems,
+}: {
+  cats: Category[]
+  searchItems: SearchItem[]
+}) {
   const [open, setOpen] = useState(false)
 
   return (
@@ -28,6 +35,9 @@ export default function MobileMenu({ cats }: { cats: Category[] }) {
             className="absolute top-14 left-0 right-0 bg-white border-b border-slate-200 shadow-lg px-4 py-4 flex flex-col gap-1"
             onClick={(e) => e.stopPropagation()}
           >
+            <div className="pb-3">
+              <SearchBar items={searchItems} />
+            </div>
             <Link href="/products" className="py-2.5 text-sm font-semibold text-slate-800 border-b border-slate-100" onClick={() => setOpen(false)}>
               Shop All
             </Link>

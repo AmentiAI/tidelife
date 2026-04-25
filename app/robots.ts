@@ -33,7 +33,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/out/", "/api/"],
       })),
     ],
-    sitemap: "https://tidelife.com/sitemap.xml",
-    host: "https://tidelife.com",
+    sitemap: "https://peptidesclav.com/sitemap.xml",
+    host: "https://peptidesclav.com",
   }
 }

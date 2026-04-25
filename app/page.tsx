@@ -50,12 +50,12 @@ const organizationJsonLd = {
   contactPoint: {
     "@type": "ContactPoint",
     contactType: "customer support",
-    email: "support@tidelife.com",
+    email: "support@peptidesclav.com",
     availableLanguage: "English",
   },
   sameAs: [
     "https://www.linkedin.com/company/peptidelife",
-    "https://www.trustpilot.com/review/tidelife.com",
+    "https://www.trustpilot.com/review/peptidesclav.com",
   ],
 }
 

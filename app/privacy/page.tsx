@@ -48,7 +48,7 @@ export default function PrivacyPage() {
         },
         {
           h: "Contact",
-          body: "For privacy inquiries, email privacy@tidelife.com.",
+          body: "For privacy inquiries, email privacy@peptidesclav.com.",
         },
       ].map((s) => (
         <div key={s.h} className="mb-8">
