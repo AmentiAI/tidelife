@@ -14,12 +14,12 @@ import ProductCard from "@/components/product-card"
 const SITE_URL = SITE
 
 export const metadata: Metadata = {
-  title: `Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | Peptidelife`,
+  title: `Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | PeptidesClav`,
   description:
-    "Peptidelife carries 95+ research-grade peptide vials — every vial ≥98% HPLC purity with original lot CoA. Free US shipping on orders over $200. Same-day shipping before 2pm EST.",
+    "PeptidesClav carries 95+ research-grade peptide vials — every vial ≥98% HPLC purity with original lot CoA. Free US shipping on orders over $200. Same-day shipping before 2pm EST.",
   alternates: { canonical: SITE_URL },
   openGraph: {
-    title: "Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | Peptidelife",
+    title: "Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+ | PeptidesClav",
     description:
       "95+ research-grade peptide vials. ≥98% HPLC purity, sealed vial with lot CoA, tracked US shipping 3–5 business days. Free shipping over $200.",
     url: SITE_URL,
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Buy Research Peptides Online — Peptidelife",
+    title: "Buy Research Peptides Online — PeptidesClav",
     description: "95+ peptide vials. ≥98% HPLC purity. Free US shipping over $200.",
     images: ["/og-image.png"],
   },
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
 const organizationJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Peptidelife",
+  name: "PeptidesClav",
   url: SITE_URL,
   logo: {
     "@type": "ImageObject",
@@ -54,7 +54,7 @@ const organizationJsonLd = {
     availableLanguage: "English",
   },
   sameAs: [
-    "https://www.linkedin.com/company/peptidelife",
+    "https://www.linkedin.com/company/peptidesclav",
     "https://www.trustpilot.com/review/peptidesclav.com",
   ],
 }
@@ -62,7 +62,7 @@ const organizationJsonLd = {
 const websiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  name: "Peptidelife",
+  name: "PeptidesClav",
   url: SITE_URL,
 }
 
@@ -103,7 +103,7 @@ export default function HomePage() {
                 Quick answer
               </p>
               <p className="text-base leading-relaxed text-slate-700">
-                Peptidelife stocks <strong>{totalProducts}+ research-grade peptide vials</strong> starting
+                PeptidesClav stocks <strong>{totalProducts}+ research-grade peptide vials</strong> starting
                 from <strong>${lowestPrice.toFixed(2)}</strong>. Top sellers include{" "}
                 <strong>Retatrutide</strong>, <strong>Tirzepatide</strong>, and{" "}
                 <strong>BPC-157</strong>. Every vial is sealed under nitrogen at ≥98% HPLC purity

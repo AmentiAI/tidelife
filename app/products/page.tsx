@@ -36,7 +36,7 @@ export default function ProductsPage() {
             Quick answer
           </p>
           <p className="text-sm text-slate-700 leading-relaxed">
-            Peptidelife stocks <strong>{totalCount} research-grade peptide vials</strong> starting from{" "}
+            PeptidesClav stocks <strong>{totalCount} research-grade peptide vials</strong> starting from{" "}
             <strong>${lowestPrice.toFixed(2)}</strong> across {categories.length} categories. Every vial
             is ≥98% HPLC purity with a lot certificate of analysis. Free US shipping on orders over $200,
             same-day shipping before 2pm EST.

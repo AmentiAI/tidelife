@@ -3,19 +3,19 @@ import Link from "next/link"
 import { categories, products, SITE, SITE_NAME } from "@/lib/peptide-data"
 
 export const metadata: Metadata = {
-  title: "Shop Peptide Categories — Fat Loss, Recovery, Growth Hormone & More | Peptidelife",
+  title: "Shop Peptide Categories — Fat Loss, Recovery, Growth Hormone & More | PeptidesClav",
   description:
     "Browse all 9 peptide categories — fat loss, recovery, growth hormone, skin, nootropics, longevity, immune, energy and Khavinson bioregulators. ≥98% HPLC purity.",
   alternates: { canonical: `${SITE}/peptides` },
   openGraph: {
-    title: "Shop Peptide Categories | Peptidelife",
+    title: "Shop Peptide Categories | PeptidesClav",
     description: "9 categories, 95+ research-grade peptide vials. Free US shipping $200+.",
     url: `${SITE}/peptides`,
     siteName: SITE_NAME,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shop Peptide Categories | Peptidelife",
+    title: "Shop Peptide Categories | PeptidesClav",
     description: "9 categories, 95+ research peptides. Free US shipping $200+.",
   },
 }

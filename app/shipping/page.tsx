@@ -4,17 +4,17 @@ import { SITE, SITE_NAME } from "@/lib/peptide-data"
 export const metadata: Metadata = {
   title: "Shipping, Delivery & Returns — Research Peptide Orders | Peptides Online",
   description:
-    "Peptidelife shipping policy — same-day dispatch before 2pm EST, tracked US delivery in 3–5 business days, free shipping over $200. Returns and handling information.",
+    "PeptidesClav shipping policy — same-day dispatch before 2pm EST, tracked US delivery in 3–5 business days, free shipping over $200. Returns and handling information.",
   alternates: { canonical: `${SITE}/shipping` },
   openGraph: {
-    title: "Shipping & Returns | Peptidelife",
+    title: "Shipping & Returns | PeptidesClav",
     description: "Same-day shipping before 2pm EST, 3–5 day US delivery, free shipping $200+.",
     url: `${SITE}/shipping`,
     siteName: SITE_NAME,
   },
   twitter: {
     card: "summary",
-    title: "Shipping & Returns | Peptidelife",
+    title: "Shipping & Returns | PeptidesClav",
     description: "Same-day shipping, 3–5 day US delivery, free shipping $200+.",
   },
 }

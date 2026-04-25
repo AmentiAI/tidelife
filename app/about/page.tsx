@@ -5,17 +5,17 @@ import { SITE, SITE_NAME } from "@/lib/peptide-data"
 export const metadata: Metadata = {
   title: `About Us — Research-Grade Peptide Catalog | ${SITE_NAME}`,
   description:
-    "Peptidelife is a research peptide catalog curating high-purity compounds with third-party HPLC verification and transparent certificates of analysis. Catalog reviewed by Prof. David J. Harrison, FRCPath.",
+    "PeptidesClav is a research peptide catalog curating high-purity compounds with third-party HPLC verification and transparent certificates of analysis. Catalog reviewed by Prof. David J. Harrison, FRCPath.",
   alternates: { canonical: `${SITE}/about` },
   openGraph: {
-    title: `About Peptidelife`,
+    title: `About PeptidesClav`,
     description: "Research-grade peptide catalog with ≥98% HPLC purity and lot CoA on every order.",
     url: `${SITE}/about`,
     siteName: SITE_NAME,
   },
   twitter: {
     card: "summary",
-    title: `About Peptidelife`,
+    title: `About PeptidesClav`,
     description: "Research-grade peptide catalog. ≥98% HPLC purity, lot CoA included.",
   },
 }
@@ -27,11 +27,11 @@ const curatorJsonLd = {
   jobTitle: "Research Catalog Curator",
   worksFor: {
     "@type": "Organization",
-    name: "Peptidelife",
+    name: "PeptidesClav",
     url: SITE,
   },
   description:
-    "Alex Reid compiles and maintains the Peptidelife compound catalog, verifying HPLC purity certificates and sourcing documentation for 95+ research-grade peptides.",
+    "Alex Reid compiles and maintains the PeptidesClav compound catalog, verifying HPLC purity certificates and sourcing documentation for 95+ research-grade peptides.",
   url: `${SITE}/about`,
 }
 
@@ -71,7 +71,7 @@ export default function AboutPage() {
       />
 
       <div className="max-w-2xl mx-auto px-4 py-12">
-        <h1 className="text-3xl font-extrabold text-slate-900 mb-6">About Peptidelife</h1>
+        <h1 className="text-3xl font-extrabold text-slate-900 mb-6">About PeptidesClav</h1>
 
         {/* Medical reviewer card */}
         <div className="border border-slate-200 rounded-xl p-5 mb-5 flex items-start gap-4">
@@ -93,7 +93,7 @@ export default function AboutPage() {
               Medicine and co-editor of <em>Muir's Textbook of Pathology</em> (14th edition) — the
               foundational British pathology reference published continuously since 1924. He holds
               honorary professorships at the Universities of Edinburgh, Glasgow, and Florida.
-              Professor Harrison reviewed the Peptidelife compound catalog for accuracy of compound
+              Professor Harrison reviewed the PeptidesClav compound catalog for accuracy of compound
               identity, purity standards, and sourcing documentation.
             </p>
             <a
@@ -124,7 +124,7 @@ export default function AboutPage() {
         </div>
 
         <p className="text-slate-700 leading-relaxed mb-5">
-          Peptidelife is a curated research peptide catalog built for researchers who need
+          PeptidesClav is a curated research peptide catalog built for researchers who need
           verified compounds with transparent sourcing documentation.
         </p>
 
@@ -167,7 +167,7 @@ export default function AboutPage() {
         <div className="border-t border-slate-200 pt-8">
           <h2 className="text-lg font-bold text-slate-900 mb-4">Affiliate Disclosure</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
-            Peptidelife earns a commission on purchases made through links on this site via our
+            PeptidesClav earns a commission on purchases made through links on this site via our
             partnership with a third-party research compound supplier. This does not affect the price
             you pay. Our selection and organization of compounds is independent of commercial
             relationships. All purity data and certificates of analysis are provided by the supplier

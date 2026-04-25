@@ -4,19 +4,19 @@ import { products, getProductBySlug, outUrl, SITE, SITE_NAME } from "@/lib/pepti
 import ProductCard from "@/components/product-card"
 
 export const metadata: Metadata = {
-  title: "Peptide Stacks — Pre-Mixed Blends & Research Protocol Combinations | Peptidelife",
+  title: "Peptide Stacks — Pre-Mixed Blends & Research Protocol Combinations | PeptidesClav",
   description:
     "Shop pre-mixed peptide blends and curated research stack combinations — BPC/TB, Ipamorelin/CJC, Cagri-Sema, GLOW, KLOW and more. ≥98% HPLC purity. Free US shipping $200+.",
   alternates: { canonical: `${SITE}/stacks` },
   openGraph: {
-    title: "Peptide Stacks — Pre-Mixed Blends | Peptidelife",
+    title: "Peptide Stacks — Pre-Mixed Blends | PeptidesClav",
     description: "Pre-mixed peptide blends and curated research combinations. ≥98% purity, free shipping $200+.",
     url: `${SITE}/stacks`,
     siteName: SITE_NAME,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Peptide Stacks | Peptidelife",
+    title: "Peptide Stacks | PeptidesClav",
     description: "Pre-mixed blends and stack combinations. Free US shipping $200+.",
   },
 }

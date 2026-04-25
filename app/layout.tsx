@@ -6,7 +6,7 @@ import Footer from "@/components/footer"
 const SITE_URL = "https://peptidesclav.com"
 const DEFAULT_TITLE = "Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+"
 const DEFAULT_DESC =
-  "Peptidelife carries 95+ research-grade peptide vials — every vial ≥98% HPLC purity with original lot CoA. Free US shipping on orders over $200. Same-day shipping before 2pm EST."
+  "PeptidesClav carries 95+ research-grade peptide vials — every vial ≥98% HPLC purity with original lot CoA. Free US shipping on orders over $200. Same-day shipping before 2pm EST."
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     template: "%s",
   },
   description: DEFAULT_DESC,
-  applicationName: "Peptidelife",
+  applicationName: "PeptidesClav",
   alternates: { canonical: SITE_URL },
   robots: {
     index: true,
@@ -31,11 +31,11 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: SITE_URL,
-    siteName: "Peptidelife",
+    siteName: "PeptidesClav",
     title: DEFAULT_TITLE,
     description: DEFAULT_DESC,
     locale: "en_US",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Peptidelife" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "PeptidesClav" }],
   },
   twitter: {
     card: "summary_large_image",

@@ -11,7 +11,7 @@ export default function Navigation() {
     <header className="border-b border-slate-200 bg-white sticky top-0 z-40">
       <div className="max-w-7xl mx-auto px-4 flex items-center gap-4 h-14">
         <Link href="/" className="font-bold text-lg tracking-tight text-slate-900 shrink-0">
-          Peptidelife
+          PeptidesClav
         </Link>
 
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-slate-600 shrink-0">

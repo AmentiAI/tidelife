@@ -100,7 +100,7 @@ export default async function CategoryPage({
               Quick answer
             </p>
             <p className="text-base leading-relaxed text-slate-700">
-              Peptidelife carries <strong>{count} {cat.shortName} peptide vials</strong> priced from{" "}
+              PeptidesClav carries <strong>{count} {cat.shortName} peptide vials</strong> priced from{" "}
               <strong>${lowestPrice.toFixed(2)}</strong> to <strong>${highestPrice.toFixed(2)}</strong>.
               {topThree.length > 0 && (
                 <> The top products are{" "}

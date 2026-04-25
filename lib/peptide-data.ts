@@ -2,7 +2,7 @@ import productsRaw from "@/data/products.json"
 import categoriesRaw from "@/data/categories.json"
 
 export const SITE = "https://peptidesclav.com"
-export const SITE_NAME = "Peptidelife"
+export const SITE_NAME = "PeptidesClav"
 export const SUPPLIER_BASE = "https://phiogen.is/products"
 export const REF_CODE = "PEPS"
 
