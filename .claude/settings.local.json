@@ -10,7 +10,11 @@
       "Bash(xargs sed *)",
       "Bash(npx tsc *)",
       "WebFetch(domain:www.arnoldpublishers.com)",
-      "WebFetch(domain:arnoldpublishers-com.vercel.app)"
+      "WebFetch(domain:arnoldpublishers-com.vercel.app)",
+      "Bash(command -v convert magick identify python3)",
+      "Bash(node *)",
+      "Bash(npx next *)",
+      "Bash(xargs -I{} grep -oE '<link[^>]*rel=\"icon\"[^>]*>' {})"
     ]
   }
 }

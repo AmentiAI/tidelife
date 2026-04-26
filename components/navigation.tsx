@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Image from "next/image"
 import { getAllCategories, products } from "@/lib/peptide-data"
 import MobileMenu from "@/components/mobile-menu"
 import SearchBar from "@/components/search-bar"
@@ -10,8 +11,15 @@ export default function Navigation() {
   return (
     <header className="border-b border-slate-200 bg-white sticky top-0 z-40">
       <div className="max-w-7xl mx-auto px-4 flex items-center gap-4 h-14">
-        <Link href="/" className="font-bold text-lg tracking-tight text-slate-900 shrink-0">
-          PeptidesClav
+        <Link href="/" aria-label="PeptidesClav home" className="shrink-0 flex items-center">
+          <Image
+            src="/logo.png"
+            alt="PeptidesClav"
+            width={140}
+            height={40}
+            priority
+            className="h-9 w-auto"
+          />
         </Link>
 
         <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-slate-600 shrink-0">

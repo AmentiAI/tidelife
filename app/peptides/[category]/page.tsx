@@ -75,11 +75,26 @@ export default async function CategoryPage({
     ],
   }
 
+  const reviewerJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: "David J. Harrison",
+    honorificPrefix: "Prof.",
+    honorificSuffix: "MB ChB MD DSc FRCPath FRCPE FRCSEd",
+    jobTitle: "Professor of Pathology",
+    affiliation: {
+      "@type": "EducationalOrganization",
+      name: "University of St Andrews",
+    },
+    sameAs: "https://arnoldpublishers-com.vercel.app/authors/david-harrison",
+  }
+
   const contentLines = cat.content.split("\n").filter(Boolean)
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewerJsonLd) }} />
 
       <div className="max-w-7xl mx-auto px-4 py-10">
         {/* Breadcrumb */}
@@ -122,12 +137,26 @@ export default async function CategoryPage({
         )}
 
         {/* Trust tiles */}
-        <div className="flex flex-wrap gap-3 mb-8 text-xs font-semibold text-yellow-700">
+        <div className="flex flex-wrap gap-3 mb-4 text-xs font-semibold text-yellow-700">
           <span>✓ ≥98% HPLC Purity</span>
           <span>✓ Lot CoA Included</span>
           <span>✓ Same-Day Shipping</span>
           <span>✓ Free Shipping $200+</span>
         </div>
+
+        {/* Medical reviewer badge */}
+        <Link
+          href="/about"
+          className="inline-flex items-center gap-2 border border-slate-200 rounded-lg px-3 py-2 mb-8 hover:border-slate-300 transition-colors"
+        >
+          <div className="w-7 h-7 rounded-full bg-slate-100 flex items-center justify-center flex-shrink-0">
+            <span className="text-slate-600 font-bold text-xs">DH</span>
+          </div>
+          <div>
+            <p className="text-xs font-semibold text-slate-800 leading-tight">Medically Reviewed</p>
+            <p className="text-xs text-slate-500 leading-tight">Prof. David J. Harrison, FRCPath · Chair of Pathology, Univ. of St Andrews</p>
+          </div>
+        </Link>
 
         {/* Product grid */}
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 mb-12">
