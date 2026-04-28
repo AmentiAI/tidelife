@@ -14,7 +14,9 @@
       "Bash(command -v convert magick identify python3)",
       "Bash(node *)",
       "Bash(npx next *)",
-      "Bash(xargs -I{} grep -oE '<link[^>]*rel=\"icon\"[^>]*>' {})"
+      "Bash(xargs -I{} grep -oE '<link[^>]*rel=\"icon\"[^>]*>' {})",
+      "Bash(node -e ' *)",
+      "Read(//tmp/**)"
     ]
   }
 }

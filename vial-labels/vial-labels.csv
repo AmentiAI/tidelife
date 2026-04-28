@@ -1,0 +1,138 @@
+sku,variant_slug,product_name,size,chemical_name,cas_number,format,category,in_stock
+TL-001,retatrutide-10mg,Retatrutide,10mg,Triple GLP-1/GIP/Glucagon receptor agonist,2381089-83-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-001,retatrutide-15mg,Retatrutide,15mg,Triple GLP-1/GIP/Glucagon receptor agonist,2381089-83-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-001,retatrutide-20mg,Retatrutide,20mg,Triple GLP-1/GIP/Glucagon receptor agonist,2381089-83-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-001,retatrutide-30mg,Retatrutide,30mg,Triple GLP-1/GIP/Glucagon receptor agonist,2381089-83-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-002,tirzepatide-15mg,Tirzepatide,15mg,Dual GLP-1/GIP receptor agonist,2023788-19-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-002,tirzepatide-30mg,Tirzepatide,30mg,Dual GLP-1/GIP receptor agonist,2023788-19-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-002,tirzepatide-60mg,Tirzepatide,60mg,Dual GLP-1/GIP receptor agonist,2023788-19-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-003,semaglutide-3mg,Semaglutide,3mg,GLP-1 receptor agonist,910463-68-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-003,semaglutide-6mg,Semaglutide,6mg,GLP-1 receptor agonist,910463-68-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-003,semaglutide-12mg,Semaglutide,12mg,GLP-1 receptor agonist,910463-68-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-003,semaglutide-20mg,Semaglutide,20mg,GLP-1 receptor agonist,910463-68-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-003,semaglutide-30mg,Semaglutide,30mg,GLP-1 receptor agonist,910463-68-2,Lyophilized Powder,GLP / Weight Loss,true
+TL-004,cagrilintide-5mg,Cagrilintide,5mg,Long-acting amylin analog,,Lyophilized Powder,GLP / Weight Loss,true
+TL-004,cagrilintide-10mg,Cagrilintide,10mg,Long-acting amylin analog,,Lyophilized Powder,GLP / Weight Loss,true
+TL-005,aod9604-2mg,AOD9604,2mg,Growth hormone fragment (176-191),221231-10-3,Lyophilized Powder,GLP / Weight Loss,true
+TL-005,aod9604-5mg,AOD9604,5mg,Growth hormone fragment (176-191),221231-10-3,Lyophilized Powder,GLP / Weight Loss,true
+TL-005,aod9604-10mg,AOD9604,10mg,Growth hormone fragment (176-191),221231-10-3,Lyophilized Powder,GLP / Weight Loss,true
+TL-006,5-amino-1mq-5mg,5-Amino-1MQ,5mg,NNMT inhibitor (5-amino-1-methylquinolinium),,Lyophilized Powder,GLP / Weight Loss,true
+TL-006,5-amino-1mq-50mg,5-Amino-1MQ,50mg,NNMT inhibitor (5-amino-1-methylquinolinium),,Lyophilized Powder,GLP / Weight Loss,true
+TL-007,5-amino-1mq-capsules-50mg-x-60-capsules,5-Amino-1MQ Capsules,5-Amino-1MQ 50mg × 60 Capsules,NNMT inhibitor — oral capsule formulation,,Capsules & Tablets,GLP / Weight Loss,true
+TL-008,mazdutide-6mg,Mazdutide,6mg,GLP-1/Glucagon dual receptor agonist,,Lyophilized Powder,GLP / Weight Loss,true
+TL-009,survodutide-10mg,Survodutide,10mg,GLP-1/Glucagon dual receptor agonist,,Lyophilized Powder,GLP / Weight Loss,true
+TL-010,tesofensine-500mcg-x-30-capsules,Tesofensine Capsules,Tesofensine 500mcg × 30 Capsules,Triple monoamine reuptake inhibitor — capsule,,Capsules & Tablets,GLP / Weight Loss,true
+TL-011,tesofensine-500mcg-x-30-tablets,Tesofensine Tablets,Tesofensine 500mcg × 30 Tablets,Triple monoamine reuptake inhibitor — tablet,,Capsules & Tablets,GLP / Weight Loss,true
+TL-012,cagri-sema-blend-5mg-cagrilintide-5mg-sema-10mg,Cagri-Sema Blend,5mg+10mg,Cagrilintide 5mg + Semaglutide 10mg pre-mixed,,Peptide Blends / Lyophilized Powder,GLP / Weight Loss,true
+TL-013,cagri-reta-5mg,Cagri-Reta Blend,Cagri-Reta 5mg,Cagrilintide + Retatrutide pre-mixed blend,,Peptide Blends / Lyophilized Powder,GLP / Weight Loss,true
+TL-013,cagri-reta-10mg,Cagri-Reta Blend,Cagri-Reta 10mg,Cagrilintide + Retatrutide pre-mixed blend,,Peptide Blends / Lyophilized Powder,GLP / Weight Loss,true
+TL-014,reta-cagri-5mg-5mg,Reta-Cagri Blend,Reta-Cagri 5mg+5mg,Retatrutide 5mg + Cagrilintide 5mg pre-mixed,,Peptide Blends / Lyophilized Powder,GLP / Weight Loss,true
+TL-015,bpc-157-10mg,BPC-157,10mg,Body Protection Compound-157 pentadecapeptide,137525-51-0,Lyophilized Powder,Recovery & Healing,true
+TL-016,bpc-157-capsules-500mcg-x-60-capsules,BPC-157 Capsules,BPC-157 500mcg × 60 Capsules,Body Protection Compound-157 — oral capsule,137525-51-0,Capsules & Tablets,Recovery & Healing,true
+TL-017,tb-500-thymosin-beta-4-10mg,TB-500,10mg,Thymosin Beta-4 fragment (2-43),107761-42-2,Lyophilized Powder,Recovery & Healing,true
+TL-018,bpc-157-tb-500-blend-bpc-157-5mg-tb-500-5mg,BPC-157 + TB-500 Blend,BPC-157 5mg + TB-500 5mg,BPC-157 + Thymosin Beta-4 recovery blend,,Peptide Blends / Lyophilized Powder,Recovery & Healing,true
+TL-018,bpc-157-tb-500-blend-bpc-157-10mg-tb-500-10mg,BPC-157 + TB-500 Blend,BPC-157 10mg + TB-500 10mg,BPC-157 + Thymosin Beta-4 recovery blend,,Peptide Blends / Lyophilized Powder,Recovery & Healing,true
+TL-019,peg-mgf-2mg,PEG-MGF,2mg,Pegylated mechano growth factor,,Lyophilized Powder,Recovery & Healing,true
+TL-020,abaloparatide-3mg,Abaloparatide,3mg,PTHrP-derived bone anabolic peptide,,Lyophilized Powder,Recovery & Healing,true
+TL-021,ace-031-1mg,ACE-031,1mg,Activin receptor type IIB ligand trap,,Lyophilized Powder,Recovery & Healing,true
+TL-022,p21-10mg,P21,10mg,CNTF-derived neurotrophin peptide,,Lyophilized Powder,Recovery & Healing,true
+TL-023,cjc-1295-no-dac-5mg,CJC-1295 No DAC,5mg,Modified GHRH analog (CJC-1295 without Drug Affinity Complex),863288-34-0,Lyophilized Powder,Growth Hormone Peptides,true
+TL-023,cjc-1295-no-dac-10mg,CJC-1295 No DAC,10mg,Modified GHRH analog (CJC-1295 without Drug Affinity Complex),863288-34-0,Lyophilized Powder,Growth Hormone Peptides,true
+TL-024,cjc-1295-with-dac-10mg,CJC-1295 With DAC,10mg,GHRH analog with Drug Affinity Complex (extended half-life),,Lyophilized Powder,Growth Hormone Peptides,true
+TL-025,ipamorelin-10mg,Ipamorelin,10mg,Selective ghrelin/GHS receptor agonist,170851-70-4,Lyophilized Powder,Growth Hormone Peptides,true
+TL-026,ghrp-2-10mg,GHRP-2,10mg,Growth hormone-releasing peptide-2,158861-67-7,Lyophilized Powder,Growth Hormone Peptides,true
+TL-027,ghrp-6-10mg,GHRP-6,10mg,Growth hormone-releasing peptide-6,87616-84-0,Lyophilized Powder,Growth Hormone Peptides,true
+TL-028,hexarelin-5mg,Hexarelin,5mg,Hexapeptide growth hormone secretagogue,140703-51-1,Lyophilized Powder,Growth Hormone Peptides,true
+TL-029,sermorelin-2mg,Sermorelin,2mg,GHRH(1-29)NH₂ growth hormone-releasing factor,86168-78-7,Lyophilized Powder,Growth Hormone Peptides,true
+TL-029,sermorelin-5mg,Sermorelin,5mg,GHRH(1-29)NH₂ growth hormone-releasing factor,86168-78-7,Lyophilized Powder,Growth Hormone Peptides,true
+TL-029,sermorelin-10mg,Sermorelin,10mg,GHRH(1-29)NH₂ growth hormone-releasing factor,86168-78-7,Lyophilized Powder,Growth Hormone Peptides,true
+TL-030,tesamorelin-10mg,Tesamorelin,10mg,Trans-3-hexenoic acid-GHRH analog,901758-09-6,Lyophilized Powder,Growth Hormone Peptides,true
+TL-030,tesamorelin-20mg,Tesamorelin,20mg,Trans-3-hexenoic acid-GHRH analog,901758-09-6,Lyophilized Powder,Growth Hormone Peptides,true
+TL-031,igf-1-lr3-1mg,IGF-1 LR3,1mg,Insulin-like growth factor 1 Long R3,,Lyophilized Powder,Growth Hormone Peptides,true
+TL-032,ipamorelin-cjc-1295-blend-cjc-1295-5mg-ipamorelin-5mg,Ipamorelin / CJC-1295 Blend,Ipa/CJC-1295 5mg+5mg,Ipamorelin 5mg + CJC-1295 No DAC 5mg blend,,Peptide Blends / Lyophilized Powder,Growth Hormone Peptides,true
+TL-033,ipamorelin-tesamorelin-blend-ipa-3mg-tesa-10mg,Ipamorelin / Tesamorelin Blend,Ipa 3mg + Tesa 10mg,Ipamorelin 3mg + Tesamorelin 10mg blend,,Peptide Blends / Lyophilized Powder,Growth Hormone Peptides,true
+TL-034,ipa-tesa-blend-ipa-5mg-tesa-10mg-15mg,IPA/TESA Blend,IPA/TESA 5mg+10mg,Ipamorelin 5mg + Tesamorelin 10mg blend,,Peptide Blends / Lyophilized Powder,Growth Hormone Peptides,true
+TL-035,ghk-cu-50mg,GHK-Cu,50mg,Glycyl-L-histidyl-L-lysine copper(II) tripeptide,49557-75-7,Lyophilized Powder,Skin & Beauty,true
+TL-035,ghk-cu-100mg,GHK-Cu,100mg,Glycyl-L-histidyl-L-lysine copper(II) tripeptide,49557-75-7,Lyophilized Powder,Skin & Beauty,true
+TL-036,glow-blend-50mg,GLOW Blend,50mg,Skin-targeted peptide blend,,Peptide Blends / Lyophilized Powder,Skin & Beauty,true
+TL-036,glow-blend-70mg,GLOW Blend,70mg,Skin-targeted peptide blend,,Peptide Blends / Lyophilized Powder,Skin & Beauty,true
+TL-037,klow-blend-80mg,KLOW Blend,80mg,Skin & recovery peptide blend with KPV,,Peptide Blends / Lyophilized Powder,Skin & Beauty,true
+TL-038,melanotan-1-10mg,Melanotan I,10mg,α-MSH analog (linear afamelanotide),,Lyophilized Powder,Skin & Beauty,true
+TL-039,melanotan-2-10mg,Melanotan II,10mg,Cyclic α-MSH analog (bremelanotide precursor),121062-08-6,Lyophilized Powder,Skin & Beauty,true
+TL-040,snap-8-10mg,SNAP-8,10mg,Acetyl octapeptide-3 — anti-wrinkle peptide,,Lyophilized Powder,Skin & Beauty,true
+TL-041,n-acetyl-semax-amidate-30mg,N-Acetyl Semax Amidate,30mg,N-acetylated Semax amidate nootropic analog,,Lyophilized Powder,Nootropics & Cognitive,true
+TL-042,selank-10mg,Selank,10mg,Tuftsin-based anxiolytic heptapeptide,129954-34-3,Lyophilized Powder,Nootropics & Cognitive,true
+TL-043,na-selank-amidate-10mg,NA-Selank Amidate,10mg,N-acetyl Selank amidate — enhanced nootropic form,,Lyophilized Powder,Nootropics & Cognitive,true
+TL-043,na-selank-amidate-30mg,NA-Selank Amidate,30mg,N-acetyl Selank amidate — enhanced nootropic form,,Lyophilized Powder,Nootropics & Cognitive,true
+TL-044,adamax-10mg,Adamax,10mg,Selank-derived cognitive enhancement peptide,,Lyophilized Powder,Nootropics & Cognitive,true
+TL-045,pe-22-28-10mg,PE-22-28,10mg,Spadin-derived serotonin receptor modulator,,Lyophilized Powder,Nootropics & Cognitive,true
+TL-046,dsip-delta-sleep-inducing-peptide-5mg,DSIP,5mg,Delta sleep-inducing peptide (nonapeptide),62568-57-4,Lyophilized Powder,Nootropics & Cognitive,true
+TL-046,dsip-delta-sleep-inducing-peptide-10mg,DSIP,10mg,Delta sleep-inducing peptide (nonapeptide),62568-57-4,Lyophilized Powder,Nootropics & Cognitive,true
+TL-046,dsip-delta-sleep-inducing-peptide-15mg,DSIP,15mg,Delta sleep-inducing peptide (nonapeptide),62568-57-4,Lyophilized Powder,Nootropics & Cognitive,true
+TL-047,slu-pp-332-100mg-x-30-capsules,SLU-PP-332 Capsules,SLU-PP-332 100mg × 30 Capsules,ERRα/γ agonist — exercise mimetic (100mg capsule),,Capsules & Tablets,Nootropics & Cognitive,true
+TL-047,slu-pp-332-100mg-x-120-capsules,SLU-PP-332 Capsules,SLU-PP-332 100mg × 120 Capsules,ERRα/γ agonist — exercise mimetic (100mg capsule),,Capsules & Tablets,Nootropics & Cognitive,true
+TL-048,slu-pp-332-1mg-x-30-capsules,SLU-PP-332 Micro Capsules,SLU-PP-332 1mg × 30 Capsules,ERRα/γ agonist — low-dose 1mg capsule,,Capsules & Tablets,Nootropics & Cognitive,true
+TL-049,slu-pp-332-1mg-ml-30ml,SLU-PP-332 Solution,SLU-PP-332 1mg/mL 30mL,ERRα/γ agonist — liquid solution (1mg/mL),,Liquid Solutions,Nootropics & Cognitive,true
+TL-050,slu-pp-332-5mg-ml-30ml,SLU-PP-332 Solution 5mg,SLU-PP-332 5mg/mL 30mL,ERRα/γ agonist — liquid solution (5mg/mL),,Liquid Solutions,Nootropics & Cognitive,true
+TL-051,epitalon-10mg,Epitalon,10mg,Tetrapeptide Ala-Glu-Asp-Gly (telomere-supporting),307297-39-8,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-051,epitalon-50mg,Epitalon,50mg,Tetrapeptide Ala-Glu-Asp-Gly (telomere-supporting),307297-39-8,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-052,na-epitalon-10mg,NA-Epitalon,10mg,N-acetyl Epitalon amidate — enhanced form,,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-053,nad-500mg,NAD+,500mg,Nicotinamide adenine dinucleotide,53-84-9,Specialty Compounds,Longevity & Anti-Aging,true
+TL-053,nad-1000mg,NAD+,1000mg,Nicotinamide adenine dinucleotide,53-84-9,Specialty Compounds,Longevity & Anti-Aging,true
+TL-054,fox04-dri-10mg,FOXO4-DRI,10mg,FOXO4-p53 interaction disruptor — senolytic peptide,,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-055,pnc-27-30mg,PNC-27,30mg,p53-derived membrane-active peptide,,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-056,mots-c-10mg,MOTS-c,10mg,Mitochondria-derived peptide (MRLN-encoded),,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-056,mots-c-20mg,MOTS-c,20mg,Mitochondria-derived peptide (MRLN-encoded),,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-056,mots-c-40mg,MOTS-c,40mg,Mitochondria-derived peptide (MRLN-encoded),,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-057,ss-31-10mg,SS-31,10mg,Elamipretide — mitochondria-targeted tetrapeptide,936350-00-4,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-057,ss-31-25mg,SS-31,25mg,Elamipretide — mitochondria-targeted tetrapeptide,936350-00-4,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-057,ss-31-50mg,SS-31,50mg,Elamipretide — mitochondria-targeted tetrapeptide,936350-00-4,Lyophilized Powder,Longevity & Anti-Aging,true
+TL-058,thymosin-alpha-1-5mg,Thymosin Alpha-1,5mg,Thymic immunomodulatory polypeptide (28 aa),62304-98-7,Lyophilized Powder,Immune & Hormonal,true
+TL-058,thymosin-alpha-1-10mg,Thymosin Alpha-1,10mg,Thymic immunomodulatory polypeptide (28 aa),62304-98-7,Lyophilized Powder,Immune & Hormonal,true
+TL-059,thymulin-10mg,Thymulin,10mg,Thymic nonapeptide Zn-FTS immunomodulator,,Lyophilized Powder,Immune & Hormonal,true
+TL-060,ll-37-10mg,LL-37,10mg,Cathelicidin-derived antimicrobial & immunomodulatory peptide,154947-66-7,Lyophilized Powder,Immune & Hormonal,true
+TL-061,pt-141-10mg,PT-141,10mg,Bremelanotide — melanocortin receptor agonist,189691-06-3,Lyophilized Powder,Immune & Hormonal,true
+TL-062,kisspeptin-10-5mg,Kisspeptin-10,5mg,Hypothalamic decapeptide GnRH secretagogue,374683-26-8,Lyophilized Powder,Immune & Hormonal,true
+TL-062,kisspeptin-10-10mg,Kisspeptin-10,10mg,Hypothalamic decapeptide GnRH secretagogue,374683-26-8,Lyophilized Powder,Immune & Hormonal,true
+TL-063,gonadorelin-acetate,Gonadorelin Acetate,Gonadorelin Acetate,Gonadotropin-releasing hormone (GnRH) decapeptide,33515-09-2,Lyophilized Powder,Immune & Hormonal,true
+TL-064,oxytocin-8mg,Oxytocin,8mg,Nonapeptide hypothalamic neuropeptide hormone,50-56-6,Lyophilized Powder,Immune & Hormonal,true
+TL-064,oxytocin-10mg,Oxytocin,10mg,Nonapeptide hypothalamic neuropeptide hormone,50-56-6,Lyophilized Powder,Immune & Hormonal,true
+TL-065,kpv-5mg,KPV,5mg,α-MSH(11-13) tripeptide Lys-Pro-Val,,Lyophilized Powder,Immune & Hormonal,true
+TL-065,kpv-10mg,KPV,10mg,α-MSH(11-13) tripeptide Lys-Pro-Val,,Lyophilized Powder,Immune & Hormonal,true
+TL-066,ara-290-10mg,ARA-290,10mg,Cibinetide — non-erythropoietic EPO analog,,Lyophilized Powder,Immune & Hormonal,true
+TL-067,vip-5mg,VIP,5mg,Vasoactive intestinal peptide (28 aa),,Lyophilized Powder,Immune & Hormonal,true
+TL-067,vip-10mg,VIP,10mg,Vasoactive intestinal peptide (28 aa),,Lyophilized Powder,Immune & Hormonal,true
+TL-068,bam-15-30mg-ml-30ml,BAM-15,30mg/mL 30mL,Mitochondrial protonophore uncoupler (30mg/mL),,Liquid Solutions,Energy & Metabolic,true
+TL-069,bam-15-50mg-ml-30ml,BAM-15 High Concentration,BAM-15 50mg/mL 30mL,Mitochondrial protonophore uncoupler (50mg/mL),,Liquid Solutions,Energy & Metabolic,true
+TL-070,aicar-50mg,AICAR,50mg,5-Aminoimidazole-4-carboxamide ribonucleotide (AMPK activator),2627-69-2,Lyophilized Powder,Energy & Metabolic,true
+TL-071,glutathione-200mg,Glutathione,200mg,L-γ-Glutamyl-L-cysteinylglycine master antioxidant,70-18-8,Lyophilized Powder,Energy & Metabolic,true
+TL-071,glutathione-600mg,Glutathione,600mg,L-γ-Glutamyl-L-cysteinylglycine master antioxidant,70-18-8,Lyophilized Powder,Energy & Metabolic,true
+TL-071,glutathione-1500mg,Glutathione,1500mg,L-γ-Glutamyl-L-cysteinylglycine master antioxidant,70-18-8,Lyophilized Powder,Energy & Metabolic,true
+TL-072,l-carnitine-400mg-ml,L-Carnitine Solution,L-Carnitine 400mg/mL,L-carnitine liquid (400mg/mL),541-15-1,Liquid Solutions,Energy & Metabolic,true
+TL-073,l-carnitine-600mg-ml,L-Carnitine Solution (600mg/mL),L-Carnitine 600mg/mL,L-carnitine liquid (600mg/mL),541-15-1,Liquid Solutions,Energy & Metabolic,true
+TL-074,l-carnitine-5-pack-600mg,L-Carnitine 5-Pack,L-Carnitine 600mg 5-Pack,L-carnitine 600mg/mL — 5-bottle bundle,541-15-1,Liquid Solutions,Energy & Metabolic,true
+TL-075,methylene-blue-10mg-ml-50ml,Methylene Blue,10mg/mL 50mL,Phenothiazine mitochondrial electron carrier,61-73-4,Liquid Solutions,Energy & Metabolic,true
+TL-076,o-304-atx-304-100mg-x-60-capsules,O-304 (ATX-304) Capsules,O-304 100mg × 60 Capsules,Pan-AMPK activator (ATX-304) — oral capsule,,Capsules & Tablets,Energy & Metabolic,true
+TL-077,adipotide-fttp-5mg,Adipotide (FTPP),Adipotide 5mg,PROHIBITIN-targeted apoptosis-inducing peptide (FTPP),,Lyophilized Powder,Energy & Metabolic,true
+TL-077,adipotide-fttp-10mg,Adipotide (FTPP),Adipotide 10mg,PROHIBITIN-targeted apoptosis-inducing peptide (FTPP),,Lyophilized Powder,Energy & Metabolic,true
+TL-078,bronchogen-20mg,Bronchogen,20mg,Khavinson bronchial tissue bioregulator Ala-Glu-Asp-Leu,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-079,cardiogen-20mg,Cardiogen,20mg,Khavinson cardiac tissue bioregulator Ala-Glu-Asp-Arg,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-080,cartalax-20mg,Cartalax,20mg,Khavinson cartilage bioregulator Ala-Glu-Asp-Gly,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-081,chonluten-20mg,Chonluten,20mg,Khavinson colon tissue bioregulator Gly-Glu-Pro,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-082,cortagen-20mg,Cortagen,20mg,Khavinson cortex bioregulator Ala-Glu-Asp-Pro,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-083,crystagen-20mg,Crystagen,20mg,Khavinson lens tissue bioregulator Lys-Asp-Glu,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-084,livagen-20mg,Livagen,20mg,Khavinson hepatic tissue bioregulator Lys-Glu-Asp-Ala,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-085,ovagen-20mg,Ovagen,20mg,Khavinson ovarian tissue bioregulator Glu-Asp-Leu,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-086,pancragen-20mg,Pancragen,20mg,Khavinson pancreatic bioregulator Lys-Glu-Asp,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-087,pinealon-10mg,Pinealon,10mg,Khavinson pineal gland bioregulator Glu-Asp-Arg,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-087,pinealon-20mg,Pinealon,20mg,Khavinson pineal gland bioregulator Glu-Asp-Arg,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-088,prostamax-20mg,Prostamax,20mg,Khavinson prostate bioregulator Lys-Glu-Asp-Gly,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-089,testagen-20mg,Testagen,20mg,Khavinson testicular bioregulator Lys-Glu-Asp-Gly,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-090,thymogen-20mg,Thymogen,20mg,Khavinson thymic dipeptide Glu-Trp immunomodulator,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-091,vesilute-20mg,Vesilute,20mg,Khavinson vascular tissue bioregulator Lys-Glu,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-092,vesugen-20mg,Vesugen,20mg,Khavinson vascular bioregulator Lys-Glu-Asp,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-093,vilon-20mg,Vilon,20mg,Khavinson thymic dipeptide Lys-Glu bioregulator,,Lyophilized Powder,Khavinson Bioregulators,true
+TL-094,bacteriostatic-water-30ml,Bacteriostatic Water,30mL,0.9% benzyl alcohol multi-draw reconstitution solvent,,Reconstitution Solutions,Other,true
+TL-095,usp-bacteriostatic-water-30ml,Bacteriostatic Water USP,30mL,USP-grade 0.9% benzyl alcohol reconstitution solvent,,Reconstitution Solutions,Other,true
+TL-096,ru-58841-50mg-x-30ml,RU-58841,50mg/mL 30mL,Non-steroidal androgen receptor antagonist topical solution,154992-24-2,Specialty Compounds / Liquid Solutions,Hair & Specialty,true
+TL-096,ru-58841-50mg-x-60ml,RU-58841,50mg/mL 60mL,Non-steroidal androgen receptor antagonist topical solution,154992-24-2,Specialty Compounds / Liquid Solutions,Hair & Specialty,true

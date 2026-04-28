@@ -3,7 +3,7 @@ import "./globals.css"
 import Navigation from "@/components/navigation"
 import Footer from "@/components/footer"
 
-const SITE_URL = "https://peptidesclav.com"
+const SITE_URL = "https://www.peptidesclav.com"
 const DEFAULT_TITLE = "Buy Research Peptides Online — ≥98% Purity, Free US Shipping $200+"
 const DEFAULT_DESC =
   "PeptidesClav carries 95+ research-grade peptide vials — every vial ≥98% HPLC purity with original lot CoA. Free US shipping on orders over $200. Same-day shipping before 2pm EST."

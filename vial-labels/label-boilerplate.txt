@@ -1,0 +1,89 @@
+PEPTIDESCLAV.COM — VIAL LABEL BOILERPLATE
+================================================================
+Token format for variable fields: {{TOKEN}}
+
+────────────────────────────────────────────────────────────────
+FRONT FACE — primary label
+────────────────────────────────────────────────────────────────
+
+PEPTIDESCLAV
+{{PRODUCT_NAME}}
+{{SIZE}}                                    [e.g. "10 mg" / "30 mL"]
+
+{{CHEMICAL_NAME}}
+CAS {{CAS_NUMBER}}                          [omit line if no CAS]
+SKU {{SKU}}  ·  Lot {{LOT}}
+
+────────────────────────────────────────────────────────────────
+BACK / WRAP-AROUND PANEL — required text
+────────────────────────────────────────────────────────────────
+
+FOR LABORATORY RESEARCH USE ONLY.
+Not for human consumption, veterinary use, household use,
+or any in-vivo application. Must be 18+ to purchase.
+
+Storage:
+  Lyophilized powder — store at 2–8 °C; for long-term storage
+  keep at –20 °C. Once reconstituted, store at 2–8 °C and use
+  within 14 days. Protect from light and moisture.
+
+Reconstitution (lyophilized vials):
+  Add bacteriostatic water (0.9% benzyl alcohol) by slow
+  injection along the vial wall. Do not shake — swirl gently
+  until fully dissolved. Use sterile technique.
+
+Manufactured: {{MFG_DATE}}    Expiry: {{EXP_DATE}}
+Lot: {{LOT}}
+Purity: ≥98% by HPLC — CoA included with shipment.
+
+Manufactured for PeptidesClav by Phiogen.
+peptidesclav.com  ·  support@peptidesclav.com
+
+────────────────────────────────────────────────────────────────
+VARIANTS BY FORMAT — choose the matching block per SKU
+────────────────────────────────────────────────────────────────
+
+[A] LYOPHILIZED POWDER (default block above — applies to most peptide vials)
+
+[B] CAPSULES & TABLETS — replace Reconstitution block with:
+  Each capsule/tablet contains {{DOSE_PER_UNIT}}.
+  {{COUNT_PER_BOTTLE}} units per bottle.
+  Store at 15–25 °C in a dry place. Keep desiccant in bottle.
+
+[C] LIQUID SOLUTIONS (e.g. BAM-15, L-Carnitine, RU-58841) — replace block with:
+  Pre-dissolved solution at {{CONCENTRATION}} (e.g. 30 mg/mL).
+  Total volume: {{VOLUME}} (e.g. 30 mL).
+  Store at 2–8 °C. Do not freeze. Protect from light.
+  Use sterile technique when withdrawing.
+
+[D] PEPTIDE BLENDS (Cagri-Sema, BPC/TB-500, IPA/CJC, GLOW, KLOW, etc.) — add line:
+  Pre-mixed blend: {{COMPONENT_A_NAME}} {{COMPONENT_A_MG}}
+                 + {{COMPONENT_B_NAME}} {{COMPONENT_B_MG}} per vial.
+
+[E] BACTERIOSTATIC WATER — replace Reconstitution block with:
+  Sterile water with 0.9% benzyl alcohol preservative.
+  For laboratory reconstitution of lyophilized peptides only.
+  Do not inject. Multi-draw — use sterile technique. 30 mL fill.
+  Store at 15–25 °C. Discard 28 days after first puncture.
+
+────────────────────────────────────────────────────────────────
+ICONOGRAPHY / SYMBOLS (recommended on back panel)
+────────────────────────────────────────────────────────────────
+- ⚠  RUO  (Research Use Only — yellow triangle + text)
+- ❄  Storage temperature symbol with range
+- 🔬  Lab flask icon
+- 18+ purchase-age icon
+- QR code → peptidesclav.com/products/{{VARIANT_SLUG}}
+
+────────────────────────────────────────────────────────────────
+DATA SOURCE
+────────────────────────────────────────────────────────────────
+Per-vial fields ({{PRODUCT_NAME}}, {{SIZE}}, {{CHEMICAL_NAME}},
+{{CAS_NUMBER}}, {{SKU}}, {{VARIANT_SLUG}}) come from
+vial-labels.csv / vial-labels.json (137 rows, one per vial size).
+
+Lot, mfg date, exp date are batch-specific — fill from production.
+
+KNOWN GAPS in source data (need manual fill before printing):
+- Gonadorelin Acetate (TL-063): no mg size in catalog —
+  confirm vial fill weight with supplier before label run.

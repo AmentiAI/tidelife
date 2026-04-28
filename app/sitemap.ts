@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next"
 import { products, categories } from "@/lib/peptide-data"
 
-const SITE = "https://peptidesclav.com"
+const SITE = "https://www.peptidesclav.com"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date()
